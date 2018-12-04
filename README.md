@@ -5,7 +5,7 @@
 * Zakończyły się prace nad książką Mastering Ethereum
    https://github.com/ethereumbook/ethereumbook
 
-* 12 grudnia: Impreza programistów Hack4Climate - wydarzenie otwarte - szczegóły będą dostępne na meetup
+* 12 grudnia 2018: Impreza programistów Hack4Climate - wydarzenie otwarte - szczegóły będą dostępne na meetup
 
 * Sir Tim Berners-Lee #websummit: https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web
 
