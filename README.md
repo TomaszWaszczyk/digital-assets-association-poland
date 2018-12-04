@@ -1,4 +1,4 @@
-# Silesia Blockchain Meetup #6 - 4.12.2018 - https://www.meetup.com/Silesia-Blockchain-Meetup
+# Silesia Blockchain Meetup #6 - 4.12.2018
 
 1. Hackathon: 10-14 grudnia https://hack4climate.org - 2 miejsca - wydarzenie zamknięte (English must have, coding skills must have)
 
