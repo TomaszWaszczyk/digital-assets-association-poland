@@ -4,9 +4,6 @@
 
 * Maciej Oniszczuk
 
-Mamy wielką przyjemność zaprosić na 2. edycję naszej konferencji w temacie biznesu za granicą w dniu 3 października 2018 r. w Hotelu Golden Tulip w Warszawie.
-Tematem spotkania z polskimi i zagranicznymi ekspertami będzie Malta oraz Cypr: inwestycje, spółki, rezydencja podatkowa oraz nieruchomości.
-
 Malta
 
 Malta jest określana europejskim centrum usług korporacyjnych. Najważniejszą jej zaletą jest fakt, że maltański system podatkowy oferuje między innymi:
