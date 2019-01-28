@@ -42,3 +42,54 @@ https://mashable.com/video/tim-berners-lee-new-decentralized-internet-solid-inru
 * Ethereum 2.0 
 
 https://github.com/ethereum/eth2.0-specs
+
+
+
+
+
+
+
+[PL]
+1. Co to jest blockchain?
+2. Historia i motywacje powstania tej technologii.
+3. Praktyczne zastosowanie blockchain.
+4. Q&A
+
+Natomiast po krótkiej przerwie Aleksandra Kopeć opowie o:
+
+[PL]
+ICO z punktu widzenia polskiego prawa.
+-ICO jako alternatywny sposób pozyskiwania kapitału
+-Initial Coin Offering a Pierwsza oferta Publiczna- podobieństwa i różnice
+-kwalifikacja prawna ICO na świecie
+-kwestie odpowiedzialności i właściwości prawa
+
+Aleksandra Kopeć, studentka V roku prawa na Wydziale Prawa i Administracji Uniwersytetu Śląskiego, autorka strony internetowej poświęconej prawnym aspektom kryptowalut www.facebook.com/prawokryptowalut Na co dzień zdobywa doświadczenie z zakresu prawa rynku kapitałowego w kancelarii Sadkowski i Wspólnicy.
+
+Po dwóch prezentacjach będzie Gość Specjalny, projekt Decred https://www.decred.org/. Prezentacja będzie podzielona na dwie części:
+- wprowadzenie
+- developer Decred opowie o stosie technologicznym oraz projekcie od stricte technologicznego punktu widzenia (ze względu na brak znajomości języka polskiego ta część będzie po angielsku)
+
+[EN]
+Projekt Decred opowie o sobie!
+Goście z projektu Decred przybliżą nam swoją wizję kryptowalut i technologii blockchain jako demokratyzującego narzędzia, opowiedzą o misji, założeniach, dotychczasowych osiągnięciach, oraz planach na przyszłość swojego projektu, a także opiszą w jaki sposób ich projekt stara się osiągnąć pierwszą, prawdziwą zdecentralizowaną autonomię wśród projektów blockchain bazując i budując na ideałach Bitcoina i Satoshiego Nakamoto.
+
+Jeśli jesteś zainteresowany spotkaniem i mam pytanie pisz: tomasz @ waszczyk . com
+
+• What to bring
+
+• Important to know
+
+W związku z licznymi pytaniami chciałbym poinformować, że spotkanie jest darmowe. A dokładny adres to:
+
+Katowice, Francuska 70, Budynek Urzędu Miasta Katowice
+
+Zdjęcie budynku: http://fotopolska.eu/763880,foto.html?o=b1860&p=1
+
+Wejście do budynku od strony autostrady A4.
+
+W sali konferencyjnej na pierwszym piętrze. Dla ułatwienia, nie ma żadnej innej sali konferencyjnej na pierwszym piętrze w budynku.
+
+Z pozdrowieniami,
+
+Tomasz Waszczyk
