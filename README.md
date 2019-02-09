@@ -26,6 +26,21 @@ w dowolnym momencie. Osobom chcącym zmienić swoją rezydencję podatkową i w 
 
 Maciej Oniszczuk - Prezes Zarządu Oncapital sp. z o.o.- www.oniszczuk.com. Ukończył studia jednolite magisterskie na kierunku Prawo na Wydziale Prawa, Administracji i Ekonomii Uniwersytetu Wrocławskiego. Jest doktorantem w Kolegium Prawa Akademii Leona Koźmińskiego w Warszawie.Swoją karierę zawodową rozpoczął od pracy w PriceWaterhouseCoopers we Wrocławiu. Jest członkiem Rad Nadzorczych w licznych spółkach akcyjnych, a także był jedną z osób odpowiedzialnych za obsługę prawną spółek debiutujących na rynku NewConnect. Założyciel fundacji probono im. Juliusza Stanisława Harbuta. Działalność zawodową skupia na szeroko rozumianym prawie gospodarczym, w tym w szczególności prawie handlowym. Zajmuje się również sprawami z zakresu postępowania cywilnego oraz doradza przedsiębiorcom w ich bieżącej działalności. Ma duże doświadczenie w reprezentowaniu Klientów podczas inwestycji na całym świecie, w tym w rajach podatkowych.
 
+PS. Recording from DevCon:
+
+Also, following videos might be of interest:
+- devcon4 (https://slideslive.com/38911427/devcon4-day-1 ; https://slideslive.com/38911452/devcon4-day2 ; https://slideslive.com/38911572/devcon4-day-3)
+
+- devcon3 (https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
+
+- devcon2 (https://www.youtube.com/playlist?list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
+
+- devcon1 (https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
+
+- and the videos of previous meetups (https://www.youtube.com/playlist?list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi)
+
+
+
 # Silesia Blockchain Meetup #6 - 4.12.2018
 
 * Hackathon: 10-14 grudnia https://hack4climate.org - 2 miejsca - wydarzenie zamknięte (English must have, coding skills must have)
