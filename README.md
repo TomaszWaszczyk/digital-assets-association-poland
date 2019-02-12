@@ -39,7 +39,7 @@ Also, following videos might be of interest:
 
 - and the videos of previous meetups (https://www.youtube.com/playlist?list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi)
 
-
+- how to setup development environment: https://fosdem.org/2019/schedule/event/nimbus/
 
 # Silesia Blockchain Meetup #6 - 4.12.2018
 
