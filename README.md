@@ -41,6 +41,8 @@ Also, following videos might be of interest:
 
 - how to setup development environment: https://fosdem.org/2019/schedule/event/nimbus/
 
+State of Ethereum 2.0: https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit
+
 # Silesia Blockchain Meetup #6 - 4.12.2018
 
 * Hackathon: 10-14 grudnia https://hack4climate.org - 2 miejsca - wydarzenie zamknięte (English must have, coding skills must have)
