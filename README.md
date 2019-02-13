@@ -11,9 +11,7 @@ Pasjonat technologii blockchainowej od 2013 roku, niezależny konsultant, autor 
 
 W drugiej części spotkania odbędzie się panel dyskusjny gdzie wspólnie z Panem Krzysztofem porozmawiamy o możliwych kierunkach rozwoju technologii rozproszonych rejestrów. W tej części odbędzie się również KONKURS, dlatego zapraszam do aktywności audytorium - najbardziej aktywne osoby otrzymają książkę!
 
-Zachęcam do pozostania po prezentacjach, aby porozmawiać w luźnej atmosferze przy piwie.
-
-[UWAGI] Chcesz napisać co Ci przeszkadza, co i jak możemy poprawić, a może chcesz podziękować za naszą działalność: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new lub daj lajka https://www.facebook.com/SilesiaBlockchainMeetup/ i napisz coś pozytywnego!
+[UWAGI] Chcesz napisać co Ci przeszkadza, co i jak możemy poprawić, a może chcesz podziękować za naszą działalność: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new lub daj proszę lajka https://www.facebook.com/SilesiaBlockchainMeetup/ oraz napisz coś pozytywnego!
 
 Proszę o wypełnienie ANKIETY, będę wdzięczny za konstruktywne zwrócenie uwagi, ale również pozytywy!
 
