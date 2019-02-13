@@ -1,3 +1,32 @@
+# Silesia Blockchain Meetup #8 - Premiera książki "ABC Blockchaina", KONKURS - 27.02.2019
+
+* Krzysztof Bielecki
+
+* Tomasz Waszczyk
+
+"ABC blockchaina", czyli w jaki sposób mówić o blockchainie i kryptowalutach. Spotkanie dla początkujących i zaawansowanych. + bonus: nowa era anonimowości w blockchainie, czyli sekrety protokołu Mimblewimble
+
+Krzysztof Bielecki
+Pasjonat technologii blockchainowej od 2013 roku, niezależny konsultant, autor książki "ABC blockchaina", która aspiruje do stania się elementarzem tego tematu w Polsce
+
+W drugiej części spotkania odbędzie się panel dyskusjny gdzie wspólnie z Panem Krzysztofem porozmawiamy o możliwych kierunkach rozwoju technologii rozproszonych rejestrów. W tej części odbędzie się również KONKURS, dlatego zapraszam do aktywności audytorium - najbardziej aktywne osoby otrzymają książkę!
+
+Zachęcam do pozostania po prezentacjach, aby porozmawiać w luźnej atmosferze przy piwie.
+
+Na Waszą prośbę stworzyłem jedno miejsce gdzie będą dostępne wszystkie prezentacje oraz materiały z naszych spotkań: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup Pod tym linkiem po każdym spotkaniu będę umieszać pliki z prezentacjami, ewentualne materiały gdzie można sobie poczytać więcej o danym zagadnieniu.
+
+[UWAGI] Chcesz napisać co Ci przeszkadza, co i jak możemy poprawić, a może chcesz podziękować za naszą działalność: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new lub daj lajka https://www.facebook.com/SilesiaBlockchainMeetup/ i napisz coś pozytywnego!
+
+Proszę o wypełnienie ANKIETY, będę wdzięczny za konstruktywne zwrócenie uwagi, ale również pozytywy!
+
+[OFFTOP] Ostatnio stworzyłem miejsce w Internecie z ogłoszeniami darmowych koncertów muzyki klasycznej, obecnie koncerty są z terenu Śląska, ale docelowo będą z całej Polski, zapraszam w imieniu https://concertogo.pl/ ! Parę osób do mnie pisało w celu spotkania się, niestety obecnie jestem bardzo zajęty i jedyne miejsce gdzie można mnie spotkać to na jednym z koncertów który jest wymieniony (wystarczy zapytać czy akurat na ten na który się wybieracie będę obecny).
+
+Linki:
+
+1. https://www.toptalks.com/programs/stanford-blockchain-conference-2019
+
+
+
 # Silesia Blockchain Meetup #7 - 16.01.2019
 
 * Marcin Rabenda
