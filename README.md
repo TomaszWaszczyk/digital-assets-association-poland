@@ -13,8 +13,6 @@ W drugiej części spotkania odbędzie się panel dyskusjny gdzie wspólnie z Pa
 
 Zachęcam do pozostania po prezentacjach, aby porozmawiać w luźnej atmosferze przy piwie.
 
-Na Waszą prośbę stworzyłem jedno miejsce gdzie będą dostępne wszystkie prezentacje oraz materiały z naszych spotkań: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup Pod tym linkiem po każdym spotkaniu będę umieszać pliki z prezentacjami, ewentualne materiały gdzie można sobie poczytać więcej o danym zagadnieniu.
-
 [UWAGI] Chcesz napisać co Ci przeszkadza, co i jak możemy poprawić, a może chcesz podziękować za naszą działalność: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new lub daj lajka https://www.facebook.com/SilesiaBlockchainMeetup/ i napisz coś pozytywnego!
 
 Proszę o wypełnienie ANKIETY, będę wdzięczny za konstruktywne zwrócenie uwagi, ale również pozytywy!
