@@ -4,6 +4,10 @@
 
 * Tomasz Waszczyk
 
+* Kamil Jarzombek
+
+Prowadzący: Tomasz Drzewiecki
+
 "ABC blockchaina", czyli w jaki sposób mówić o blockchainie i kryptowalutach. Spotkanie dla początkujących i zaawansowanych. + bonus: nowa era anonimowości w blockchainie, czyli sekrety protokołu Mimblewimble
 
 Krzysztof Bielecki
