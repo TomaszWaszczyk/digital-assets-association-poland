@@ -1,3 +1,36 @@
+# Silesia Blockchain Meetup #9 - Aeternity oraz Rozliczkryptowaluty.pl - 18.03.2019
+
+* Przemysław Thomann
+
+* Łukasz Skonieczny
+
+Aeternity - blockchain 3.0 Wprowadzenie do Aeternity - platformy Blockchain trzeciej generacji. Prezentacja projektu i ogólnych koncepcji stojących za Aeternity + wgląd do technologii, narzędzi i rozwiązań ekosystemu Aeternity.
+
+Przemysław Thomann Entuzjasta branży krypto, Web & Blockchain developer z aspiracjami startupowymi. Ostatni rok spędził na rozwijaniu platformy MobyCrypt (https://mobycrypt.com), w założeniu będącą centrum tokenizacji i kryptowalut. Ambasador Aeternity, zaangażowany jako członek społeczności projektu. Rozwija nagrodzony przez Aeternity eksplorator bloków: https//aemonitor.mobycrypt.com W styczniu 2019 miał okazję uczestniczyć z członkami teamu Aeternity w Aepps Summit w Turcji - wydarzeniu dedykowanemu rozwijaniu aplikacji opartych o Aeternity. Blog i więcej info: https://pthomann.pl 
+
+ENG: Aeternity - blockchain 3.0 Introduction to Aeternity (https://aeternity.com/) - third generation Blockchain platform. Presentation of project and general ideas standing behind Aeternity + insight of the technology, tools and solutions of Aeternity ecosystem. Bio: Przemysław Thomann Crypto enthusiast, Web & Blockchain developer with startup aspirations. Last year spent on developing MobyCrypt platform (https://mobycrypt.com) - with the initial idea of creating tokenization & cryptocurrency centre. Aeternity ambasador, engaged as the community member of the project. Develops the awarded by Aeternity team blocks explorer: https://aemonitor.mobycrypt.com In January 2019 had the opporutnity to take part together with Aeternity team members in Aepps Summit in Turkey - event dedicated to application development based on Aeternity. Blog and more info: https://pthomann.pl
+
+
+Podczas prezentacji zostaną poruszone tematy powiązane z rozliczaniem kryptowalut w Polsce dla osób fizycznych.
+
+Zagadnienia:
+1. Kryptowaluty do 2018 roku
+ - Kryptowaluty a prawo.
+ - Jak traktować hard-forki, środki z programów partnerskich, transakcje na rynku krypto-krypto?
+ - Prowizja przychodem?
+ - W jaki sposób należy rozliczyć dochód/stratę za rok 2018?
+ - Strata - czy muszę wykazać? Czy pomniejszy moje podatki?
+2. Zmiany w prawie w zakresie kryptowalut obowiązujące od roku 2019
+ - Omówienie zmian.
+ - Dlaczego stable-coiny mogą pełnić użyteczną rolę względem podatków?
+ - Dalsze problemy pomimo zmian.
+3. O systemie rozliczkryptowaluty.pl
+ - W jaki sposób narzędzie ułatwia rozliczanie?
+ - W jaki sposób wypełnić formularz PIT na podstawie raportu?
+
+Łukasz Skonieczny – przedstawiciel serwisu [rozliczkryptowaluty.pl](https://rozliczkryptowaluty.pl). Pasjonat nowych technologii, przedsiębiorca, programista i automatyk. Niejasności prawne i problemy związane z kryptowalutami w świetle podatków skłoniły go do zgłębienia tematu rozliczania kryptowalut. Ostatecznie, w odpowiedzi na brak dostępnych narzędzi, przy współpracy z [Grupą Profit Plus](https://gppsa.pl) postanowił stworzyć system do wspomagania rozliczeń transakcji kryptowalutowych [rozliczkryptowaluty.pl](https://rozliczkryptowaluty.pl).
+
+
 # Silesia Blockchain Meetup #8 - Premiera książki "ABC Blockchaina", KONKURS - 27.02.2019
 
 * Krzysztof Bielecki
