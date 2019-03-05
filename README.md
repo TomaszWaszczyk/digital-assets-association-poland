@@ -30,6 +30,9 @@ Zagadnienia:
 
 Łukasz Skonieczny – przedstawiciel serwisu [rozliczkryptowaluty.pl](https://rozliczkryptowaluty.pl). Pasjonat nowych technologii, przedsiębiorca, programista i automatyk. Niejasności prawne i problemy związane z kryptowalutami w świetle podatków skłoniły go do zgłębienia tematu rozliczania kryptowalut. Ostatecznie, w odpowiedzi na brak dostępnych narzędzi, przy współpracy z [Grupą Profit Plus](https://gppsa.pl) postanowił stworzyć system do wspomagania rozliczeń transakcji kryptowalutowych [rozliczkryptowaluty.pl](https://rozliczkryptowaluty.pl).
 
+Na naszych spotkania obowiązuje Berliński Kodeks Postępowania. Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w tworzeniu przeżyć, które będą bezpieczne i pozytywne dla każdego.
+
+Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologią, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o kontakt z organizatorami.
 
 ## Linki:
 Aeternity: https://www.pivotaltracker.com/n/projects/2124891
