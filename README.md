@@ -43,6 +43,8 @@ https://rozliczkryptowaluty.pl
 
 ## Inne:
 
+0. [Prośba o wsparcie] Będziemy wdzięczny za wsparcie (ETH): 0x564b51542a4d4f185318918fd0c6049086e4a605
+
 1. Co się podobało podczas spotkania?
 
 2. Co się nie podobało podczas spotkania?
