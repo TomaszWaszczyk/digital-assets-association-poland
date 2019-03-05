@@ -11,6 +11,20 @@ Przemysław Thomann Entuzjasta branży krypto, Web & Blockchain developer z aspi
 ENG: Aeternity - blockchain 3.0 Introduction to Aeternity (https://aeternity.com/) - third generation Blockchain platform. Presentation of project and general ideas standing behind Aeternity + insight of the technology, tools and solutions of Aeternity ecosystem. Bio: Przemysław Thomann Crypto enthusiast, Web & Blockchain developer with startup aspirations. Last year spent on developing MobyCrypt platform (https://mobycrypt.com) - with the initial idea of creating tokenization & cryptocurrency centre. Aeternity ambasador, engaged as the community member of the project. Develops the awarded by Aeternity team blocks explorer: https://aemonitor.mobycrypt.com In January 2019 had the opporutnity to take part together with Aeternity team members in Aepps Summit in Turkey - event dedicated to application development based on Aeternity. Blog and more info: https://pthomann.pl
 
 
+## Agenda:
+
+18.15 Rejestracja uczestników spotkania
+
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
+18.35 Prezentacja książki "ABC Blockchaina oraz MimbleWimble", Łukasz Skonieczny
+19.00 Q&A
+
+19.05 Aeternity, Przemysław Thomann
+
+20.30 Zakończenie spotkania oraz networking, after kawa i/lub piwo.
+
+
 Podczas prezentacji zostaną poruszone tematy powiązane z rozliczaniem kryptowalut w Polsce dla osób fizycznych.
 
 Zagadnienia:
