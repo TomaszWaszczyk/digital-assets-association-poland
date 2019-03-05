@@ -17,7 +17,8 @@ ENG: Aeternity - blockchain 3.0 Introduction to Aeternity (https://aeternity.com
 
 18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
 
-18.35 Prezentacja książki "ABC Blockchaina oraz MimbleWimble", Łukasz Skonieczny
+18.35 rozliczkryptowaluty.pl - rozliczanie podatku z kryptowalut w Polsce, Łukasz Skonieczny
+
 19.00 Q&A
 
 19.05 Aeternity, Przemysław Thomann
