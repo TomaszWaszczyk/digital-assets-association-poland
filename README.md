@@ -35,7 +35,11 @@ Na naszych spotkania obowiązuje Berliński Kodeks Postępowania. Zapraszamy wsz
 Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologią, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o kontakt z organizatorami.
 
 ## Linki:
+
 Aeternity: https://www.pivotaltracker.com/n/projects/2124891
+
+https://rozliczkryptowaluty.pl
+
 
 ## Inne:
 
