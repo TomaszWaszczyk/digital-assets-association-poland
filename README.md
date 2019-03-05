@@ -25,9 +25,7 @@ ENG: Aeternity - blockchain 3.0 Introduction to Aeternity (https://aeternity.com
 20.30 Zakończenie spotkania oraz networking, after kawa i/lub piwo.
 
 
-Podczas prezentacji zostaną poruszone tematy powiązane z rozliczaniem kryptowalut w Polsce dla osób fizycznych.
-
-Zagadnienia:
+Podczas prezentacji zostaną poruszone tematy powiązane z rozliczaniem kryptowalut w Polsce dla osób fizycznych:
 1. Kryptowaluty do 2018 roku
  - Kryptowaluty a prawo.
  - Jak traktować hard-forki, środki z programów partnerskich, transakcje na rynku krypto-krypto?
