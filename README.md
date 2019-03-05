@@ -40,6 +40,10 @@ Aeternity: https://www.pivotaltracker.com/n/projects/2124891
 
 https://rozliczkryptowaluty.pl
 
+https://www.facebook.com/SilesiaBlockchainMeetup/
+
+Nakarmienie duszy: https://concertogo.pl/ ;-)
+
 
 ## Inne:
 
