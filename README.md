@@ -59,6 +59,8 @@ Nakarmienie duszy: https://concertogo.pl/ ;-)
 
 https://www.pivotaltracker.com/n/projects/2124891
 
+https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5
+
 
 ## Inne:
 
