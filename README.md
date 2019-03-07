@@ -61,6 +61,7 @@ https://www.pivotaltracker.com/n/projects/2124891
 
 https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5
 
+Why Erlang in Aeternity @Code Sync: https://www.youtube.com/watch?v=XLdoEoZb6dY
 
 ## Inne:
 
