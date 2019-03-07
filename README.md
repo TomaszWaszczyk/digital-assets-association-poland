@@ -57,6 +57,8 @@ https://www.facebook.com/SilesiaBlockchainMeetup/
 
 Nakarmienie duszy: https://concertogo.pl/ ;-)
 
+https://www.pivotaltracker.com/n/projects/2124891
+
 
 ## Inne:
 
