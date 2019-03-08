@@ -65,6 +65,8 @@ Why Erlang in Aeternity @Code Sync: https://www.youtube.com/watch?v=XLdoEoZb6dY
 
 Ulf Wiger - Challenges and Advantages of Using Erlang in Cryptocurrencies: https://www.youtube.com/watch?v=Y7g0pEEjbnA
 
+Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.youtube.com/watch?v=I4_xX_Zs2eE
+
 ## Inne:
 
 0. [Prośba o wsparcie] Będziemy wdzięczny za wsparcie (ETH): 0x564b51542a4d4f185318918fd0c6049086e4a605
