@@ -1,10 +1,10 @@
 # Silesia Blockchain Meetup #9 - Aeternity oraz Rozliczkryptowaluty.pl - 18.03.2019
 
-* Przemysław Thomann
+* Przemysław Thomann - https://twitter.com/_pthomann
 
 * Łukasz Skonieczny
 
-* Michał Zajda
+* Michał Zajda - https://twitter.com/michalzajda
 
 Aeternity - blockchain 3.0 Wprowadzenie do Aeternity - platformy Blockchain trzeciej generacji. Prezentacja projektu i ogólnych koncepcji stojących za Aeternity + wgląd do technologii, narzędzi i rozwiązań ekosystemu Aeternity.
 
