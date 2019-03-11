@@ -59,6 +59,8 @@ https://rozliczkryptowaluty.pl
 
 https://www.facebook.com/SilesiaBlockchainMeetup/
 
+https://www.meetup.com/Silesia-Blockchain-Meetup/
+
 Nakarmienie duszy: https://concertogo.pl/ ;-)
 
 https://www.pivotaltracker.com/n/projects/2124891
