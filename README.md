@@ -4,9 +4,13 @@
 
 * Łukasz Skonieczny
 
+* Michał Zajda
+
 Aeternity - blockchain 3.0 Wprowadzenie do Aeternity - platformy Blockchain trzeciej generacji. Prezentacja projektu i ogólnych koncepcji stojących za Aeternity + wgląd do technologii, narzędzi i rozwiązań ekosystemu Aeternity.
 
-Przemysław Thomann Entuzjasta branży krypto, Web & Blockchain developer z aspiracjami startupowymi. Ostatni rok spędził na rozwijaniu platformy MobyCrypt (https://mobycrypt.com), w założeniu będącą centrum tokenizacji i kryptowalut. Ambasador Aeternity, zaangażowany jako członek społeczności projektu. Rozwija nagrodzony przez Aeternity eksplorator bloków: https//aemonitor.mobycrypt.com W styczniu 2019 miał okazję uczestniczyć z członkami teamu Aeternity w Aepps Summit w Turcji - wydarzeniu dedykowanemu rozwijaniu aplikacji opartych o Aeternity. Blog i więcej info: https://pthomann.pl 
+Przemysław Thomann - entuzjasta branży krypto, Web & Blockchain developer z aspiracjami startupowymi. Ostatni rok spędził na rozwijaniu platformy MobyCrypt (https://mobycrypt.com), w założeniu będącą centrum tokenizacji i kryptowalut. Ambasador Aeternity, zaangażowany jako członek społeczności projektu. Rozwija nagrodzony przez Aeternity eksplorator bloków: https//aemonitor.mobycrypt.com W styczniu 2019 miał okazję uczestniczyć z członkami teamu Aeternity w Aepps Summit w Turcji - wydarzeniu dedykowanemu rozwijaniu aplikacji opartych o Aeternity. Blog i więcej info: https://pthomann.pl
+
+Michał Zajda - developer, architekt, team lead. Od kilku lat prowadzi swoją firmę R&D, która bierze udział w projektach technologicznych związanych ze skalowalnością rozwiązań serwerowych. Najciekawsze projekty prowadziliśmy w dziedzinie chatów mobilnych, rynków RTB, IoT czy blockchain. Ostatnie lata, to design i implementacja nowego protokołu blockchain: Aeternity.
 
 ENG: Aeternity - blockchain 3.0 Introduction to Aeternity (https://aeternity.com/) - third generation Blockchain platform. Presentation of project and general ideas standing behind Aeternity + insight of the technology, tools and solutions of Aeternity ecosystem. Bio: Przemysław Thomann Crypto enthusiast, Web & Blockchain developer with startup aspirations. Last year spent on developing MobyCrypt platform (https://mobycrypt.com) - with the initial idea of creating tokenization & cryptocurrency centre. Aeternity ambasador, engaged as the community member of the project. Develops the awarded by Aeternity team blocks explorer: https://aemonitor.mobycrypt.com In January 2019 had the opporutnity to take part together with Aeternity team members in Aepps Summit in Turkey - event dedicated to application development based on Aeternity. Blog and more info: https://pthomann.pl
 
