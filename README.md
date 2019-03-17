@@ -19,15 +19,15 @@ ENG: Aeternity - blockchain 3.0 Introduction to Aeternity (https://aeternity.com
 
 18.15 Rejestracja uczestników spotkania
 
-18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+18.20 Otwarcie spotkania - Tomasz Drzewiecki
 
-18.35 rozliczkryptowaluty.pl - rozliczanie podatku z kryptowalut w Polsce, Łukasz Skonieczny
+18.25 https://rozliczkryptowaluty.pl - rozliczanie podatku z kryptowalut w Polsce, Łukasz Skonieczny
 
 19.00 Q&A
 
-19.05 Aeternity, Przemysław Thomann
+19.05 [PL] Aeternity, Erlang w DLT; Przemysław Thomann, Michał Zajda
 
-20.30 Zakończenie spotkania oraz networking, after kawa i/lub piwo.
+21.00 Zakończenie spotkania oraz networking, after kawa i/lub piwo.
 
 
 Podczas prezentacji zostaną poruszone tematy powiązane z rozliczaniem kryptowalut w Polsce dla osób fizycznych:
