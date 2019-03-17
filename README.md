@@ -75,7 +75,7 @@ Ulf Wiger - Challenges and Advantages of Using Erlang in Cryptocurrencies: https
 
 Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.youtube.com/watch?v=I4_xX_Zs2eE
 
-## Inne:
+## Inne
 
 0. [Prośba o wsparcie] Będziemy wdzięczny za wsparcie (ETH): 0x564b51542a4d4f185318918fd0c6049086e4a605
 
@@ -86,6 +86,22 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 3. Masz własne przemyślenie, propozycję, uwagę, wskazówkę - napisz. Koniecznie.
 
 4. Propozycja zagadnień które warto poruszyć podczas następnych spotkań.
+
+## Pytania
+
+1. (w nawiązaniu do whitepaper): "Second,  applications  such  as  Augur  have  attempted  tobring  real-world  data  onto  the  blockchain  in  a  decentral-ized  way—in  the  process  essentially  building  a  consensusmechanism  inside  smart  contracts  [8],  instead  of  utilizingthe consensus mechanism of the underlying blockchain. Thisleads  to  inefficiencies  but  doesn’t  increase  security." - o jakich nieefektywnościach w Augur mowa?
+
+2. Aeon === AE ?
+
+3. "Sidenote: Originally Aeternity intended to be a 100 percentproof-of-stake  blockchain.  We  don’t  think  anymore  that  adecentralized 100 percent PoS system is possible" - dlaczego nie?
+
+4. Jaki jest status lekkiego klienta?
+
+5. "Cross-chain atomic swaps:Cross   chain   atomicswaps allow for trustless exchange of aeon for bitcoins [14],[15]. These can be implemented using a hashlock, that locksthe transactions on both blockchains under the same value." - Aeternity może pracować jako side chain BTC?
+
+6. Wymagania dla walidatorów? 
+
+7. [INFO] Link do OPCODE's w white paper nie działa.
 
 
 # Silesia Blockchain Meetup #8 - Premiera książki "ABC Blockchaina", KONKURS - 27.02.2019
@@ -115,21 +131,6 @@ Linki:
 
 1. https://www.toptalks.com/programs/stanford-blockchain-conference-2019
 
-Pytania:
-
-1. (w nawiązaniu do whitepaper): "Second,  applications  such  as  Augur  have  attempted  tobring  real-world  data  onto  the  blockchain  in  a  decentral-ized  way—in  the  process  essentially  building  a  consensusmechanism  inside  smart  contracts  [8],  instead  of  utilizingthe consensus mechanism of the underlying blockchain. Thisleads  to  inefficiencies  but  doesn’t  increase  security." - o jakich nieefektywnościach w Augur mowa?
-
-2. Aeon === AE ?
-
-3. "Sidenote: Originally Aeternity intended to be a 100 percentproof-of-stake  blockchain.  We  don’t  think  anymore  that  adecentralized 100 percent PoS system is possible" - dlaczego nie?
-
-4. Jaki jest status lekkiego klienta?
-
-5. "Cross-chain atomic swaps:Cross   chain   atomicswaps allow for trustless exchange of aeon for bitcoins [14],[15]. These can be implemented using a hashlock, that locksthe transactions on both blockchains under the same value." - Aeternity może pracować jako side chain BTC?
-
-6. Wyagania dla walidatorów? 
-
-7. [INFO] Link do OPCODE's w white paper nie działa.
 
 # Silesia Blockchain Meetup #7 - 16.01.2019
 
