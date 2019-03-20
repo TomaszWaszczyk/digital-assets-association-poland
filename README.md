@@ -87,6 +87,11 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 
 4. Propozycja zagadnień które warto poruszyć podczas następnych spotkań.
 
+Me: crypto taxes?
+Accountant: Sure.
+Me: So if I bought BTC and then exchanged it for ETH to open a CDP and then used my DAI to buy more ETH... what do I owe?
+Accountant: the government doesn't understand what you're talking about
+
 ## Pytania
 
 1. (w nawiązaniu do whitepaper): "Second,  applications  such  as  Augur  have  attempted  tobring  real-world  data  onto  the  blockchain  in  a  decentral-ized  way—in  the  process  essentially  building  a  consensusmechanism  inside  smart  contracts  [8],  instead  of  utilizingthe consensus mechanism of the underlying blockchain. Thisleads  to  inefficiencies  but  doesn’t  increase  security." - o jakich nieefektywnościach w Augur mowa?
