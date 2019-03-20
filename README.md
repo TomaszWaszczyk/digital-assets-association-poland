@@ -87,12 +87,10 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 
 4. Propozycja zagadnień które warto poruszyć podczas następnych spotkań.
 
-```Me: crypto taxes?
-
+```
+Me: crypto taxes?
 Accountant: Sure.
-
 Me: So if I bought BTC and then exchanged it for ETH to open a CDP and then used my DAI to buy more ETH... what do I owe?
-
 Accountant: the government doesn't understand what you're talking about
 ```
 
