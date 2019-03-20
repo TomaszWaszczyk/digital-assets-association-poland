@@ -75,7 +75,10 @@ Ulf Wiger - Challenges and Advantages of Using Erlang in Cryptocurrencies: https
 
 Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.youtube.com/watch?v=I4_xX_Zs2eE
 
-## Inne:
+State Channels on the aeternity Blockchain by Ulf Wiger: https://www.youtube.com/watch?v=fAFbaQyLAqU
+
+
+## Inne
 
 0. [Prośba o wsparcie] Będziemy wdzięczny za wsparcie (ETH): 0x564b51542a4d4f185318918fd0c6049086e4a605
 
@@ -86,6 +89,29 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 3. Masz własne przemyślenie, propozycję, uwagę, wskazówkę - napisz. Koniecznie.
 
 4. Propozycja zagadnień które warto poruszyć podczas następnych spotkań.
+
+```
+Me: crypto taxes?
+Accountant: Sure.
+Me: So if I bought BTC and then exchanged it for ETH to open a CDP and then used my DAI to buy more ETH... what do I owe?
+Accountant: the government doesn't understand what you're talking about
+```
+
+## Pytania
+
+1. (w nawiązaniu do whitepaper): "Second,  applications  such  as  Augur  have  attempted  tobring  real-world  data  onto  the  blockchain  in  a  decentral-ized  way—in  the  process  essentially  building  a  consensusmechanism  inside  smart  contracts  [8],  instead  of  utilizingthe consensus mechanism of the underlying blockchain. Thisleads  to  inefficiencies  but  doesn’t  increase  security." - o jakich nieefektywnościach w Augur mowa?
+
+2. Aeon === AE ?
+
+3. "Sidenote: Originally Aeternity intended to be a 100 percentproof-of-stake  blockchain.  We  don’t  think  anymore  that  adecentralized 100 percent PoS system is possible" - dlaczego nie?
+
+4. Jaki jest status lekkiego klienta?
+
+5. "Cross-chain atomic swaps:Cross   chain   atomicswaps allow for trustless exchange of aeon for bitcoins [14],[15]. These can be implemented using a hashlock, that locksthe transactions on both blockchains under the same value." - Aeternity może pracować jako side chain BTC?
+
+6. Wymagania dla walidatorów? 
+
+7. [INFO] Link do OPCODE's w white paper nie działa.
 
 
 # Silesia Blockchain Meetup #8 - Premiera książki "ABC Blockchaina", KONKURS - 27.02.2019
@@ -114,7 +140,6 @@ Proszę o wypełnienie ANKIETY, będę wdzięczny za konstruktywne zwrócenie uw
 Linki:
 
 1. https://www.toptalks.com/programs/stanford-blockchain-conference-2019
-
 
 
 # Silesia Blockchain Meetup #7 - 16.01.2019
@@ -161,6 +186,8 @@ Also, following videos might be of interest:
 - how to setup development environment: https://fosdem.org/2019/schedule/event/nimbus/
 
 State of Ethereum 2.0: https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit
+
+State channels: https://github.com/machinomy/awesome-state-channels
 
 # Silesia Blockchain Meetup #6 - 4.12.2018
 
