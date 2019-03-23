@@ -23,6 +23,12 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
     Steem
 
 
+## Linki
+
+Inne prezentacje Rafała: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/tree/master/3-04-2019/Inne_prezentacja_Rafa%C5%82a
+
+# Pytania
+
 
 # Silesia Blockchain Meetup #9 - Aeternity oraz Rozliczkryptowaluty.pl - 18.03.2019
 
