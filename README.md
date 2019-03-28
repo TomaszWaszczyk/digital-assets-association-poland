@@ -27,8 +27,15 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 Inne prezentacje Rafała: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/tree/master/3-04-2019/Inne_prezentacja_Rafa%C5%82a
 
-# Pytania
+## Pytania
 
+
+# Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
+
+
+https://youtu.be/vS0la5W-7L0
+
+https://www.slideshare.net/michalzalecki/how-your-javascript-skills-apply-in-the-blockchain-space
 
 # Silesia Blockchain Meetup #9 - Aeternity oraz Rozliczkryptowaluty.pl - 18.03.2019
 
