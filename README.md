@@ -27,6 +27,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 1. Inne prezentacje Rafała: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/tree/master/3-04-2019/Inne_prezentacja_Rafa%C5%82a
 
+2. https://github.com/domator4x4/TheWalletBot
+
 
 ## Pytania
 
