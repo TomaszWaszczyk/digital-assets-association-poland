@@ -29,6 +29,8 @@ Inne prezentacje Rafała: https://github.com/TomaszWaszczyk/silesia-blockchain-m
 
 ## Pytania
 
+1. Możesz wyjaśnić https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/number-of-unspent-transaction-outputs.jpg ?
+
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
