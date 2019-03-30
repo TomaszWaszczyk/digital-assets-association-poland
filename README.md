@@ -37,10 +37,18 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
+## Prezentacje
+
+### Michał Załęcki
 
 https://youtu.be/vS0la5W-7L0
 
 https://www.slideshare.net/michalzalecki/how-your-javascript-skills-apply-in-the-blockchain-space
+
+### Krzysztof Kaczor
+
+https://slides.com/krzkaczor
+
 
 # Silesia Blockchain Meetup #9 - Aeternity oraz Rozliczkryptowaluty.pl - 18.03.2019
 
