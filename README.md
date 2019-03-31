@@ -29,6 +29,7 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 2. https://github.com/domator4x4/TheWalletBot
 
+3. https://en.bitcoin.it
 
 ## Pytania
 
