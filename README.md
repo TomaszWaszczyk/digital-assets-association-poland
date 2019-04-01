@@ -35,6 +35,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 1. Możesz wyjaśnić https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/number-of-unspent-transaction-outputs.jpg ?
 
+2. Plik `wallet.dat` jaką rolę zpełnia, da się go odszyfrować, co w nim jest?
+
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
