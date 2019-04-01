@@ -37,6 +37,7 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 2. Plik `wallet.dat` jaką rolę pełni, da się go odszyfrować, co w nim jest?
 
+3. Unconfirmed transactions oraz fee..
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
