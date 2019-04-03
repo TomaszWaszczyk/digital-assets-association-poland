@@ -45,6 +45,10 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 6. BTC może zmienić algorytm konsensusu na Byzantine Fault Tolerance? 
 
+7. BTC a komputer kwantowy, czy dla adresu na który jedynie transakcje spływają to jest problem?
+
+8. 
+
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
 ## Prezentacje
