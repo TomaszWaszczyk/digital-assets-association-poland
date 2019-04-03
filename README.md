@@ -33,6 +33,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 4. https://steemd.com/bitcoin/@rav3npl/rafal-prostuje-bitcoina-robimy-transakcje-hodl
 
+5. https://digiconomist.net/bitcoin-energy-consumption
+
 ## Pytania
 
 0. Czy z punktu widzenia protokołu Bitcoin istnieje "Bitcoin" (dane przechowywane w `double` i/lub `long`) oraz "transakcja"? 
