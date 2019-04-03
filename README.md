@@ -33,6 +33,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 ## Pytania
 
+0. Czy z punktu widzenia protokołu Bitcoin istnieje "Bitcoin" (dane przechowywane w `double` i/lub `long`) oraz "transakcja"? 
+
 1. Możesz wyjaśnić https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/number-of-unspent-transaction-outputs.jpg ?
 
 2. Plik `wallet.dat` jaką rolę pełni, da się go odszyfrować, co w nim jest?
