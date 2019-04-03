@@ -55,6 +55,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 11. Z jakich narzędzi korzystasz podczas rozwijania (development, debugging, profiling) etc. etc.?
 
+12. Od czego byś zaczął gdybyś miał zadanie zrobić side chain dla BTC (vide BEAM)?
+
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
 ## Prezentacje
