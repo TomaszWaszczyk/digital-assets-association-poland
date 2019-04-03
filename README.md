@@ -53,6 +53,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 10. UTX vs price: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/3-04-2019/utx-vs-price.jpg
 
+11. Z jakich narzędzi korzystasz podczas rozwijania (development, debugging, profiling) etc. etc.?
+
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
 ## Prezentacje
