@@ -39,6 +39,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 7. https://github.com/iquidus/explorer
 
+8. http://lightening.raven.pl/3d.html
+
 ## Pytania
 
 0. Czy z punktu widzenia protokołu Bitcoin istnieje "Bitcoin" (dane przechowywane w `double` i/lub `long`) oraz "transakcja"? 
