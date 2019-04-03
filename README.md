@@ -49,7 +49,7 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 8. Jaką można zrobić najmniejszą transakcję przez BTC / LN - w jaki sposób mogę sobie postawić LN - Docker?
 
-9. 
+9. Governance model in BTC? 
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
