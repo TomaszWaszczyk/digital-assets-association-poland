@@ -49,7 +49,9 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 8. Jaką można zrobić najmniejszą transakcję przez BTC / LN - w jaki sposób mogę sobie postawić LN - Docker?
 
-9. Governance model in BTC? 
+9. Governance model in BTC?
+
+10. UTX vs price: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/3-04-2019/utx-vs-price.jpg
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
