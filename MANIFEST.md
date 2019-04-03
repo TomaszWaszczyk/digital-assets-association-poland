@@ -19,3 +19,5 @@ Our societies are at a tipping point. Mind Manipulation and global scale surveil
 
 Crypto might be our only way out of this misery, so let’s not screw this up. The bigger the speculative bubble, the bigger the crash, the longer a potential „crypto winter“. We don’t have time. Please do only back projects you fundamentally understand.
 Take control of your digital identities and educate yourselves on what’s going on. Totalitarianism is a thread more than ever. It does not come as a violent suppressive military regime but rather as a subtle, invisible force using data, patterns, and targeting for their AI manipulation. These powers are organized globally.
+
+https://wid.world/world-inequality-lab/
