@@ -39,6 +39,12 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 3. Unconfirmed transactions oraz fee..
 
+4. Gdzie najłatwiej (i bezpiecznie) dostać się do adresu mają klucz prywatny?
+
+5. Jaka różnica jest pomiędzy UTXO a 'account model'?
+
+6. BTC może zmienić algorytm konsensusu na Byzantine Fault Tolerance? 
+
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
 ## Prezentacje
