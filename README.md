@@ -57,6 +57,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 12. Od czego byś zaczął gdybyś miał zadanie zrobić side chain dla BTC (vide BEAM)?
 
+13. Najmniejsza transakcja w LN to satoshi z satoshi?
+
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
 ## Prezentacje
