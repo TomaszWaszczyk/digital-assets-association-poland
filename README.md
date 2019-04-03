@@ -35,6 +35,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 5. https://digiconomist.net/bitcoin-energy-consumption
 
+6. https://medium.com/@spair/an-adaptive-block-size-for-bitcoin-947fbc620c9b
+
 ## Pytania
 
 0. Czy z punktu widzenia protokołu Bitcoin istnieje "Bitcoin" (dane przechowywane w `double` i/lub `long`) oraz "transakcja"? 
