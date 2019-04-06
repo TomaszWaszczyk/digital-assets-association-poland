@@ -43,6 +43,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 9. https://github.com/lightningnetwork/lnd
 
+10. https://electrum.org
+
 
 ## Pytania
 
