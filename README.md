@@ -1,4 +1,9 @@
-# Silesia Blockchain Meetup #9 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
+# Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
+
+
+Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
+
+# Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
 Rafał Kiełbus - Z technologią blockchain i Bitcoinem od 2011 roku. Pierwsze wykopane BTC sprzedawał po 40zł, czego nadal żałuje ale daje pewien dystans do kwestii kursu BTC. Bitcoin Core contributor. Uczestnik pracach Ministerstwa Cyfryzacji w strumieniu „Blockchain i Kryptowaluty” Uczestnik prac nad raportem dot. blockchain i kryptowalut przy KNF. Uczestnik prac Zespołu Parlamentarnego ds. technologii Blockchain i kryptowalut
