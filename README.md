@@ -7,6 +7,8 @@ Alexander Zaidelson Launches Beam: https://www.youtube.com/watch?v=IduWUrsv7_M
 
 BEAM Faucet: https://bitmate.ch/
 
+BEAM Blockchain Data: https://datastudio.google.com/u/0/reporting/1QdpwljUhvum_lT-WJmV29Jdbws-zM0Sl/page/alyh
+
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
