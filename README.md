@@ -5,6 +5,8 @@ Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtub
 
 Alexander Zaidelson Launches Beam: https://www.youtube.com/watch?v=IduWUrsv7_M
 
+BEAM Faucet: https://bitmate.ch/
+
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
