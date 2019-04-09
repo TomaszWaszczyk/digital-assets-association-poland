@@ -9,6 +9,10 @@ BEAM Faucet: https://bitmate.ch/
 
 BEAM Blockchain Data: https://datastudio.google.com/u/0/reporting/1QdpwljUhvum_lT-WJmV29Jdbws-zM0Sl/page/alyh
 
+FAQ: https://www.beam.mw/faq/
+
+https://docs.beam.mw/BEAM_Position_Paper_v0.2.2.pdf
+
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
