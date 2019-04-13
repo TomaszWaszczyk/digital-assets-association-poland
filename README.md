@@ -2,6 +2,11 @@
 
 ![BEAM MimbleWimble](https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png)
 
+<p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
+</p>
+
+
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
 Alexander Zaidelson Launches Beam: https://www.youtube.com/watch?v=IduWUrsv7_M
