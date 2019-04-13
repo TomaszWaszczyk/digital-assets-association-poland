@@ -1,7 +1,5 @@
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
-![BEAM MimbleWimble](https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png)
-
 <p align="center">
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
 </p>
