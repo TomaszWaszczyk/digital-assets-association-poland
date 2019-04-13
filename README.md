@@ -4,7 +4,9 @@
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
 </p>
 
-https://explorer.beam.mw/
+Explorer: https://explorer.beam.mw/
+
+Newsletter: https://beamprivacy.substack.com/
 
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
