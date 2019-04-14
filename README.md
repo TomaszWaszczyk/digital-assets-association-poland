@@ -4,6 +4,8 @@
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
 </p>
 
+LinkedIn: https://www.linkedin.com/company/beammw/
+
 Explorer: https://explorer.beam.mw/
 
 Newsletter: https://beamprivacy.substack.com/
