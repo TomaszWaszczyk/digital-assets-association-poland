@@ -129,6 +129,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 10. https://electrum.org
 
+11. "Rafał prostuje Bitcoina" - https://www.youtube.com/playlist?list=PLfblP0xy4AJNb_p78ZIS1JVRenNP6Q02t
+
 
 ## Pytania
 
