@@ -82,6 +82,10 @@ Andreas Antonopoulos on mimblewimble and Dandelion https://www.youtube.com/watch
 
 Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88
 
+# Mining pools
+
+https://beam.leafpool.com/
+
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
