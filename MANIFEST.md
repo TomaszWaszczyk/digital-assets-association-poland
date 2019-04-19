@@ -21,3 +21,5 @@ Crypto might be our only way out of this misery, so let’s not screw this up. T
 Take control of your digital identities and educate yourselves on what’s going on. Totalitarianism is a thread more than ever. It does not come as a violent suppressive military regime but rather as a subtle, invisible force using data, patterns, and targeting for their AI manipulation. These powers are organized globally.
 
 https://wid.world/world-inequality-lab/
+
+https://unenumerated.blogspot.com/
