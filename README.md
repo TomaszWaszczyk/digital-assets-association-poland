@@ -1,4 +1,97 @@
-# Silesia Blockchain Meetup #9 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
+# Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
+
+<p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
+</p>
+
+LinkedIn: https://www.linkedin.com/company/beammw/
+
+Explorer: https://explorer.beam.mw/
+
+Newsletter: https://beamprivacy.substack.com/
+
+Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
+
+Alexander Zaidelson Launches Beam: https://www.youtube.com/watch?v=IduWUrsv7_M
+
+BEAM Faucet: https://bitmate.ch/
+
+BEAM Blockchain Data: https://datastudio.google.com/u/0/reporting/1QdpwljUhvum_lT-WJmV29Jdbws-zM0Sl/page/alyh
+
+FAQ: https://www.beam.mw/faq/
+
+https://docs.beam.mw/BEAM_Position_Paper_v0.2.2.pdf
+
+
+BEAM compared to classical MW https://docs.beam.mw/BEAM_Comparison_with_classical_MW.pdf
+
+Battle of the Privacycoins: What We Know About Grin and Beam’s Mimblewimble
+https://bitcoinmagazine.com/articles/battle-privacycoins-what-we-know-about-grin-and-beams-mimblewimble/
+
+Comparing privacy coins is hard!: https://medium.com/beam-mw/comparing-privacy-coins-is-hard-2d617f931682
+
+Mimblewimble explained like you’re 12 https://medium.com/beam-mw/mimblewimble-explained-like-youre-12-d779a5bb483d
+
+Mimblewimble metaphor https://medium.com/beam-mw/how-mimblewimble-works-18ea3980cffe
+
+What’s the difference between Monero, Zcash, and BEAM? https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-953eafd89354
+
+A Short History of Mimblewimble: From Hogwarts to Mobile Wallets https://medium.com/beam-mw/a-short-history-of-mimblewimble-from-hogwarts-to-mobile-wallets-2514a21debb
+
+Why BEAM is Sound Money https://medium.com/beam-mw/why-beam-is-sound-money-b2d956f18efc
+
+About Dandelion and Mimblewimble https://medium.com/beam-mw/about-dandelion-and-mimblewimble-e083597e0355
+
+Atomic Swaps — The “Holy Grail” of Altcoins https://medium.com/beam-mw/atomic-swaps-the-holy-grail-of-altcoins-17f4c5452e62
+
+Core dev Vladislav Gelfer lecture in Zero-Knowledge Summit # ZK0x02 Berlin
+https://docs.beam.mw/Presentation-of-Mimblewimble-at-the-Zero-Knowledge-Proof-Summit-Berlin-September-2018.pdf
+
+Video of Vlad's lecture https://www.youtube.com/watch?v=EX9jQg9tuQc
+
+From Adam and Eve to Facebook, a history of Privacy: https://medium.com/beam-mw/from-adam-and-eve-to-facebook-an-history-of-privacy-42b97de43b6b
+
+Conor O'Higgins, A Beam Ambassador, live on Rise Vilnius FinTech Week https://youtu.be/1HbpGn-HrD4?t=175
+
+
+# Extra Resources:
+
+Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
+
+Follow up Paper by Andrew Poelstra https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.pdf
+
+Andrew Poelstra on Mimblewimble https://www.youtube.com/watch?v=aHTRlbCaUyM&t=22s
+
+Andrew Poelstra on Mimblewimble Scriptless scripts https://www.youtube.com/watch?v=ovCBT1gyk9c&t=1s
+
+Jackson Palmer's "What is MimbleWimble? (incl. Grin)” https://www.youtube.com/watch?v=BMiM0rabRjc&t=25s
+
+Meet the CTO of Beam https://cryptopotato.com/the-revolutionary-anonymous-beam-launches-2nd-test-net-special-interview
+
+Mimblewimble, the Good and the Bad https://www.tokendaily.co/blog/mimblewimble-the-good-and-the-bad
+
+A Reply by Alex Romanov https://medium.com/beam-mw/on-linkability-of-mimblewimble-da9ba71e83b4
+
+Tari Labs - Grin vs Beam Comparaison https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html
+
+Jimmy Song on Mimblewimble https://www.youtube.com/watch?v=fRWf7Hf4czc
+
+Behind Mimblewimble https://medium.com/@jcliff/behind-mimblewimble-cd9da78a00e9?sk=689b5f55fa575e150ca5eae685fc321d
+
+Andreas Antonopoulos on mimblewimble and Dandelion https://www.youtube.com/watch?v=LjDJGTpK_lE
+
+Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88
+
+# Mining pools
+
+https://beam.leafpool.com/
+
+# BEAM's roadmap
+
+https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
+
+
+# Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
 Rafał Kiełbus - Z technologią blockchain i Bitcoinem od 2011 roku. Pierwsze wykopane BTC sprzedawał po 40zł, czego nadal żałuje ale daje pewien dystans do kwestii kursu BTC. Bitcoin Core contributor. Uczestnik pracach Ministerstwa Cyfryzacji w strumieniu „Blockchain i Kryptowaluty” Uczestnik prac nad raportem dot. blockchain i kryptowalut przy KNF. Uczestnik prac Zespołu Parlamentarnego ds. technologii Blockchain i kryptowalut
@@ -40,6 +133,13 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 7. https://github.com/iquidus/explorer
 
 8. http://lightening.raven.pl/3d.html
+
+9. https://github.com/lightningnetwork/lnd
+
+10. https://electrum.org
+
+11. "Rafał prostuje Bitcoina" - https://www.youtube.com/playlist?list=PLfblP0xy4AJNb_p78ZIS1JVRenNP6Q02t
+
 
 ## Pytania
 
