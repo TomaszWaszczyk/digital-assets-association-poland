@@ -86,6 +86,11 @@ Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/
 
 https://beam.leafpool.com/
 
+# BEAM's roadmap
+
+https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
+
+
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
