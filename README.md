@@ -53,6 +53,7 @@ From Adam and Eve to Facebook, a history of Privacy: https://medium.com/beam-mw/
 
 Conor O'Higgins, A Beam Ambassador, live on Rise Vilnius FinTech Week https://youtu.be/1HbpGn-HrD4?t=175
 
+From chain to DAG: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/
 
 # Extra Resources:
 
