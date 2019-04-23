@@ -23,3 +23,5 @@ Take control of your digital identities and educate yourselves on what’s going
 https://wid.world/world-inequality-lab/
 
 https://unenumerated.blogspot.com/
+
+https://koeln.ccc.de/archiv/cyphernomicon/
