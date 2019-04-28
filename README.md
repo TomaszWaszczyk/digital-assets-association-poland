@@ -242,6 +242,8 @@ Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z
 
 ## Linki:
 
+https://aeternity.com/documentation-hub/
+
 Aeternity: https://www.pivotaltracker.com/n/projects/2124891
 
 https://rozliczkryptowaluty.pl
