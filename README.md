@@ -53,6 +53,7 @@ From Adam and Eve to Facebook, a history of Privacy: https://medium.com/beam-mw/
 
 Conor O'Higgins, A Beam Ambassador, live on Rise Vilnius FinTech Week https://youtu.be/1HbpGn-HrD4?t=175
 
+From chain to DAG: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/
 
 # Extra Resources:
 
@@ -240,6 +241,8 @@ Na naszych spotkania obowiązuje Berliński Kodeks Postępowania. Zapraszamy wsz
 Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologią, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o kontakt z organizatorami.
 
 ## Linki:
+
+https://aeternity.com/documentation-hub/
 
 Aeternity: https://www.pivotaltracker.com/n/projects/2124891
 
