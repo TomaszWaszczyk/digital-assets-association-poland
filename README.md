@@ -380,6 +380,8 @@ State of Ethereum 2.0: https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7
 
 State channels: https://github.com/machinomy/awesome-state-channels
 
+White paper: https://github.com/ethereum/wiki/wiki/White-Paper
+
 https://github.com/ConsenSys
 
 # Silesia Blockchain Meetup #6 - 4.12.2018
