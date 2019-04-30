@@ -22,6 +22,7 @@ FAQ: https://www.beam.mw/faq/
 
 https://docs.beam.mw/BEAM_Position_Paper_v0.2.2.pdf
 
+https://beamprivacy.community
 
 BEAM compared to classical MW https://docs.beam.mw/BEAM_Comparison_with_classical_MW.pdf
 
