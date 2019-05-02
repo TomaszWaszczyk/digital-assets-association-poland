@@ -98,7 +98,9 @@ https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 
 1. In the link: https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106 is written "To increase adoption and let people run Beam node and wallet on more platforms, such as Rust". Does it mean BEAM will be implemented in Rust? If so what is the advantage of Rust?
 
-2. 
+2. BEAM want to change PoW algorithm, why? Why DAG like: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/ ?
+
+3. 
 
 
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
