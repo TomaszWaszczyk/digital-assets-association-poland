@@ -98,7 +98,7 @@ https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 
 1. In the link: https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106 is written "To increase adoption and let people run Beam node and wallet on more platforms, such as Rust programming language". Does it mean BEAM will be implemented in Rust? If so what is the advantage of Rust?
 
-2. BEAM want to change PoW algorithm two times, why? Why DAG like: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/ ?
+2. BEAM wants to change PoW algorithm two times, why? Why DAG like: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/ ?
 
 3. What is the difference between Tor and I2P network?
 
