@@ -4,6 +4,8 @@
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
 </p>
 
+## Links
+
 LinkedIn: https://www.linkedin.com/company/beammw/
 
 Explorer: https://explorer.beam.mw/
@@ -92,6 +94,18 @@ https://beam.leafpool.com/
 
 https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 
+# Questions
+
+1. In the link: https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106 is written "To increase adoption and let people run Beam node and wallet on more platforms, such as Rust programming language". Does it mean BEAM will be implemented in Rust? If so what is the advantage of Rust?
+
+2. BEAM wants to change PoW algorithm two times, why? Why DAG like: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/ ?
+
+3. What is the difference between Tor and I2P network?
+
+4. BEAM is going to implement PoS and/or master nodes?
+
+5. 
+
 
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
@@ -141,6 +155,10 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 10. https://electrum.org
 
 11. "Rafał prostuje Bitcoina" - https://www.youtube.com/playlist?list=PLfblP0xy4AJNb_p78ZIS1JVRenNP6Q02t
+
+12. Torrent: http://www.bittorrent.org/beps/bep_0000.html
+
+13. https://github.com/geraldb/talks/blob/master/blockchain.md
 
 
 ## Pytania
