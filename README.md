@@ -156,7 +156,9 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 11. "Rafał prostuje Bitcoina" - https://www.youtube.com/playlist?list=PLfblP0xy4AJNb_p78ZIS1JVRenNP6Q02t
 
-12: Torrent: http://www.bittorrent.org/beps/bep_0000.html
+12. Torrent: http://www.bittorrent.org/beps/bep_0000.html
+
+13. https://github.com/geraldb/talks/blob/master/blockchain.md
 
 
 ## Pytania
