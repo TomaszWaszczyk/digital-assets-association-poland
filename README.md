@@ -160,6 +160,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 13. https://github.com/geraldb/talks/blob/master/blockchain.md
 
+14. http://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain
+
 
 ## Pytania
 
