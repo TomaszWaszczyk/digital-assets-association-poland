@@ -6,6 +6,8 @@
 
 ## Links
 
+Telegram BEAM Polska: https://t.me/joinchat/I_bxsw8Fq6FK7JTokp8uqg
+
 LinkedIn: https://www.linkedin.com/company/beammw/
 
 Explorer: https://explorer.beam.mw/
