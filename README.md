@@ -58,6 +58,8 @@ Conor O'Higgins, A Beam Ambassador, live on Rise Vilnius FinTech Week https://yo
 
 From chain to DAG: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/
 
+https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-953eafd89354
+
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
