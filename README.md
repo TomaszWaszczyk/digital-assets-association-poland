@@ -62,6 +62,8 @@ From chain to DAG: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/g
 
 https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-953eafd89354
 
+[PL] https://steemit.com/polish/@bithubpl/co-to-jest-mimblewimble-or-wiecej-prywatnosci-w-blockchain
+
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
