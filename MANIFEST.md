@@ -27,3 +27,5 @@ https://unenumerated.blogspot.com/
 https://koeln.ccc.de/archiv/cyphernomicon/
 
 http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+
+https://en.wikipedia.org/wiki/Paul_Le_Roux
