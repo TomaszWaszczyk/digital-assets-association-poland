@@ -58,7 +58,7 @@ https://en.wikipedia.org/wiki/Cypherpunk
 # History
 
 * 1983 — David Chaum, Blind Signatures for Untraceable Payments, proposes an early form of digital value transfer
-The late 1980s — likeminded individuals began to pool ideas founding the Cypherpunk movement
+* The late 1980s — likeminded individuals began to pool ideas founding the Cypherpunk movement
 * 1989 — DigiCash launch
 * 1992 — Creation of ‘A Cypherpunk Manifesto’ by Eric Hughes
 * 1997 — Jim Choate and Igor Chudov set up the Cypherpunks Distributed Remailer
