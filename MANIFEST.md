@@ -50,3 +50,6 @@ http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 https://en.wikipedia.org/wiki/Paul_Le_Roux
 
 https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+https://en.wikipedia.org/wiki/Cypherpunk
+
