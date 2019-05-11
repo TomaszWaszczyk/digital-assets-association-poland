@@ -37,6 +37,7 @@ Just as the technology of printing altered and reduced the power of medieval gui
 
 Arise, you have nothing to lose but your barbed wire fences!
 
+
 # Links
 
 https://wid.world/world-inequality-lab/
@@ -53,3 +54,22 @@ https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-c
 
 https://en.wikipedia.org/wiki/Cypherpunk
 
+
+# History
+
+* 1983 — David Chaum, Blind Signatures for Untraceable Payments, proposes an early form of digital value transfer
+The late 1980s — likeminded individuals began to pool ideas founding the Cypherpunk movement
+* 1989 — DigiCash launch
+* 1992 — Creation of ‘A Cypherpunk Manifesto’ by Eric Hughes
+* 1997 — Jim Choate and Igor Chudov set up the Cypherpunks Distributed Remailer
+* 1997 — The launch of b-money an ‘anonymous, distributed electronic cash system’
+* 1997 — Initial proposition of Hashcash by Adam Black
+* 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase
+* 2002 — Adam Black more formerly outlines the Hashcash concept in his paper ‘Hashcash — A Denial of Service Counter-Measure’
+* 18 August 2008 — The Bitcoin domain was registered
+* 31 October 2008 — The ‘Bitcoin: A Peer-to-Peer Electronic Cash System’ paper was distributed to a cryptography mailing list by Satoshi Nakamoto
+* 3 January 2009 — The Bitcoin genesis block was mined — embedded in this block was the text ‘The Times 03/Jan/2009 Chancellor on brink of second bailout for banks’
+* 22 May 2010 — Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John’s pizzas, one of the first documented transactions.
+* 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
+
+    
