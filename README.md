@@ -66,6 +66,13 @@ https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-95
 
 https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html
 
+https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c
+
+https://www.youtube.com/watch?v=KG13kQRWg98
+
+https://research.circle.com/crypto-reports/mimblewimble
+
+
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
