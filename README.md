@@ -72,6 +72,7 @@ https://www.youtube.com/watch?v=KG13kQRWg98
 
 https://research.circle.com/crypto-reports/mimblewimble
 
+AMA: https://www.youtube.com/watch?v=dm21bOh1TVg
 
 # Extra Resources:
 
