@@ -76,6 +76,10 @@ AMA: https://www.youtube.com/watch?v=dm21bOh1TVg
 
 https://www.youtube.com/watch?v=aHTRlbCaUyM
 
+https://medium.com/@brandonarvanaghi/grin-transactions-explained-step-by-step-fdceb905a853
+
+https://github.com/mimblewimble/grin/blob/master/doc/intro.md
+
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
