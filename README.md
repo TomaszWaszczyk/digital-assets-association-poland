@@ -178,6 +178,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 14. http://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain
 
+15. http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/
+
 
 ## Pytania
 
