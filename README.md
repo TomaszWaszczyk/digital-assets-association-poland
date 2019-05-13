@@ -74,6 +74,8 @@ https://research.circle.com/crypto-reports/mimblewimble
 
 AMA: https://www.youtube.com/watch?v=dm21bOh1TVg
 
+https://www.youtube.com/watch?v=aHTRlbCaUyM
+
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
