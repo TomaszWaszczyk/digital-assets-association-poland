@@ -126,7 +126,7 @@ https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 
 4. BEAM is going to implement PoS and/or master nodes?
 
-5. 
+5. In MW there are no address. So for what block explorer?
 
 
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
