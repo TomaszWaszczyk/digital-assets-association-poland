@@ -1,4 +1,135 @@
-# Silesia Blockchain Meetup #9 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
+# Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
+
+<p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
+</p>
+
+## Links
+
+Telegram BEAM Polska: https://t.me/joinchat/I_bxsw8Fq6FK7JTokp8uqg
+
+LinkedIn: https://www.linkedin.com/company/beammw/
+
+Explorer: https://explorer.beam.mw/
+
+Newsletter: https://beamprivacy.substack.com/
+
+Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
+
+Alexander Zaidelson Launches Beam: https://www.youtube.com/watch?v=IduWUrsv7_M
+
+BEAM Faucet: https://bitmate.ch/
+
+BEAM Blockchain Data: https://datastudio.google.com/u/0/reporting/1QdpwljUhvum_lT-WJmV29Jdbws-zM0Sl/page/alyh
+
+FAQ: https://www.beam.mw/faq/
+
+https://docs.beam.mw/BEAM_Position_Paper_v0.2.2.pdf
+
+https://beamprivacy.community
+
+BEAM compared to classical MW https://docs.beam.mw/BEAM_Comparison_with_classical_MW.pdf
+
+Battle of the Privacycoins: What We Know About Grin and Beam’s Mimblewimble
+https://bitcoinmagazine.com/articles/battle-privacycoins-what-we-know-about-grin-and-beams-mimblewimble/
+
+Comparing privacy coins is hard!: https://medium.com/beam-mw/comparing-privacy-coins-is-hard-2d617f931682
+
+Mimblewimble explained like you’re 12 https://medium.com/beam-mw/mimblewimble-explained-like-youre-12-d779a5bb483d
+
+Mimblewimble metaphor https://medium.com/beam-mw/how-mimblewimble-works-18ea3980cffe
+
+What’s the difference between Monero, Zcash, and BEAM? https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-953eafd89354
+
+A Short History of Mimblewimble: From Hogwarts to Mobile Wallets https://medium.com/beam-mw/a-short-history-of-mimblewimble-from-hogwarts-to-mobile-wallets-2514a21debb
+
+Why BEAM is Sound Money https://medium.com/beam-mw/why-beam-is-sound-money-b2d956f18efc
+
+About Dandelion and Mimblewimble https://medium.com/beam-mw/about-dandelion-and-mimblewimble-e083597e0355
+
+Atomic Swaps — The “Holy Grail” of Altcoins https://medium.com/beam-mw/atomic-swaps-the-holy-grail-of-altcoins-17f4c5452e62
+
+Core dev Vladislav Gelfer lecture in Zero-Knowledge Summit # ZK0x02 Berlin
+https://docs.beam.mw/Presentation-of-Mimblewimble-at-the-Zero-Knowledge-Proof-Summit-Berlin-September-2018.pdf
+
+Video of Vlad's lecture https://www.youtube.com/watch?v=EX9jQg9tuQc
+
+From Adam and Eve to Facebook, a history of Privacy: https://medium.com/beam-mw/from-adam-and-eve-to-facebook-an-history-of-privacy-42b97de43b6b
+
+Conor O'Higgins, A Beam Ambassador, live on Rise Vilnius FinTech Week https://youtu.be/1HbpGn-HrD4?t=175
+
+From chain to DAG: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/
+
+https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-953eafd89354
+
+[PL] https://steemit.com/polish/@bithubpl/co-to-jest-mimblewimble-or-wiecej-prywatnosci-w-blockchain
+
+https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html
+
+https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c
+
+https://www.youtube.com/watch?v=KG13kQRWg98
+
+https://research.circle.com/crypto-reports/mimblewimble
+
+AMA: https://www.youtube.com/watch?v=dm21bOh1TVg
+
+https://www.youtube.com/watch?v=aHTRlbCaUyM
+
+https://medium.com/@brandonarvanaghi/grin-transactions-explained-step-by-step-fdceb905a853
+
+https://github.com/mimblewimble/grin/blob/master/doc/intro.md
+
+# Extra Resources:
+
+Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
+
+Follow up Paper by Andrew Poelstra https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.pdf
+
+Andrew Poelstra on Mimblewimble https://www.youtube.com/watch?v=aHTRlbCaUyM&t=22s
+
+Andrew Poelstra on Mimblewimble Scriptless scripts https://www.youtube.com/watch?v=ovCBT1gyk9c&t=1s
+
+Jackson Palmer's "What is MimbleWimble? (incl. Grin)” https://www.youtube.com/watch?v=BMiM0rabRjc&t=25s
+
+Meet the CTO of Beam https://cryptopotato.com/the-revolutionary-anonymous-beam-launches-2nd-test-net-special-interview
+
+Mimblewimble, the Good and the Bad https://www.tokendaily.co/blog/mimblewimble-the-good-and-the-bad
+
+A Reply by Alex Romanov https://medium.com/beam-mw/on-linkability-of-mimblewimble-da9ba71e83b4
+
+Tari Labs - Grin vs Beam Comparaison https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html
+
+Jimmy Song on Mimblewimble https://www.youtube.com/watch?v=fRWf7Hf4czc
+
+Behind Mimblewimble https://medium.com/@jcliff/behind-mimblewimble-cd9da78a00e9?sk=689b5f55fa575e150ca5eae685fc321d
+
+Andreas Antonopoulos on mimblewimble and Dandelion https://www.youtube.com/watch?v=LjDJGTpK_lE
+
+Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88
+
+# Mining pools
+
+https://beam.leafpool.com/
+
+# BEAM's roadmap
+
+https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
+
+# Questions
+
+1. In the link: https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106 is written "To increase adoption and let people run Beam node and wallet on more platforms, such as Rust programming language". Does it mean BEAM will be implemented in Rust? If so what is the advantage of Rust?
+
+2. BEAM wants to change PoW algorithm two times, why? Why DAG like: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/ghostdag/ ?
+
+3. What is the difference between Tor and I2P network?
+
+4. BEAM is going to implement PoS and/or master nodes?
+
+5. In MW there are no address. So for what block explorer?
+
+
+# Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
 
 Rafał Kiełbus - Z technologią blockchain i Bitcoinem od 2011 roku. Pierwsze wykopane BTC sprzedawał po 40zł, czego nadal żałuje ale daje pewien dystans do kwestii kursu BTC. Bitcoin Core contributor. Uczestnik pracach Ministerstwa Cyfryzacji w strumieniu „Blockchain i Kryptowaluty” Uczestnik prac nad raportem dot. blockchain i kryptowalut przy KNF. Uczestnik prac Zespołu Parlamentarnego ds. technologii Blockchain i kryptowalut
@@ -27,18 +158,79 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 1. Inne prezentacje Rafała: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/tree/master/3-04-2019/Inne_prezentacja_Rafa%C5%82a
 
+2. https://github.com/domator4x4/TheWalletBot
+
+3. https://en.bitcoin.it
+
+4. https://steemd.com/bitcoin/@rav3npl/rafal-prostuje-bitcoina-robimy-transakcje-hodl
+
+5. https://digiconomist.net/bitcoin-energy-consumption
+
+6. https://medium.com/@spair/an-adaptive-block-size-for-bitcoin-947fbc620c9b
+
+7. https://github.com/iquidus/explorer
+
+8. http://lightening.raven.pl/3d.html
+
+9. https://github.com/lightningnetwork/lnd
+
+10. https://electrum.org
+
+11. "Rafał prostuje Bitcoina" - https://www.youtube.com/playlist?list=PLfblP0xy4AJNb_p78ZIS1JVRenNP6Q02t
+
+12. Torrent: http://www.bittorrent.org/beps/bep_0000.html
+
+13. https://github.com/geraldb/talks/blob/master/blockchain.md
+
+14. http://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain
+
+15. http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/
+
 
 ## Pytania
 
+0. Czy z punktu widzenia protokołu Bitcoin istnieje "Bitcoin" (dane przechowywane w `double` i/lub `long`) oraz "transakcja"? 
+
 1. Możesz wyjaśnić https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/number-of-unspent-transaction-outputs.jpg ?
 
+2. Plik `wallet.dat` jaką rolę pełni, da się go odszyfrować, co w nim jest?
+
+3. Unconfirmed transactions oraz fee..
+
+4. Gdzie najłatwiej (i bezpiecznie) dostać się do adresu mają klucz prywatny?
+
+5. Jaka różnica jest pomiędzy UTXO a 'account model'?
+
+6. BTC może zmienić algorytm konsensusu na Byzantine Fault Tolerance? 
+
+7. BTC a komputer kwantowy, czy dla adresu na który jedynie transakcje spływają to jest problem?
+
+8. Jaką można zrobić najmniejszą transakcję przez BTC / LN - w jaki sposób mogę sobie postawić LN - Docker?
+
+9. Governance model in BTC?
+
+10. UTX vs price: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/3-04-2019/utx-vs-price.jpg
+
+11. Z jakich narzędzi korzystasz podczas rozwijania (development, debugging, profiling) etc. etc.?
+
+12. Od czego byś zaczął gdybyś miał zadanie zrobić side chain dla BTC (vide BEAM)?
+
+13. Najmniejsza transakcja w LN to satoshi z satoshi?
 
 # Cross Meetup #5 - JavaScript + Blockchain - 29.03.2019
 
+## Prezentacje
+
+### Michał Załęcki
 
 https://youtu.be/vS0la5W-7L0
 
 https://www.slideshare.net/michalzalecki/how-your-javascript-skills-apply-in-the-blockchain-space
+
+### Krzysztof Kaczor
+
+https://slides.com/krzkaczor
+
 
 # Silesia Blockchain Meetup #9 - Aeternity oraz Rozliczkryptowaluty.pl - 18.03.2019
 
@@ -94,6 +286,8 @@ Na naszych spotkania obowiązuje Berliński Kodeks Postępowania. Zapraszamy wsz
 Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologią, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o kontakt z organizatorami.
 
 ## Linki:
+
+https://aeternity.com/documentation-hub/
 
 Aeternity: https://www.pivotaltracker.com/n/projects/2124891
 
@@ -230,6 +424,8 @@ Also, following videos might be of interest:
 State of Ethereum 2.0: https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit
 
 State channels: https://github.com/machinomy/awesome-state-channels
+
+White paper: https://github.com/ethereum/wiki/wiki/White-Paper
 
 https://github.com/ConsenSys
 
