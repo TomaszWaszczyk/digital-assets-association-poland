@@ -54,6 +54,8 @@ https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-c
 
 https://en.wikipedia.org/wiki/Cypherpunk
 
+https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)
+
 
 # History
 
