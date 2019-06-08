@@ -4,6 +4,14 @@
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
 </p>
 
+## Agenda
+
+18.15 Rejestracja uczestników spotkania
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+18.35 BEAM, MimbleWimble, Tomasz Waszczyk
+19.00 [In English] Remote connection with Alex Romanov - Israel based, CTO BEAM
+~19.45 Zakończenie spotkania, open bar
+
 ## Links
 
 Telegram BEAM Polska: https://t.me/joinchat/I_bxsw8Fq6FK7JTokp8uqg
