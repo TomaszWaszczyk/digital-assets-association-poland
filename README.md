@@ -4,7 +4,22 @@
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/Pictures/beam.png">
 </p>
 
+## Agenda
+
+18.15 Rejestracja uczestników spotkania
+
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
+18.35 BEAM, MimbleWimble, Tomasz Waszczyk
+
+19.00 [In English] Remote connection with Alex Romanov - Israel based, CTO BEAM
+
+~19.45 Zakończenie spotkania, open bar
+
+
 ## Links
+
+Telegram BEAM Polska: https://t.me/beampl
 
 LinkedIn: https://www.linkedin.com/company/beammw/
 
@@ -60,6 +75,24 @@ From chain to DAG: http://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/g
 
 https://medium.com/beam-mw/whats-the-difference-between-monero-zcash-and-beam-953eafd89354
 
+[PL] https://steemit.com/polish/@bithubpl/co-to-jest-mimblewimble-or-wiecej-prywatnosci-w-blockchain
+
+https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html
+
+https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c
+
+https://www.youtube.com/watch?v=KG13kQRWg98
+
+https://research.circle.com/crypto-reports/mimblewimble
+
+AMA: https://www.youtube.com/watch?v=dm21bOh1TVg
+
+https://www.youtube.com/watch?v=aHTRlbCaUyM
+
+https://medium.com/@brandonarvanaghi/grin-transactions-explained-step-by-step-fdceb905a853
+
+https://github.com/mimblewimble/grin/blob/master/doc/intro.md
+
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
@@ -106,7 +139,7 @@ https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 
 4. BEAM is going to implement PoS and/or master nodes?
 
-5. 
+5. In MW there are no address. So for what block explorer?
 
 
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
@@ -163,6 +196,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 13. https://github.com/geraldb/talks/blob/master/blockchain.md
 
 14. http://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain
+
+15. http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/
 
 
 ## Pytania
