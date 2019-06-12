@@ -11,6 +11,8 @@
 
 https://eprint.iacr.org/2018/245.pdf
 
+https://lelantus.io/
+
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
