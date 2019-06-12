@@ -1,3 +1,13 @@
+
+
+
+## Questions
+
+1. Sigma light wallet - is it possible? Is it on the road map, any comment on that?
+
+2. 
+
+
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
 <p align="center">
