@@ -7,6 +7,10 @@
 
 2. 
 
+## Links
+
+https://eprint.iacr.org/2018/245.pdf
+
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
