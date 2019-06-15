@@ -13,6 +13,8 @@ https://eprint.iacr.org/2018/245.pdf
 
 https://lelantus.io/
 
+https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf
+
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
