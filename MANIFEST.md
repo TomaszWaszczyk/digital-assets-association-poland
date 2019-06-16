@@ -73,5 +73,5 @@ https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)
 * 3 January 2009 — The Bitcoin genesis block was mined — embedded in this block was the text ‘The Times 03/Jan/2009 Chancellor on brink of second bailout for banks’
 * 22 May 2010 — Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John’s pizzas, one of the first documented transactions.
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
-
+* 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
     
