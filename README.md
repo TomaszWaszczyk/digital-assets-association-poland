@@ -1,20 +1,30 @@
 # Silesia Blockchain Meetup #12 - Merkle Tree Proof, TecraCoin oraz protokół Sigma
 
 ## Agenda:
+
 18.15 Rejestracja uczestników spotkania
+
 18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
 18.35 TecraCoin,MTP, Sigma, Przemysław Karda
+
 ~19.45 Zakończenie spotkania
+
 
 Przemysław Karda
 Since 2006, he has been associated with the IT market. At the age of 21, he founded the first technology company operating in the UK. A former Polish army officer trained in the US Air Force. The creator of the Business Forces leadership program. The co-owner of Belters sp. z o.o. - one of the largest Altcoin mine in Poland, involved in ICO projects and applications based on blockchain technology. Co founder of TecraCoin. The author of science-fiction book entitled ‘Interregnum’, which was a bestseller in science fiction category in Poland. Traveler, philosopher and entrepreneur.
 
-Opis prezentacji:
+## Opis prezentacji:
 Dlaczego własny blockchain, czemu PoW i kiedy dPoW.
+
 Dlaczego protokół prywatności.
+
 Dlaczego MTP.
+
 Jakie autorskie implementacje planujemy w TecraCoin.
+
 Sysem głosowań, crypto-lokata, smart contract, tokeny udziałowe
+
 Panel inwestora i nowe wllety.
 
 Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
