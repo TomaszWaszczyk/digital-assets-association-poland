@@ -41,6 +41,8 @@ Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
 
 ## Links
 
+www.tecracoin.io
+
 https://eprint.iacr.org/2018/245.pdf
 
 https://lelantus.io/
