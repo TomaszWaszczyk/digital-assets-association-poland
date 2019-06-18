@@ -1,5 +1,9 @@
 # Silesia Blockchain Meetup #12 - Merkle Tree Proof, TecraCoin oraz protokół Sigma
 
+<p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/25-06-2019/tecracoin.png">
+</p>
+
 ## Agenda:
 
 18.15 Rejestracja uczestników spotkania
