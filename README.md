@@ -53,6 +53,8 @@ https://www.facebook.com/Silesia-Blockchain-Meetup
 
 Sigma: https://eprint.iacr.org/2014/764.pdf
 
+https://twitter.com/aramjivanyan
+
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
