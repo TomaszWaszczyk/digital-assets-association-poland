@@ -85,6 +85,8 @@ Explorer: https://explorer.beam.mw/
 
 Newsletter: https://beamprivacy.substack.com/
 
+Investor: https://recruit-holdings.com
+
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
 Alexander Zaidelson Launches Beam: https://www.youtube.com/watch?v=IduWUrsv7_M
