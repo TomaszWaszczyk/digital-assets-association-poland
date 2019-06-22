@@ -159,6 +159,8 @@ https://github.com/mimblewimble/grin/blob/master/doc/intro.md
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
 
+SBBS: https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-(SBBS)
+
 Follow up Paper by Andrew Poelstra https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.pdf
 
 Andrew Poelstra on Mimblewimble https://www.youtube.com/watch?v=aHTRlbCaUyM&t=22s
