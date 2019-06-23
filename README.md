@@ -41,6 +41,8 @@ Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
 
 ## Links
 
+www.tecracoin.io
+
 https://eprint.iacr.org/2018/245.pdf
 
 https://lelantus.io/
@@ -48,6 +50,10 @@ https://lelantus.io/
 https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf
 
 https://www.facebook.com/Silesia-Blockchain-Meetup
+
+Sigma: https://eprint.iacr.org/2014/764.pdf
+
+https://twitter.com/aramjivanyan
 
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
@@ -78,6 +84,10 @@ LinkedIn: https://www.linkedin.com/company/beammw/
 Explorer: https://explorer.beam.mw/
 
 Newsletter: https://beamprivacy.substack.com/
+
+Investor: https://recruit-holdings.com
+
+Current work: https://github.com/BeamMW/beam/projects/14
 
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
@@ -148,6 +158,8 @@ https://github.com/mimblewimble/grin/blob/master/doc/intro.md
 # Extra Resources:
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
+
+SBBS: https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-(SBBS)
 
 Follow up Paper by Andrew Poelstra https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.pdf
 
