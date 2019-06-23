@@ -523,7 +523,7 @@ https://mashable.com/video/tim-berners-lee-new-decentralized-internet-solid-inru
 
 https://github.com/ethereum/eth2.0-specs
 
-
+https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-d46d8ac914ce
 
 
 
