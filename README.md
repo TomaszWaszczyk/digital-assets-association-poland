@@ -55,6 +55,10 @@ Sigma: https://eprint.iacr.org/2014/764.pdf
 
 https://twitter.com/aramjivanyan
 
+## Tipbox
+
+Będę wdzięczny za wsparcie: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt
+
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
 
