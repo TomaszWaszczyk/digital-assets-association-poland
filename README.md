@@ -394,6 +394,8 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 
 State Channels on the aeternity Blockchain by Ulf Wiger: https://www.youtube.com/watch?v=fAFbaQyLAqU
 
+Ledger Nano S: https://hackmd.aepps.com/s/rJ50IACAm#
+
 
 ## Inne
 
