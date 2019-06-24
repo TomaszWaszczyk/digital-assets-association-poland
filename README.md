@@ -57,7 +57,7 @@ https://twitter.com/aramjivanyan
 
 ## Tipbox
 
-Będę wdzięczny za wsparcie: https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt
+Będę wdzięczny za wsparcie (adresy w linku): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt
 
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
