@@ -51,6 +51,8 @@ https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf
 
 https://www.facebook.com/Silesia-Blockchain-Meetup
 
+https://www.meetup.com/Silesia-Blockchain-Meetup/
+
 Sigma: https://eprint.iacr.org/2014/764.pdf
 
 https://twitter.com/aramjivanyan
