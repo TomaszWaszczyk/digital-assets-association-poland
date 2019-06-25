@@ -55,6 +55,8 @@ Sigma: https://eprint.iacr.org/2014/764.pdf
 
 https://twitter.com/aramjivanyan
 
+https://www.fatf-gafi.org/publications/fatfrecommendations/documents/regulation-virtual-assets-interpretive-note.html
+
 ## Tipbox
 
 Będę wdzięczny za wsparcie (adresy w linku): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt
