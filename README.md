@@ -31,7 +31,7 @@ Since 2006, he has been associated with the IT market. At the age of 21, he foun
 
 > Panel inwestora i nowe wllety.
 
-> Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
+Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
 
 ## Questions
 
@@ -99,6 +99,8 @@ Newsletter: https://beamprivacy.substack.com/
 Investor: https://recruit-holdings.com
 
 Current work: https://github.com/BeamMW/beam/projects/14
+
+Halving and stats data: https://beamprivacy.community/stats
 
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
