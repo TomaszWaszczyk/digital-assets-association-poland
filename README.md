@@ -584,3 +584,10 @@ W sali konferencyjnej na pierwszym piętrze. Dla ułatwienia, nie ma żadnej inn
 Z pozdrowieniami,
 
 Tomasz Waszczyk
+
+
+# Links
+
+https://medium.com/@rileysilbert/best-blockchain-crypto-podcasts-of-2019-2d81d2ac762c
+
+
