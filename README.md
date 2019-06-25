@@ -1,5 +1,9 @@
 # Silesia Blockchain Meetup #12 - Merkle Tree Proof, TecraCoin oraz protokół Sigma
 
+<p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/25-06-2019/tecracoin.png">
+</p>
+
 ## Agenda:
 
 18.15 Rejestracja uczestników spotkania
@@ -37,11 +41,23 @@ Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
 
 ## Links
 
+www.tecracoin.io
+
 https://eprint.iacr.org/2018/245.pdf
 
 https://lelantus.io/
 
 https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf
+
+https://www.facebook.com/Silesia-Blockchain-Meetup
+
+Sigma: https://eprint.iacr.org/2014/764.pdf
+
+https://twitter.com/aramjivanyan
+
+## Tipbox
+
+Będę wdzięczny za wsparcie (adresy w linku): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt
 
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
@@ -72,6 +88,10 @@ LinkedIn: https://www.linkedin.com/company/beammw/
 Explorer: https://explorer.beam.mw/
 
 Newsletter: https://beamprivacy.substack.com/
+
+Investor: https://recruit-holdings.com
+
+Current work: https://github.com/BeamMW/beam/projects/14
 
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
@@ -143,6 +163,8 @@ https://github.com/mimblewimble/grin/blob/master/doc/intro.md
 
 Original Mimblewimble paper http://docs.beam.mw/Mimblewimble.pdf
 
+SBBS: https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-(SBBS)
+
 Follow up Paper by Andrew Poelstra https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.pdf
 
 Andrew Poelstra on Mimblewimble https://www.youtube.com/watch?v=aHTRlbCaUyM&t=22s
@@ -166,6 +188,11 @@ Behind Mimblewimble https://medium.com/@jcliff/behind-mimblewimble-cd9da78a00e9?
 Andreas Antonopoulos on mimblewimble and Dandelion https://www.youtube.com/watch?v=LjDJGTpK_lE
 
 Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88
+
+# Grin
+
+https://grinscan.net/charts
+
 
 # Mining pools
 
@@ -372,6 +399,8 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 
 State Channels on the aeternity Blockchain by Ulf Wiger: https://www.youtube.com/watch?v=fAFbaQyLAqU
 
+Ledger Nano S: https://hackmd.aepps.com/s/rJ50IACAm#
+
 
 ## Inne
 
@@ -505,7 +534,7 @@ https://mashable.com/video/tim-berners-lee-new-decentralized-internet-solid-inru
 
 https://github.com/ethereum/eth2.0-specs
 
-
+https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-d46d8ac914ce
 
 
 
@@ -555,3 +584,10 @@ W sali konferencyjnej na pierwszym piętrze. Dla ułatwienia, nie ma żadnej inn
 Z pozdrowieniami,
 
 Tomasz Waszczyk
+
+
+# Links
+
+https://medium.com/@rileysilbert/best-blockchain-crypto-podcasts-of-2019-2d81d2ac762c
+
+

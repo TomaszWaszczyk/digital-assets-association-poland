@@ -59,6 +59,8 @@ https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)
 
 # History
 * 1976 - Cipher Block Chaining (CBC) - https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#CBC
+* 1981 November - „Hash chain”: L. Lamport, “Password Authentication with Insecure Communication”, Communications of
+the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain 
 * 1983 — David Chaum, Blind Signatures for Untraceable Payments, proposes an early form of digital value transfer
 * The late 1980s — likeminded individuals began to pool ideas founding the Cypherpunk movement
 * 1989 — DigiCash launch
@@ -75,3 +77,6 @@ https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
 * 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
     
+    
+# Books
+* Bitcoin Billionaires: A True Story of Genius, Betrayal, and Redemption
