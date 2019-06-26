@@ -223,6 +223,14 @@ https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 
 5. In MW there are no address. So for what block explorer?
 
+# QTUM Hackathon
+
+Some useful link team formation link: https://trello.com/b/g4LHnM5L/2019-qtum-privacy-hackathon-team-formation discord group： https://discord.gg/mFFNZhB Sign up web: https://hackathon.qtum.org/ 
+https://hackathon.qtum.org/ 
+
+
+Contact: howard @ qtum . org
+
 
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
 
