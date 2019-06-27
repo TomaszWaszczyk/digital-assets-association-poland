@@ -291,6 +291,8 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 
 16. https://medium.com/@kscarbrough1/blockchain-is-just-one-chapter-in-the-larger-story-being-written-by-cryptography-right-now-a6d6a94ff372
 
+17. https://www.deribit.com/main#/insurance
+
 
 ## Pytania
 
