@@ -61,6 +61,8 @@ https://www.fatf-gafi.org/publications/fatfrecommendations/documents/regulation-
 
 https://encyklopediakryptowalut.pl/
 
+https://en.wikipedia.org/wiki/David_Chaum
+
 
 ## Tipbox
 
