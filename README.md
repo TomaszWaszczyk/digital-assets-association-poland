@@ -611,6 +611,7 @@ Tomasz Waszczyk
 
 # Links
 
-https://medium.com/@rileysilbert/best-blockchain-crypto-podcasts-of-2019-2d81d2ac762c
+* https://medium.com/@rileysilbert/best-blockchain-crypto-podcasts-of-2019-2d81d2ac762c
 
+* Derivation path: https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2
 
