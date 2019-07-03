@@ -542,6 +542,11 @@ White paper: https://github.com/ethereum/wiki/wiki/White-Paper
 
 https://github.com/ConsenSys
 
+> Po meetupie:
+
+Phase 2: https://notes.ethereum.org/s/Bkoaj4xpN
+
+
 # Silesia Blockchain Meetup #6 - 4.12.2018
 
 * Hackathon: 10-14 grudnia https://hack4climate.org - 2 miejsca - wydarzenie zamknięte (English must have, coding skills must have)
