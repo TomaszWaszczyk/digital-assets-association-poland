@@ -77,3 +77,6 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
 * 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
     
+    
+# Books
+* Bitcoin Billionaires: A True Story of Genius, Betrayal, and Redemption

@@ -8,7 +8,7 @@
 
 18.15 Rejestracja uczestników spotkania
 
-18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+18.30 Otwarcie spotkania - Tomasz Waszczyk
 
 18.35 TecraCoin,MTP, Sigma, Przemysław Karda
 
@@ -19,17 +19,17 @@ Przemysław Karda
 Since 2006, he has been associated with the IT market. At the age of 21, he founded the first technology company operating in the UK. A former Polish army officer trained in the US Air Force. The creator of the Business Forces leadership program. The co-owner of Belters sp. z o.o. - one of the largest Altcoin mine in Poland, involved in ICO projects and applications based on blockchain technology. Co founder of TecraCoin. The author of science-fiction book entitled ‘Interregnum’, which was a bestseller in science fiction category in Poland. Traveler, philosopher and entrepreneur.
 
 ## Opis prezentacji:
-Dlaczego własny blockchain, czemu PoW i kiedy dPoW.
+> Dlaczego własny blockchain, czemu PoW i kiedy dPoW.
 
-Dlaczego protokół prywatności.
+> Dlaczego protokół prywatności.
 
-Dlaczego MTP.
+> Dlaczego MTP.
 
-Jakie autorskie implementacje planujemy w TecraCoin.
+> Jakie autorskie implementacje planujemy w TecraCoin.
 
-Sysem głosowań, crypto-lokata, smart contract, tokeny udziałowe
+> Sysem głosowań, crypto-lokata, smart contract, tokeny udziałowe
 
-Panel inwestora i nowe wllety.
+> Panel inwestora i nowe wllety.
 
 Partnerem spotkania jest https://bithub.pl oraz https://www.ilovecrypto.pl
 
@@ -51,9 +51,27 @@ https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf
 
 https://www.facebook.com/Silesia-Blockchain-Meetup
 
+https://www.meetup.com/Silesia-Blockchain-Meetup/
+
 Sigma: https://eprint.iacr.org/2014/764.pdf
 
 https://twitter.com/aramjivanyan
+
+https://www.fatf-gafi.org/publications/fatfrecommendations/documents/regulation-virtual-assets-interpretive-note.html
+
+https://encyklopediakryptowalut.pl/
+
+https://en.wikipedia.org/wiki/David_Chaum
+
+
+# Sigma
+
+Sigma (Σ) Protocol completely removes the need for a trusted setup, which is a major milestone for any privacy coin. In this design, RSA Accumulators which had previously been used for Zerocoin are replaced with Elliptic Curve Groups. As a side effect, Zerocoin proof sizes are reduced from 25 kB to around 1 kB and mint sizes cut by 75%, making Zerocoin much more scalable. Furthermore, it significantly enlarges anonymity sets (to >16,000 [tbd.]) and increases overall security. The latter is achieved by introducing 256-bit elliptic curves which, in terms of security, are roughly equivalent to 3072-bit RSA as opposed to 2048-bit RSA in use by Zerocoin before.
+
+
+## Tipbox
+
+Będę wdzięczny za wsparcie (adresy w linku): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt
 
 
 # Silesia Blockchain Meetup #11 - MimbleWimble jako BEAM
@@ -88,6 +106,8 @@ Newsletter: https://beamprivacy.substack.com/
 Investor: https://recruit-holdings.com
 
 Current work: https://github.com/BeamMW/beam/projects/14
+
+Halving and stats data: https://beamprivacy.community/stats
 
 Alexander Zaidelson, CEO of Beam, on Enhancing Mimble Wimble: https://www.youtube.com/watch?v=wg18qtq8S7A
 
@@ -185,6 +205,13 @@ Andreas Antonopoulos on mimblewimble and Dandelion https://www.youtube.com/watch
 
 Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88
 
+https://geti2p.net/en/
+
+# Grin
+
+https://grinscan.net/charts
+
+
 # Mining pools
 
 https://beam.leafpool.com/
@@ -204,6 +231,14 @@ https://medium.com/beam-mw/mimblewimble-beam-roadmap-2019-b2c7f38fc106
 4. BEAM is going to implement PoS and/or master nodes?
 
 5. In MW there are no address. So for what block explorer?
+
+# QTUM Hackathon
+
+Some useful link team formation link: https://trello.com/b/g4LHnM5L/2019-qtum-privacy-hackathon-team-formation discord group： https://discord.gg/mFFNZhB Sign up web: https://hackathon.qtum.org/ 
+https://hackathon.qtum.org/ 
+
+
+Contact: howard @ qtum . org
 
 
 # Silesia Blockchain Meetup #10 - Rav3nPL czyli Rafał Kiełbus o stanie ekosystemu Bitcoin - 03.04.2019
@@ -262,6 +297,10 @@ Autor wielu wystąpień i artykułów pod wspólnym tytułem "Rafał prostuje Bi
 14. http://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain
 
 15. http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/
+
+16. https://medium.com/@kscarbrough1/blockchain-is-just-one-chapter-in-the-larger-story-being-written-by-cryptography-right-now-a6d6a94ff372
+
+17. https://www.deribit.com/main#/insurance
 
 
 ## Pytania
@@ -390,6 +429,8 @@ Ulf Wiger - Building a Blockchain in Erlang | Code Mesh LDN 18: https://www.yout
 
 State Channels on the aeternity Blockchain by Ulf Wiger: https://www.youtube.com/watch?v=fAFbaQyLAqU
 
+Ledger Nano S: https://hackmd.aepps.com/s/rJ50IACAm#
+
 
 ## Inne
 
@@ -506,6 +547,11 @@ White paper: https://github.com/ethereum/wiki/wiki/White-Paper
 
 https://github.com/ConsenSys
 
+> Po meetupie:
+
+Phase 2: https://notes.ethereum.org/s/Bkoaj4xpN
+
+
 # Silesia Blockchain Meetup #6 - 4.12.2018
 
 * Hackathon: 10-14 grudnia https://hack4climate.org - 2 miejsca - wydarzenie zamknięte (English must have, coding skills must have)
@@ -523,7 +569,7 @@ https://mashable.com/video/tim-berners-lee-new-decentralized-internet-solid-inru
 
 https://github.com/ethereum/eth2.0-specs
 
-
+https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-d46d8ac914ce
 
 
 
@@ -573,3 +619,11 @@ W sali konferencyjnej na pierwszym piętrze. Dla ułatwienia, nie ma żadnej inn
 Z pozdrowieniami,
 
 Tomasz Waszczyk
+
+
+# Links
+
+* https://medium.com/@rileysilbert/best-blockchain-crypto-podcasts-of-2019-2d81d2ac762c
+
+* Derivation path: https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2
+
