@@ -31,6 +31,12 @@ The onboarding process is a real pain, as it typically takes nearly 30 steps to 
 
 I will talk about why on-ramps matter, what are the trade-offs of different types of on-ramps and finally present our newest attempt to build the perfect onramp: Ramp Instant, built with smart contracts on top of open banking APIs, meant to boost adoption and soothe onboarding pains.
 
+## Questions
+
+1. What is the impact of 'comming' Ethereum 2.0 for Ramp? There is a need for any migration etc. ?
+
+2. 
+
 ## Prośba
 
 Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
