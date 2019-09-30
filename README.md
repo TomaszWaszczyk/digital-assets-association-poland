@@ -108,6 +108,8 @@ https://encyklopediakryptowalut.pl/
 
 https://en.wikipedia.org/wiki/David_Chaum
 
+https://coinmarketcap.com/currencies/zcoin/#ratings
+
 
 # Sigma
 

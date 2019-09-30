@@ -79,4 +79,7 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
     
     
 # Books
+
 * Bitcoin Billionaires: A True Story of Genius, Betrayal, and Redemption
+
+* Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money
