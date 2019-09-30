@@ -1,10 +1,55 @@
+# SBM vol. #13 - Ramp Instant - user-friendly, trust-minimised, fiat to crypto
+
+<p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/15-10-2019/ramp_logo.png">
+</p>
+
+## Agenda
+
+18.15 Rejestracja uczestników spotkania
+
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
+18.35 Ramp Instant - building user-friendly, trust-minimised, fiat to crypto onramp, Przemek Kowalczyk
+
+~19.45 Zakończenie spotkania
+
+## Prelegent
+
+Przemek Kowalczyk
+
+Przemek Kowalczyk is a programmer, econophysicist, and entrepreneur. Formerly a Machine Learning specialist at Boston Consulting Group, Przemek first got involved in blockchain technology while publishing a proposal for a decentralized p2p lending network. He co-established Blockchain Hub Warsaw (http://bhwarsaw.org), a foundation connecting Poland’s leading blockchain teams (including Golem, Ramp and MakerDAO).
+In 2017 he co-founded Ramp out of a passion for decentralization and freedom, also has built the first prototype of open banking-blockchain connection. Since then, he is concentrated solely on leading Ramp product team, on the mission of disrupting the centralised fiat-to-crypto exchanges market.
+
+## Description
+
+Ramp Instant - building user-friendly, trust-minimised, fiat to crypto onramp
+
+We now finally see DApps built with a broad audience in mind. It seems we are on the verge of mass adoption, yet we did not nail the most important element of the adoption puzzle: how to onboard a user that doesn’t have any crypto?
+
+The onboarding process is a real pain, as it typically takes nearly 30 steps to complete. Plus, all of the popular onramps today are centralised and custodial. We at Ramp made an attempt to build an easy to use, non-custodial on-ramp that with time can get decentralised.
+
+I will talk about why on-ramps matter, what are the trade-offs of different types of on-ramps and finally present our newest attempt to build the perfect onramp: Ramp Instant, built with smart contracts on top of open banking APIs, meant to boost adoption and soothe onboarding pains.
+
+## Prośba
+
+Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
+
+## Linki
+
+1. https://www.ramp.network/
+
+2. https://instant.ramp.network/
+
+3. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
+
 # Silesia Blockchain Meetup #12 - Merkle Tree Proof, TecraCoin oraz protokół Sigma
 
 <p align="center">
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/25-06-2019/tecracoin.png">
 </p>
 
-## Agenda:
+## Agenda
 
 18.15 Rejestracja uczestników spotkania
 
