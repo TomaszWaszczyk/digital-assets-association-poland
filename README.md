@@ -49,6 +49,14 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 3. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
 
+## Eth2.0 - valuable links
+
+1. https://hackmd.io/e4cNiocFTiS67j6yJ_XHPw
+
+2. https://hackmd.io/UzysWse1Th240HELswKqVA
+
+3. https://docs.ethhub.io/other/ethereum-2.0-ama/
+
 # Silesia Blockchain Meetup #12 - Merkle Tree Proof, TecraCoin oraz protokół Sigma
 
 <p align="center">
