@@ -688,3 +688,8 @@ Tomasz Waszczyk
 
 * Derivation path: https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2
 
+# Helpful knowledge
+
+https://eips.ethereum.org/EIPS/eip-1973
+
+http://1973alliance.com/
