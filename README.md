@@ -693,3 +693,5 @@ Tomasz Waszczyk
 https://eips.ethereum.org/EIPS/eip-1973
 
 http://1973alliance.com/
+
+Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logarithm
