@@ -78,6 +78,26 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * 22 May 2010 — Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John’s pizzas, one of the first documented transactions.
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
 * 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
+
+# Cypherpunks/cryptographers worth to mention
+
+- Wei Dai 
+
+- Hal Finney
+
+- Whitfield Diffie
+
+- Ralph Merkle
+
+- David Chaum
+
+- Phil Zimmermann
+
+- Tim May
+
+- Eric Hughes
+
+- Zooko Wilcox
     
     
 # Books
