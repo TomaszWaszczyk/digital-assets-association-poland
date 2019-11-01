@@ -70,6 +70,8 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * 1997 — Initial proposition of Hashcash by Adam Black
 * 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase and Wei Dai proposed B-money to allow for an "anonymous, distributed electronic cash system". 
 * 2002 — Adam Black more formerly outlines the Hashcash concept in his paper ‘Hashcash — A Denial of Service Counter-Measure’
+* 2004 - Hal Finney built upon the idea of Hashcash and created Reusable Proofs of Work. 
+* 2005 - Nick Szabo proposed Bit Gold. Where unforgettable proof of work chains would share properties of gold: scarce, valuable and trust minimised but with the benefit of being easily transactable. 
 * 18 August 2008 — The Bitcoin domain was registered
 * 31 October 2008 — The ‘Bitcoin: A Peer-to-Peer Electronic Cash System’ paper was distributed to a cryptography mailing list by Satoshi Nakamoto
 * 3 January 2009 — The Bitcoin genesis block was mined — embedded in this block was the text ‘The Times 03/Jan/2009 Chancellor on brink of second bailout for banks’
