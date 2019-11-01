@@ -68,7 +68,7 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * 1997 — Jim Choate and Igor Chudov set up the Cypherpunks Distributed Remailer
 * 1997 — The launch of b-money an ‘anonymous, distributed electronic cash system’
 * 1997 — Initial proposition of Hashcash by Adam Black
-* 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase
+* 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase and Wei Dai proposed B-money to allow for an "anonymous, distributed electronic cash system". 
 * 2002 — Adam Black more formerly outlines the Hashcash concept in his paper ‘Hashcash — A Denial of Service Counter-Measure’
 * 18 August 2008 — The Bitcoin domain was registered
 * 31 October 2008 — The ‘Bitcoin: A Peer-to-Peer Electronic Cash System’ paper was distributed to a cryptography mailing list by Satoshi Nakamoto
