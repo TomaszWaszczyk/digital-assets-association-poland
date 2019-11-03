@@ -1,4 +1,4 @@
-# SBM vol. #13 - Ramp Instant - user-friendly, trust-minimised, fiat to crypto
+# SBM vol. #13 - Cezary "lightning" Dziemian  - Lightening Network
 
 <p align="center">
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/15-10-2019/">
@@ -24,7 +24,7 @@
 
 ## Questions
 
-1. 
+1. Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
 
 2. 
 
