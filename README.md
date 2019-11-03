@@ -1,6 +1,50 @@
 # SBM vol. #13 - Ramp Instant - user-friendly, trust-minimised, fiat to crypto
 
 <p align="center">
+  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/15-10-2019/">
+</p>
+
+## Agenda
+
+18.15 Rejestracja uczestników spotkania
+
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
+18.35 
+
+~19.45 Zakończenie spotkania
+
+## Prelegent
+
+
+
+## Description
+
+
+
+## Questions
+
+1. 
+
+2. 
+
+## Prośba
+
+Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
+
+## Linki
+
+1. https://www.veriphi.io/the-lightning-conference-2019
+
+2. 
+
+3. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
+
+4. https://rawaink.katowice.eu/en/
+
+# SBM vol. #13 - Ramp Instant - user-friendly, trust-minimised, fiat to crypto
+
+<p align="center">
   <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/15-10-2019/ramp_logo.png">
 </p>
 
