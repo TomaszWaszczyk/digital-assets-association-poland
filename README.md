@@ -93,6 +93,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 3. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
 
+4. https://www.adex.network/
+
 ## Eth2.0 - valuable links
 
 1. https://hackmd.io/e4cNiocFTiS67j6yJ_XHPw
