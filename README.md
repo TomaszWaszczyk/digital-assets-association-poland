@@ -1,8 +1,4 @@
-# SBM vol. #13 - Cezary "lightning" Dziemian  - Lightening Network
-
-<p align="center">
-  <img src="https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/15-10-2019/">
-</p>
+# SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
 ## Agenda
 
