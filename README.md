@@ -24,7 +24,9 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 1. Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
 
-2. 
+2. Parę lat temu mowiło się, że LTC będzie srebrnym BTC, środowiskiem testowym dla wszystkich większych funkcjonalności dla BTC, czy nie uważasz, że LTC zatrzymało się - rozwój LN dla LTC zatrzymał się mówiąc wprost?
+
+3. 
 
 ## Prośba
 
