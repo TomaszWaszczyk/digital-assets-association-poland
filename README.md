@@ -6,21 +6,23 @@
 
 ## Agenda
 
-18.15 Rejestracja uczestników spotkania
+17.45 Rejestracja uczestników spotkania
 
-18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+18.00 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
 
-18.35 
+18.05 Cezary "lightning" Dziemian - Lightening Network
 
-~19.45 Zakończenie spotkania
+~19.45 Zakończenie spotkania, sesja Q&A
 
-## Prelegent
+~20.00 Integracja oraz piwo
 
+## Prelegent - Cezary "lightning" Dziemian
 
+Jestem programistą z kilkunastoletnim stażem. Zacząłem w liceum od sprzedawania własnych programów na Allegro. Oprócz tego, że pracowałem na etat udało mi się po drodze spłodzić parę fajnych rzeczy jak np. grę Milionerzy Gold Edition, czy bota do automatycznego udzielania pożyczek w serwisie Kokos.pl. Swoją przygodę z Bitcoinem rozpocząłem w 2013 roku w momencie zamknięcia platformy Silkroad przez organy ścigania USA. Początkowo nie angażowałem się w tematykę kryptowalut jako programista. Zachowywałem zdrowy sceptycyzm, ze względu na niską skalowalność jak i konieczność oczekiwania na potwierdzenia transakcji. Uważałem, ze istnieją szanse na rozwój ale nie tak duże, by z krypto wiązać swoją karierę zawodową. Przełom nastąpił gdy w roku 2016 zapoznałem się z technologią o nazwie Lightning Network. Uznałem wówczas, że istnieje całkiem spora szansa na to, że jednak kiedyś w przyszłości krytpowaluty będą nadawały się do płacenia. Od tego momentu zaangażowałem się dość mocno. Założyłem stronę lightningnetwork.pl by podzielić się z innymi ludźmi swoim odkryciem. Później powstała też grupa na Facebooku. Udało mi się również zaimplementować LN na giełdzie BTCDuke, czyniąc tą giełdę pierwszą na świecie, która przyjmuje zarówno wpłaty jak i wypłaty przy użyciu Lightning Network. Stworzyłem również stronę ln.zone, pomagającą tym, którzy chcą przyjmować płatności przy użyciu LN.
 
 ## Description
 
-
+Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. How it Works. The Lightning Network is dependent upon the underlying technology of the blockchain.
 
 ## Questions
 
@@ -36,11 +38,19 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 1. https://www.veriphi.io/the-lightning-conference-2019
 
-2. 
+2. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
 
-3. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
+3. https://rawaink.katowice.eu/en/
 
-4. https://rawaink.katowice.eu/en/
+## Nagrania Cezarego
+
+* https://www.youtube.com/watch?v=pEpzYMQFrT0
+
+* https://www.youtube.com/watch?v=hgfx8XSr65Y
+
+* https://www.youtube.com/watch?v=4n1d42ZLxEE
+
+* https://www.youtube.com/watch?v=u5WK-kzl5tY
 
 # SBM vol. #13 - Ramp Instant - user-friendly, trust-minimised, fiat to crypto
 
