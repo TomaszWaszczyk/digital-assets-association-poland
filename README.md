@@ -1,6 +1,6 @@
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
-## Agenda
+## ⚪️ Agenda
 
 17.45 Rejestracja uczestników spotkania
 
@@ -12,15 +12,15 @@
 
 ~20.00 Integracja oraz piwo
 
-## Prelegent - Cezary "lightning" Dziemian
+## ⚪️ Prelegent - Cezary "lightning" Dziemian
 
 Jestem programistą z kilkunastoletnim stażem. Zacząłem w liceum od sprzedawania własnych programów na Allegro. Oprócz tego, że pracowałem na etat udało mi się po drodze spłodzić parę fajnych rzeczy jak np. grę Milionerzy Gold Edition, czy bota do automatycznego udzielania pożyczek w serwisie Kokos.pl. Swoją przygodę z Bitcoinem rozpocząłem w 2013 roku w momencie zamknięcia platformy Silkroad przez organy ścigania USA. Początkowo nie angażowałem się w tematykę kryptowalut jako programista. Zachowywałem zdrowy sceptycyzm, ze względu na niską skalowalność jak i konieczność oczekiwania na potwierdzenia transakcji. Uważałem, ze istnieją szanse na rozwój ale nie tak duże, by z krypto wiązać swoją karierę zawodową. Przełom nastąpił gdy w roku 2016 zapoznałem się z technologią o nazwie Lightning Network. Uznałem wówczas, że istnieje całkiem spora szansa na to, że jednak kiedyś w przyszłości krytpowaluty będą nadawały się do płacenia. Od tego momentu zaangażowałem się dość mocno. Założyłem stronę lightningnetwork.pl by podzielić się z innymi ludźmi swoim odkryciem. Później powstała też grupa na Facebooku. Udało mi się również zaimplementować LN na giełdzie BTCDuke, czyniąc tą giełdę pierwszą na świecie, która przyjmuje zarówno wpłaty jak i wypłaty przy użyciu Lightning Network. Stworzyłem również stronę ln.zone, pomagającą tym, którzy chcą przyjmować płatności przy użyciu LN.
 
-## Description
+## ⚪️ Description
 
 Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. How it Works. The Lightning Network is dependent upon the underlying technology of the blockchain.
 
-## Questions
+## ⚪️ Questions
 
 1. Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
 
@@ -28,11 +28,11 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 3. 
 
-## Prośba
+## ⚪️ Prośba
 
 Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
 
-## Linki
+## ⚪️ Linki
 
 1. https://www.veriphi.io/the-lightning-conference-2019
 
@@ -40,7 +40,7 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 3. https://rawaink.katowice.eu/en/
 
-## Nagrania Cezarego
+## ⚪️ Nagrania Cezarego
 
 * https://www.youtube.com/watch?v=pEpzYMQFrT0
 
