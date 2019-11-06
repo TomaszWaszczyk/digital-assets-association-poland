@@ -20,7 +20,7 @@ Jestem programistą z kilkunastoletnim stażem. Zacząłem w liceum od sprzedawa
 
 Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. How it Works. The Lightning Network is dependent upon the underlying technology of the blockchain.
 
-## ⚪️ Questions
+## :question: Questions
 
 1. Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
 
