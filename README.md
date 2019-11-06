@@ -12,7 +12,7 @@
 
 ~20.00 Integracja oraz piwo
 
-## ⚪️ Prelegent - Cezary "lightning" Dziemian
+## :rocket: Prelegent - Cezary "lightning" Dziemian
 
 Jestem programistą z kilkunastoletnim stażem. Zacząłem w liceum od sprzedawania własnych programów na Allegro. Oprócz tego, że pracowałem na etat udało mi się po drodze spłodzić parę fajnych rzeczy jak np. grę Milionerzy Gold Edition, czy bota do automatycznego udzielania pożyczek w serwisie Kokos.pl. Swoją przygodę z Bitcoinem rozpocząłem w 2013 roku w momencie zamknięcia platformy Silkroad przez organy ścigania USA. Początkowo nie angażowałem się w tematykę kryptowalut jako programista. Zachowywałem zdrowy sceptycyzm, ze względu na niską skalowalność jak i konieczność oczekiwania na potwierdzenia transakcji. Uważałem, ze istnieją szanse na rozwój ale nie tak duże, by z krypto wiązać swoją karierę zawodową. Przełom nastąpił gdy w roku 2016 zapoznałem się z technologią o nazwie Lightning Network. Uznałem wówczas, że istnieje całkiem spora szansa na to, że jednak kiedyś w przyszłości krytpowaluty będą nadawały się do płacenia. Od tego momentu zaangażowałem się dość mocno. Założyłem stronę lightningnetwork.pl by podzielić się z innymi ludźmi swoim odkryciem. Później powstała też grupa na Facebooku. Udało mi się również zaimplementować LN na giełdzie BTCDuke, czyniąc tą giełdę pierwszą na świecie, która przyjmuje zarówno wpłaty jak i wypłaty przy użyciu Lightning Network. Stworzyłem również stronę ln.zone, pomagającą tym, którzy chcą przyjmować płatności przy użyciu LN.
 
