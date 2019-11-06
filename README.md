@@ -1,6 +1,6 @@
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
-## ⚪️ Agenda
+## :memo: Agenda
 
 17.45 Rejestracja uczestników spotkania
 
@@ -22,11 +22,11 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 ## :question: Questions
 
-1. Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
+:one: Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
 
-2. Parę lat temu mowiło się, że LTC będzie srebrnym BTC, środowiskiem testowym dla wszystkich większych funkcjonalności dla BTC, czy nie uważasz, że LTC zatrzymało się - rozwój LN dla LTC zatrzymał się mówiąc wprost?
+:two: Parę lat temu mowiło się, że LTC będzie srebrnym BTC, środowiskiem testowym dla wszystkich większych funkcjonalności dla BTC, czy nie uważasz, że LTC zatrzymało się - rozwój LN dla LTC zatrzymał się mówiąc wprost?
 
-3. 
+:three: 
 
 ## ⚪️ Prośba
 
