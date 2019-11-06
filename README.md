@@ -32,7 +32,7 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
 
-## ⚪️ Linki
+## :link: Linki
 
 1. https://www.veriphi.io/the-lightning-conference-2019
 
@@ -40,7 +40,7 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 3. https://rawaink.katowice.eu/en/
 
-## ⚪️ Nagrania Cezarego
+## :tv: Nagrania Cezarego
 
 * https://www.youtube.com/watch?v=pEpzYMQFrT0
 
