@@ -26,7 +26,9 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 :two: Parę lat temu mowiło się, że LTC będzie srebrnym BTC, środowiskiem testowym dla wszystkich większych funkcjonalności dla BTC, czy nie uważasz, że LTC zatrzymało się - rozwój LN dla LTC zatrzymał się mówiąc wprost?
 
-:three: 
+:three: Jest parę implementacji LN (C-Lightning czy lnd), czy polecasz którą? Wiesz może jakie są różnice między nimi?
+
+:four: 
 
 ## ⚪️ Prośba
 
