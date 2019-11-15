@@ -28,7 +28,7 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 :three: Jest parę implementacji LN (C-Lightning czy lnd), czy polecasz którą? Wiesz może jakie są różnice między nimi?
 
-:four: 
+:four: Co sądzi o Channel Factory? Czy i kiedy to może wejść i czy w ogolę ktoś coś już tworzy w tym kierunku?
 
 ## ⚪️ Prośba
 
