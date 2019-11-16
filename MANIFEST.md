@@ -64,16 +64,27 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * 1983 — David Chaum, Blind Signatures for Untraceable Payments, proposes an early form of digital value transfer
 * The late 1980s — likeminded individuals began to pool ideas founding the Cypherpunk movement
 * 1989 — DigiCash launch
+* 1991 - two research scientists, Stuart Haber and W. Scott Stornetta, identified a problem: How can it be ensured that digital documents are authentic and changes to them are tracked in an immutable time-stamped manner? In How to time-stamp a digital document, they worked on the concept of append-only, cryptographically secured logs. With their work, the foundations of what much later becomes blockchain technology were laid. Haber and Stornetta’s work was later followed and elaborated on by Ross J. Anderson in 1996 when he described the creation of The Eternity Service, a storage medium resistant to DoS attacks using redundancy and scattering techniques, as well as anonymity mechanisms.
 * 1992 — Creation of ‘A Cypherpunk Manifesto’ by Eric Hughes
+* 1994 - Computer scientist Nick Szabo first described the concept of smart contracts. It is important to recognize that Szabo's intent was to minimize the need for trusted intermediaries. In 1998 he proposed BitGold, a conceptual predecessor to Bitcoin as he argued for a decentralised digital currency. In both, PoW is used as a consensus algorithm to solve cryptographic puzzles in a P2P network with Byzantine Fault Tolerance. The solutions are also linked together by a "hash chain" (See: Moskoy, Phillip (2018): What Is Bit Gold? The Brainchild of Blockchain Pioneer Nick Szabo). Although BitGold was never implemented, many perceive it as being the direct ancestor to BitCoin.
 * 1997 — Jim Choate and Igor Chudov set up the Cypherpunks Distributed Remailer
 * 1997 — The launch of b-money an ‘anonymous, distributed electronic cash system’
 * 1997 — Initial proposition of Hashcash by Adam Black
-* 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase and Wei Dai proposed B-money to allow for an "anonymous, distributed electronic cash system". 
+* 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase and Wei Dai proposed B-money to allow for an "anonymous, distributed electronic cash system". Bruce Schneier and John Kelsey proposed a computationally cheap way to safeguard sensitive information and allow for computer forensics with secure audit logs by using hashing, authentication keys, and encryption keys (See: Schneier, B. & Kelsey, J. (1998): Secure Audit Logs to Support Computer Forensics).
 * 2002 — Adam Black more formerly outlines the Hashcash concept in his paper ‘Hashcash — A Denial of Service Counter-Measure’
 * 2004 - Hal Finney built upon the idea of Hashcash and created Reusable Proofs of Work. 
 * 2005 - Nick Szabo proposed Bit Gold. Where unforgettable proof of work chains would share properties of gold: scarce, valuable and trust minimised but with the benefit of being easily transactable. 
 * 18 August 2008 — The Bitcoin domain was registered
 * 31 October 2008 — The ‘Bitcoin: A Peer-to-Peer Electronic Cash System’ paper was distributed to a cryptography mailing list by Satoshi Nakamoto
+
+> To this day, we do not know who is behind the white paper or the first implementation of the client. Satoshi Nakamoto is the pseudonym used by the person or group that published the white paper. As you might have seen in the news, the identity of Nakomoto has sparked plenty of conspiracy theories as several individuals have claimed to be the creator of Bitcoin. But to this date, none of the claims have been verified.
+
+What is certain is that the community initially working on the network and the client can be characterised as generally pro-capitalist, anti-regulation and monopoly, as well as pro-free-trade. Many of those developing and driving the technology have also heralded its potential to reduce corruption and perceived human failures by pushing processes out of human reach.
+
+All this may not seem important but it is. Blockchain technology was built with disruption in mind. It was envisaged as the antithesis of the central control of banks, governments, and incumbent holders of monopolies. This has an influence on the direction of the technology and remains a strong influence on its development.
+
+Given its anti-establishment roots, blockchain technology has been seized upon by other groups interested in circumventing government, law enforcement, or regulatory control, both on the radical right and left fringes, as well as among activists persecuted by their governments.
+
 * 3 January 2009 — The Bitcoin genesis block was mined — embedded in this block was the text ‘The Times 03/Jan/2009 Chancellor on brink of second bailout for banks’
 * 22 May 2010 — Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John’s pizzas, one of the first documented transactions.
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
