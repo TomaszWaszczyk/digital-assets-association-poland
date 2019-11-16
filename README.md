@@ -5,7 +5,9 @@
 
 1. Sigma light wallet - is it possible? Is it on the road map, any comment on that?
 
-2. 
+2. Channel Factory?
+
+3.
 
 ## Links
 
