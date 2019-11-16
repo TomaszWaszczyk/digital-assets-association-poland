@@ -34,6 +34,8 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 :six: Co sądzisz o BIP324?
 
+:seven: BTC a PoS?
+
 ## ⚪️ Prośba
 
 Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
