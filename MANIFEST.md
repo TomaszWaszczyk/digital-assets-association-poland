@@ -79,11 +79,11 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 
 > To this day, we do not know who is behind the white paper or the first implementation of the client. Satoshi Nakamoto is the pseudonym used by the person or group that published the white paper. As you might have seen in the news, the identity of Nakomoto has sparked plenty of conspiracy theories as several individuals have claimed to be the creator of Bitcoin. But to this date, none of the claims have been verified.
 
-What is certain is that the community initially working on the network and the client can be characterised as generally pro-capitalist, anti-regulation and monopoly, as well as pro-free-trade. Many of those developing and driving the technology have also heralded its potential to reduce corruption and perceived human failures by pushing processes out of human reach.
+> What is certain is that the community initially working on the network and the client can be characterised as generally pro-capitalist, anti-regulation and monopoly, as well as pro-free-trade. Many of those developing and driving the technology have also heralded its potential to reduce corruption and perceived human failures by pushing processes out of human reach.
 
-All this may not seem important but it is. Blockchain technology was built with disruption in mind. It was envisaged as the antithesis of the central control of banks, governments, and incumbent holders of monopolies. This has an influence on the direction of the technology and remains a strong influence on its development.
+> All this may not seem important but it is. Blockchain technology was built with disruption in mind. It was envisaged as the antithesis of the central control of banks, governments, and incumbent holders of monopolies. This has an influence on the direction of the technology and remains a strong influence on its development.
 
-Given its anti-establishment roots, blockchain technology has been seized upon by other groups interested in circumventing government, law enforcement, or regulatory control, both on the radical right and left fringes, as well as among activists persecuted by their governments.
+> Given its anti-establishment roots, blockchain technology has been seized upon by other groups interested in circumventing government, law enforcement, or regulatory control, both on the radical right and left fringes, as well as among activists persecuted by their governments.
 
 * 3 January 2009 — The Bitcoin genesis block was mined — embedded in this block was the text ‘The Times 03/Jan/2009 Chancellor on brink of second bailout for banks’
 * 22 May 2010 — Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John’s pizzas, one of the first documented transactions.
