@@ -90,6 +90,7 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
 * 2014 - Ethereum has a much faster block time, i.e. the time it takes to generate a new block, than Bitcoin (currently around 15s), made practical thanks to its implementation of the GHOST protocol (https://www.cs.huji.ac.il/%7Eyoni_sompo/pubs/15/inclusive_full.pdf). Ethereum implements a variation of Bitcoin's proof-of-work consensus algorithm called Ethash, which is intended to be ASIC-resistant and GPU friendly(https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale). Core developers of the Ethereum project are planning to switch to the proof-of-stake consensus algorithm in the future.
 * 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
+* 2018 - Tezos was the first liquid PoS system to launch when it did so in June 2018. An earlier and smaller PoS implementation is used in Nxt (cryptocurrency and payment network launched in 2013). PoS solves the energy problem in PoW as "work" (i.e. use of energy through computational power) is not the proof requested.
 
 # Cypherpunks/cryptographers worth to mention
 
