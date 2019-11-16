@@ -53,6 +53,9 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 * https://www.youtube.com/watch?v=u5WK-kzl5tY
 
 ---
+---
+---
+---
 
 # SBM vol. #13 - Ramp Instant - user-friendly, trust-minimised, fiat to crypto
 
