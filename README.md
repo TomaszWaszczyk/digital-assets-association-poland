@@ -38,6 +38,104 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 :eight: Anonimowość a LN?
 
+:nine: <details><summary>Lightning node customization options<summary>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*rgb*='RRGGBB'::
+    Your favorite color as a hex code.
+
+*alias*='NAME'::
+    Up to 32 UTF-8 characters to tag your node.  Completely silly, since anyone
+    can call their node anything they want.  The default is an
+    NSA-style codename derived from your public key, but "Peter Todd"
+    and "VAULTERO" are good options, too.
+
+*fee-base*='MILLISATOSHI'::
+    Default: 1000.  The base fee to charge for every payment which passes
+    through.  Note that millisatoshis are a very, very small unit!
+    Changing this value will only affect new channels and not existing ones.
+    If you want to change fees for existing channels, use the RPC call
+    lightning-setchannelfee(7).
+
+*fee-per-satoshi*='MILLIONTHS'::
+    Default: 10 (0.001%).  This is the proportional fee to charge for every
+    payment which passes through.  As percentages are too coarse, it's in
+    millionths, so 10000 is 1%, 1000 is 0.1%.  Changing this value will only
+    affect new channels and not existing ones.  If you want to change fees for
+    existing channels, use the RPC call lightning-setchannelfee(7).
+
+*min-capacity-sat*='SATOSHI'::
+    Default: 10000.  This value defines the minimal effective channel capacity
+    in satoshi to accept for channel opening requests.  If a peer tries to open
+    a channel smaller than this, the opening will be rejected.
+
+*ignore-fee-limits*='BOOL'::
+    Allow nodes which establish channels to us to set any fee they
+    want.  This may result in a channel which cannot be closed, should
+    fees increase, but make channels far more reliable since we never
+    close it due to unreasonable fees.
+
+*commit-time*='MILLISECONDS::
+    How long to wait before sending commitment messages to the peer: in
+    theory increasing this would reduce load, but your node would have to be
+    extremely busy node for you to even notice.
+
+Lightning channel and HTLC options
+
+*watchtime-blocks*='BLOCKS'::
+    How long we need to spot an outdated close attempt: on opening a channel
+    we tell our peer that this is how long they'll have to wait if they perform
+    a unilateral close.
+
+*max-locktime-blocks*='BLOCKS'::
+    The longest our funds can be delayed (ie. the longest *watchtime-blocks*
+    our peer can ask for, and also the longest HTLC timeout we will accept).
+    If our peer asks for longer, we'll refuse to create a channel, and if an
+    HTLC asks for longer, we'll refuse it.
+
+*funding-confirms*='BLOCKS'::
+    Confirmations required for the funding transaction when the other side
+    opens a channel before the channel is usable.
+
+*commit-fee*='PERCENT'::
+    The percentage of 'estimatesmartfee 2' to use for the bitcoin
+    transaction which funds a channel: can be greater than 100.
+
+*commit-fee-min*='PERCENT'::
+*commit-fee-max*='PERCENT'::
+    Limits on what onchain fee range we'll allow when a node opens a
+    channel with us, as a percentage of 'estimatesmartfee 2'.  If
+    they're outside this range, we abort their opening attempt.  Note
+    that *commit-fee-max* can (should!) be greater than 100.
+
+*max-concurrent-htlcs*='INTEGER'::
+    Number of HTLCs one channel can handle concurrently in each direction.
+    Should be between 1 and 483 (default 30).
+
+*cltv-delta*='BLOCKS'::
+    The number of blocks between incoming payments and outgoing payments:
+    this needs to be enough to make sure that if we have to, we can close
+    the outgoing payment before the incoming, or redeem the incoming once
+    the outgoing is redeemed.
+
+*cltv-final*='BLOCKS'::
+    The number of blocks to allow for payments we receive: if we have to,
+    we might need to redeem this on-chain, so this is the number of blocks
+    we have to do that.
+
+Invoice control options:
+
+*autocleaninvoice-cycle*='SECONDS'::
+    Perform cleanup of expired invoices every 'SECONDS' seconds, or
+    disable if 0.  Usually unpaid expired invoices are uninteresting,
+    and just take up space in the database.
+
+*autocleaninvoice-expired-by*='SECONDS'::
+    Control how long invoices must have been expired before they are
+    cleaned (if 'autocleaninvoice-cycle' is non-zero).
+
+<summary>
+
 ## ⚪️ Prośba
 
 Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
