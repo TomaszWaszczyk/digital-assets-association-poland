@@ -38,10 +38,10 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 :eight: Anonimowość a LN?
 
-:nine: 
+:nine: Omówienie pliku konfiguracyjnego LN:
 
-Omówienie pliku konfiguracyjnego LN - <details><summary>Lightning node customization options</summary>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<details><summary>Lightning node customization options</summary>
+
 
 *rgb*='RRGGBB'::
     Your favorite color as a hex code.
