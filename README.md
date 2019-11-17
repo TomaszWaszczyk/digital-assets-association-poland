@@ -38,7 +38,9 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 :eight: Anonimowość a LN?
 
-:nine: <details><summary>Lightning node customization options</summary>
+:nine: 
+
+<details><summary>Lightning node customization options</summary>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *rgb*='RRGGBB'::
@@ -134,7 +136,7 @@ Invoice control options:
     Control how long invoices must have been expired before they are
     cleaned (if 'autocleaninvoice-cycle' is non-zero).
 
-</summary>
+</details>
 
 ## ⚪️ Prośba
 
