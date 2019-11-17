@@ -42,7 +42,7 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 <details><summary>Lightning node customization options</summary>
 
-
+`
 *rgb*='RRGGBB'::
     Your favorite color as a hex code.
 
@@ -81,9 +81,9 @@ Lightning is a decentralized network using smart contract functionality in the b
     How long to wait before sending commitment messages to the peer: in
     theory increasing this would reduce load, but your node would have to be
     extremely busy node for you to even notice.
-
+`
 Lightning channel and HTLC options
-
+`
 *watchtime-blocks*='BLOCKS'::
     How long we need to spot an outdated close attempt: on opening a channel
     we tell our peer that this is how long they'll have to wait if they perform
@@ -135,7 +135,7 @@ Invoice control options:
 *autocleaninvoice-expired-by*='SECONDS'::
     Control how long invoices must have been expired before they are
     cleaned (if 'autocleaninvoice-cycle' is non-zero).
-
+`
 </details>
 
 ## ⚪️ Prośba
