@@ -22,6 +22,8 @@ Lightning is a decentralized network using smart contract functionality in the b
 
 ## :question: Questions
 
+:zero: Znasz może serwis w stylu BTC as a service? Wrzucony blockchain do SQL i można odpalać na takiej bazie zapytania SQL?
+
 :one: Jak lepiej instalować LN - za pomocą Docker czy kompilując (make)? - wady i zalety
 
 :two: Parę lat temu mowiło się, że LTC będzie srebrnym BTC, środowiskiem testowym dla wszystkich większych funkcjonalności dla BTC, czy nie uważasz, że LTC zatrzymało się - rozwój LN dla LTC zatrzymał się mówiąc wprost?
