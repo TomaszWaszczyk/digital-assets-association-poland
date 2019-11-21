@@ -154,6 +154,10 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 3. https://rawaink.katowice.eu/en/
 
+:four: https://blog.bitmex.com/lightning-network-part-4-all-adopt-the-watchtower/
+
+:five: https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin
+
 ## :tv: Nagrania Cezarego
 
 * https://www.youtube.com/watch?v=pEpzYMQFrT0
