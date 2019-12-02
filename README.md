@@ -2,6 +2,8 @@ https://bisq.network/roadmap/
 
 https://docs.bisq.network/dao-user-reference.html#bsq-genesis-distribution
 
+https://monitor.bisq.network
+
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
 ## :memo: Agenda
