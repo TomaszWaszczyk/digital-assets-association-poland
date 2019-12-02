@@ -1,3 +1,5 @@
+https://bisq.network/roadmap/
+
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
 ## :memo: Agenda
