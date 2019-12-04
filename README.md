@@ -940,3 +940,5 @@ Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logar
 https://bakechain.github.io/
 
 https://smartpy.io/
+
+https://medium.com/@SmartPy_io/introducing-smartpy-and-smartpy-io-d4013bee7d4e
