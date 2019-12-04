@@ -1,3 +1,9 @@
+https://bisq.network/roadmap/
+
+https://docs.bisq.network/dao-user-reference.html#bsq-genesis-distribution
+
+https://monitor.bisq.network
+
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
 ## :memo: Agenda
@@ -153,6 +159,10 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 2. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
 
 3. https://rawaink.katowice.eu/en/
+
+:four: https://blog.bitmex.com/lightning-network-part-4-all-adopt-the-watchtower/
+
+:five: https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin
 
 ## :tv: Nagrania Cezarego
 
