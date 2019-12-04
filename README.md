@@ -935,6 +935,8 @@ Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logar
 ---
 ---
 
+ꜩezos
+
 https://bakechain.github.io/
 
 
