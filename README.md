@@ -1,4 +1,4 @@
-# SBM vol. #14 - Decentralized stock exchange - bisq.network
+# SBM vol. #14 - Decentralized exchange - bisq.network
 
 ## :memo: Agenda
 
