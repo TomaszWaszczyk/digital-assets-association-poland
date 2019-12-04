@@ -1,8 +1,58 @@
-https://bisq.network/roadmap/
+# SBM vol. #14 - Decentralized stock exchange - bisq.network
 
-https://docs.bisq.network/dao-user-reference.html#bsq-genesis-distribution
+## :memo: Agenda
 
-https://monitor.bisq.network
+18.15 Rejestracja uczestników spotkania
+
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
+18.35 Decentralized stock exchange - bisq.network, Bernard Łabno
+
+~19.45 Zakończenie spotkania
+
+## :rocket: Prelegent - Bernard Łabno
+
+Jestem takim sobie zwykłym programistą. Hobbistycznie programuję od 2000 roku, zawodowo od 2004. Prowadzę też małą firmę programistyczną.
+
+Co nieco udzielałem się w projektach open-source, takich jak RichFaces, Arquillian i Bisq.
+Obecnie jestem związany z tym ostatnim.
+
+## :page_with_curl: Description
+
+1. Czym jest Bisq, w jaki sposób dba o anonimowość i bezpieczeństwo uczestników transakcji
+
+2. Zagrożenia i środki zaradcze
+
+2. Przeprowadzenie rzeczywistej transakcji
+
+3. Jak działa Bisq DAO, zostań kontrybutorem
+
+## :question: Questions
+
+:zero: Jak wygląda order book?
+
+## ⚪️ Prośba
+
+Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
+
+## :link: Linki
+
+1. https://bisq.network
+
+2. https://www.labnoratory.com
+
+3. https://www.historia.waszczyk.com/wychowanie-mlodego-czlowieka
+
+4. https://bisq.network/roadmap/
+
+5. https://docs.bisq.network/dao-user-reference.html#bsq-genesis-distribution
+
+6. https://monitor.bisq.network
+
+---
+---
+---
+---
 
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
