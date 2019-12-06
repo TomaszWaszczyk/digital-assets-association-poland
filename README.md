@@ -553,6 +553,10 @@ Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/
 
 https://geti2p.net/en/
 
+# Updates
+
+https://documentation.beam.mw/en/latest/rtd_pages/user_atomic_swap.html
+
 # Grin
 
 https://grinscan.net/charts
