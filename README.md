@@ -99,6 +99,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 6. https://monitor.bisq.network
 
+7. https://bisq.network/blog/the-bisq-dao-manifesto/
+
 ---
 ---
 ---
