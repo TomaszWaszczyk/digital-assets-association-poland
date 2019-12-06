@@ -1,3 +1,47 @@
+# SBM vol. #15 - BIP324 oraz BIP150 - Bartłomiej (Tony) Sanak
+
+## :memo: Agenda
+
+Anonimowość - Czy jej brak w Bitcoinie?
+Poruszymy braki w anonimowości sieci Bitcoin, jak najłatwiej przeprowadzić "atak" by znaleźć dodatkowe informacje o transakcjach i użytkownikach. Czy developerzy Bitcoina starają się zapobiec tym atakom, i w jaki sposób? Porozmawiamy o kilku propozycjach i sposobach przywrócenia anonimowości, jak
+-BIP324 - kodowanie wiadomości na warstwie P2P
+-BIP150 - autentykacja połączeń P2P
+-Dandelion - jak sprawić by transakcje zakwitły?
+-Coinjoin (zerolink) - w jaki sposób wysyłać transakcje by nie narazić się na stratę prywatności
+-SNICKER - mixowanie coinów bez interakcji?
+
+## :rocket: Prelegent
+
+Bartłomiej (Tony) Sanak jest programistą oraz fanem Bitcoina jako środka do osiągnięcia anonimowości w płatnościach. Na co dzień pracuje w firmie zajmującej się analityką w sieci Bitcoin, w szczególności wykrywaniem nielegalnych aktywności używających Bitcoina. Po pracy zmienia strony i interesuje się systemami anonimizacji transakcji oraz skalowalnością Bitcoina (LightningNetwork). Bartłomiej jest także guest-writerem dla BitcoinMagazine, pisze o tematyce technologii. Na co dzień mieszka w Vancouver i udziela się w lokalnych grupach promujących Bitcoina, w przeszłości co-organizował Crypto@Cracow meetup.
+
+Twitter: https://twitter.com/SanakTony
+
+Youtube: https://youtube.com/channel/UC1rMoMdDtHTXXfRg_iR-QJQ
+
+## :question: Questions
+
+:zero: Jak żyć? :D
+
+## ⚪️ Prośba
+
+Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
+
+## :link: Linki
+
+1. https://bitcoinmagazine.com/articles/snicker-how-alice-and-bob-can-mix-bitcoin-with-no-interaction
+
+2. https://bitcoinmagazine.com/articles/bip-324-a-message-transport-protocol-that-could-protect-bitcoin-peers
+
+3. https://bitcoinmagazine.com/articles/anatomy-anonymity-how-dandelion-could-make-bitcoin-more-private
+
+4. https://bitcoinmagazine.com/articles/nopara73-on-wasabi-wallet-and-the-quest-for-bitcoin-privacy
+
+---
+---
+---
+---
+
+
 # SBM vol. #14 - Decentralized exchange - bisq.network
 
 ## :memo: Agenda
