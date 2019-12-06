@@ -3,11 +3,17 @@
 ## :memo: Agenda
 
 Anonimowość - Czy jej brak w Bitcoinie?
+
 Poruszymy braki w anonimowości sieci Bitcoin, jak najłatwiej przeprowadzić "atak" by znaleźć dodatkowe informacje o transakcjach i użytkownikach. Czy developerzy Bitcoina starają się zapobiec tym atakom, i w jaki sposób? Porozmawiamy o kilku propozycjach i sposobach przywrócenia anonimowości, jak
+
 -BIP324 - kodowanie wiadomości na warstwie P2P
+
 -BIP150 - autentykacja połączeń P2P
+
 -Dandelion - jak sprawić by transakcje zakwitły?
+
 -Coinjoin (zerolink) - w jaki sposób wysyłać transakcje by nie narazić się na stratę prywatności
+
 -SNICKER - mixowanie coinów bez interakcji?
 
 ## :rocket: Prelegent
