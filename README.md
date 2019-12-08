@@ -991,7 +991,7 @@ Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logar
 ---
 ---
 
-ꜩezos
+# ꜩezos - notes
 
 https://bakechain.github.io/
 
@@ -1003,4 +1003,4 @@ https://medium.com/paradigm-fund/tezos-the-carthage-proposal-the-carthagenet-tes
 
 https://medium.com/paradigm-fund/state-of-stake-9-7ff2be5cbac3
 
-
+https://academy.b9lab.com/courses/course-v1:B9lab+BLOCKSTARS-TEZ-2+2019-11/
