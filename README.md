@@ -1008,3 +1008,5 @@ https://medium.com/paradigm-fund/state-of-stake-9-7ff2be5cbac3
 https://academy.b9lab.com/courses/course-v1:B9lab+BLOCKSTARS-TEZ-2+2019-11/
 
 https://www.octo.com/wp-content/uploads/2019/10/20191001_CP_Equisafe-Engl.pdf
+
+https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa
