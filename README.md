@@ -998,3 +998,9 @@ https://bakechain.github.io/
 https://smartpy.io/
 
 https://medium.com/@SmartPy_io/introducing-smartpy-and-smartpy-io-d4013bee7d4e
+
+https://medium.com/paradigm-fund/tezos-the-carthage-proposal-the-carthagenet-test-network-the-first-version-of-a-baker-registry-10e455075d93
+
+https://medium.com/paradigm-fund/state-of-stake-9-7ff2be5cbac3
+
+
