@@ -1006,3 +1006,5 @@ https://medium.com/paradigm-fund/tezos-the-carthage-proposal-the-carthagenet-tes
 https://medium.com/paradigm-fund/state-of-stake-9-7ff2be5cbac3
 
 https://academy.b9lab.com/courses/course-v1:B9lab+BLOCKSTARS-TEZ-2+2019-11/
+
+https://www.octo.com/wp-content/uploads/2019/10/20191001_CP_Equisafe-Engl.pdf
