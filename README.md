@@ -266,6 +266,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 :five: https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin
 
+:six: KuryLN: https://pollofeed.com/
+
 ## :tv: Nagrania Cezarego
 
 * https://www.youtube.com/watch?v=pEpzYMQFrT0
