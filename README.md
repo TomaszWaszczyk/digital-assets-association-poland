@@ -1,8 +1,110 @@
-https://bisq.network/roadmap/
+# SBM vol. #15 - BIP324 oraz BIP150 - Bartłomiej (Tony) Sanak
 
-https://docs.bisq.network/dao-user-reference.html#bsq-genesis-distribution
+## :memo: Agenda
 
-https://monitor.bisq.network
+Anonimowość - Czy jej brak w Bitcoinie?
+
+Poruszymy braki w anonimowości sieci Bitcoin, jak najłatwiej przeprowadzić "atak" by znaleźć dodatkowe informacje o transakcjach i użytkownikach. Czy developerzy Bitcoina starają się zapobiec tym atakom, i w jaki sposób? Porozmawiamy o kilku propozycjach i sposobach przywrócenia anonimowości, jak
+
+-BIP324 - kodowanie wiadomości na warstwie P2P
+
+-BIP150 - autentykacja połączeń P2P
+
+-Dandelion - jak sprawić by transakcje zakwitły?
+
+-Coinjoin (zerolink) - w jaki sposób wysyłać transakcje by nie narazić się na stratę prywatności
+
+-SNICKER - mixowanie coinów bez interakcji?
+
+## :rocket: Prelegent
+
+Bartłomiej (Tony) Sanak jest programistą oraz fanem Bitcoina jako środka do osiągnięcia anonimowości w płatnościach. Na co dzień pracuje w firmie zajmującej się analityką w sieci Bitcoin, w szczególności wykrywaniem nielegalnych aktywności używających Bitcoina. Po pracy zmienia strony i interesuje się systemami anonimizacji transakcji oraz skalowalnością Bitcoina (LightningNetwork). Bartłomiej jest także guest-writerem dla BitcoinMagazine, pisze o tematyce technologii. Na co dzień mieszka w Vancouver i udziela się w lokalnych grupach promujących Bitcoina, w przeszłości co-organizował Crypto@Cracow meetup.
+
+Twitter: https://twitter.com/SanakTony
+
+Youtube: https://youtube.com/channel/UC1rMoMdDtHTXXfRg_iR-QJQ
+
+## :question: Questions
+
+:zero: Jak żyć? :D
+
+## ⚪️ Prośba
+
+Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
+
+## :link: Linki
+
+1. https://bitcoinmagazine.com/articles/snicker-how-alice-and-bob-can-mix-bitcoin-with-no-interaction
+
+2. https://bitcoinmagazine.com/articles/bip-324-a-message-transport-protocol-that-could-protect-bitcoin-peers
+
+3. https://bitcoinmagazine.com/articles/anatomy-anonymity-how-dandelion-could-make-bitcoin-more-private
+
+4. https://bitcoinmagazine.com/articles/nopara73-on-wasabi-wallet-and-the-quest-for-bitcoin-privacy
+
+---
+---
+---
+---
+
+
+# SBM vol. #14 - Decentralized exchange - bisq.network
+
+## :memo: Agenda
+
+18.15 Rejestracja uczestników spotkania
+
+18.30 Otwarcie spotkania - Tomasz Drzewiecki, Tomasz Waszczyk
+
+18.35 Decentralized stock exchange - bisq.network, Bernard Łabno
+
+~19.45 Zakończenie spotkania
+
+## :rocket: Prelegent - Bernard Łabno
+
+Jestem takim sobie zwykłym programistą. Hobbistycznie programuję od 2000 roku, zawodowo od 2004. Prowadzę też małą firmę programistyczną.
+
+Co nieco udzielałem się w projektach open-source, takich jak RichFaces, Arquillian i Bisq.
+Obecnie jestem związany z tym ostatnim.
+
+## :page_with_curl: Description
+
+1. Czym jest Bisq, w jaki sposób dba o anonimowość i bezpieczeństwo uczestników transakcji
+
+2. Zagrożenia i środki zaradcze
+
+2. Przeprowadzenie rzeczywistej transakcji
+
+3. Jak działa Bisq DAO, zostań kontrybutorem
+
+## :question: Questions
+
+:zero: Jak wygląda order book?
+
+## ⚪️ Prośba
+
+Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
+
+## :link: Linki
+
+1. https://bisq.network
+
+2. https://www.labnoratory.com
+
+3. https://www.historia.waszczyk.com/wychowanie-mlodego-czlowieka
+
+4. https://bisq.network/roadmap/
+
+5. https://docs.bisq.network/dao-user-reference.html#bsq-genesis-distribution
+
+6. https://monitor.bisq.network
+
+7. https://bisq.network/blog/the-bisq-dao-manifesto/
+
+---
+---
+---
+---
 
 # SBM vol. #13 - Cezary "lightning" Dziemian - Lightening Network
 
@@ -163,6 +265,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 :four: https://blog.bitmex.com/lightning-network-part-4-all-adopt-the-watchtower/
 
 :five: https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin
+
+:six: KuryLN: https://pollofeed.com/
 
 ## :tv: Nagrania Cezarego
 
@@ -452,6 +556,10 @@ Andreas Antonopoulos on mimblewimble and Dandelion https://www.youtube.com/watch
 Privacy in Cryptocurrencies: Mixing-based Approaches https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88
 
 https://geti2p.net/en/
+
+# Updates
+
+https://documentation.beam.mw/en/latest/rtd_pages/user_atomic_swap.html
 
 # Grin
 
@@ -880,3 +988,25 @@ https://eips.ethereum.org/EIPS/eip-1973
 http://1973alliance.com/
 
 Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logarithm
+
+---
+---
+---
+
+# ꜩezos - notes
+
+https://bakechain.github.io/
+
+https://smartpy.io/
+
+https://medium.com/@SmartPy_io/introducing-smartpy-and-smartpy-io-d4013bee7d4e
+
+https://medium.com/paradigm-fund/tezos-the-carthage-proposal-the-carthagenet-test-network-the-first-version-of-a-baker-registry-10e455075d93
+
+https://medium.com/paradigm-fund/state-of-stake-9-7ff2be5cbac3
+
+https://academy.b9lab.com/courses/course-v1:B9lab+BLOCKSTARS-TEZ-2+2019-11/
+
+https://www.octo.com/wp-content/uploads/2019/10/20191001_CP_Equisafe-Engl.pdf
+
+https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa

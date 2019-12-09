@@ -120,3 +120,7 @@ the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain
 * Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money
 
 * https://www.scientificamerican.com/article/why-is-turings-halting-pr/
+
+* https://en.wikipedia.org/wiki/Cryptonomicon
+
+* https://en.wikipedia.org/wiki/Meritocracy
