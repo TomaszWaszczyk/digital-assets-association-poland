@@ -28,9 +28,8 @@ Youtube: https://youtube.com/channel/UC1rMoMdDtHTXXfRg_iR-QJQ
 
 :zero: Jak żyć? 
 
-:two: Adam Back - A New Language for Blockchains @ https://www.youtube.com/watch?v=GS47YxwxAMI
+:two: Adam Back - A New Language for Blockchains @ https://www.youtube.com/watch?v=GS47YxwxAMI <details><summary>Simplicity</summary>
 
-<details><summary>Simplicity</summary>
 Simplicity, który jest czymś w rodzaju "Assemblera" dla blockchain. W Bitcoinie może się pojawić w 2020+ roku.
 
 Z tego co rozumiem jest to kontynuacja projektu MAST. Język ten jest ogólnie o wiele prostszy od Scripta, ale bazuje na bardzo podstawowych wartościach, więc można z tych "małych cegiełek" tworzyć bardzo różne inteligentne kontrakty, jeśli dobrze wychwyciłem to jest nawet pomysł wprowadzenia zkSnarks, czyli anonimowych transakcji.
