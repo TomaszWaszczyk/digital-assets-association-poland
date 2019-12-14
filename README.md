@@ -1014,3 +1014,5 @@ https://www.octo.com/wp-content/uploads/2019/10/20191001_CP_Equisafe-Engl.pdf
 https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interacting-with-a-contract-5ee3efa819fa
 
 https://www.youtube.com/watch?v=PH8YQ1mr5ws
+
+https://reactcrypto.net/bruno-le-maire-praises-tezos-and-the-bank-of-france-tests-a-tezos-node/
