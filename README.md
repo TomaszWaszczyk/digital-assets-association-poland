@@ -26,7 +26,9 @@ Youtube: https://youtube.com/channel/UC1rMoMdDtHTXXfRg_iR-QJQ
 
 ## :question: Questions
 
-:zero: Jak żyć? :D
+:zero: Jak żyć? 
+
+:two: Adam Back - Simplicity - A New Language for Blockchains @ https://www.youtube.com/watch?v=GS47YxwxAMI
 
 ## ⚪️ Prośba
 
