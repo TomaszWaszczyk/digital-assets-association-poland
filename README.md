@@ -28,7 +28,21 @@ Youtube: https://youtube.com/channel/UC1rMoMdDtHTXXfRg_iR-QJQ
 
 :zero: Jak żyć? 
 
-:two: Adam Back - Simplicity - A New Language for Blockchains @ https://www.youtube.com/watch?v=GS47YxwxAMI
+:two: Adam Back - A New Language for Blockchains @ https://www.youtube.com/watch?v=GS47YxwxAMI
+
+<details><summary>Simplicity</summary>
+Simplicity, który jest czymś w rodzaju "Assemblera" dla blockchain. W Bitcoinie może się pojawić w 2020+ roku.
+
+Z tego co rozumiem jest to kontynuacja projektu MAST. Język ten jest ogólnie o wiele prostszy od Scripta, ale bazuje na bardzo podstawowych wartościach, więc można z tych "małych cegiełek" tworzyć bardzo różne inteligentne kontrakty, jeśli dobrze wychwyciłem to jest nawet pomysł wprowadzenia zkSnarks, czyli anonimowych transakcji.
+
+Ogólnie Simplicity jest bardzo wydajnym językiem i lekkim (interpreter ma 15KB), programy wydawane przez niego są matematycznie udowadnialne (Podobno bardzo rzadka dziedzina informatyki, można wyliczyć ile pamięci zużyje program itd.).
+
+W przyszłości może znieść potrzebę stosowania Soft Forków, gdyż można po prostu wrzucić kod Simplicity do blockchaina i węzły mające jego obsługę będą mogły go wykorzystywać, co pozwoli o wiele szybciej wprowadzać zmiany w Bitcoinie.
+
+Może podnieść też bezpieczeństwo, np. chroniąc przed złodziejami, gdzie jest system warunków, w której ludzie mogą głosować (?), by złodziejowi nie wysyłać pieniędzy. Tak więc potencjalnie giełdy będą mogły z cold walletów zrezygnować.
+
+Jeśli dobrze zrozumiałem to kod jaki ma być wykonywany (wcześniej podpisany?) nie musi być wysyłany w całości. Powiedzmy, że mamy kod, który wyda nam środki jeśli 2 klucze podpiszą transakcje lub 1 klucz i poczekanie 5000 bloków. Jak rozumiem w Scripts trzeba było taki kontrakt wrzucić na blockchain, a w Simplicity tylko interesujący nas fragment, co pozwoli zredukować ilość marnującej się powierzchni w blokach
+</details>
 
 ## ⚪️ Prośba
 
