@@ -351,7 +351,7 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 4. https://www.adex.network/
 
-5. MakerDAO: https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform
+5. [IMPORTANT] MakerDAO: https://slideslive.com/38911619/makerdao-a-new-hope-for-financial-reform
 
 ## Eth2.0 - valuable links
 
