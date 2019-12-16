@@ -43,6 +43,8 @@ Może podnieść też bezpieczeństwo, np. chroniąc przed złodziejami, gdzie j
 Jeśli dobrze zrozumiałem to kod jaki ma być wykonywany (wcześniej podpisany?) nie musi być wysyłany w całości. Powiedzmy, że mamy kod, który wyda nam środki jeśli 2 klucze podpiszą transakcje lub 1 klucz i poczekanie 5000 bloków. Jak rozumiem w Scripts trzeba było taki kontrakt wrzucić na blockchain, a w Simplicity tylko interesujący nas fragment, co pozwoli zredukować ilość marnującej się powierzchni w blokach
 </details>
 
+:three: Atak piaskowy na giełdy.
+
 ## ⚪️ Prośba
 
 Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, było to bardzo miłe (przyda się do opłacenia faktury meetup.com): https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/support.txt - to plik z adresami na które można podesłać napiwek, naturalnie preferowany BEAM ;-)
