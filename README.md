@@ -61,6 +61,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 4. https://bitcoinmagazine.com/articles/nopara73-on-wasabi-wallet-and-the-quest-for-bitcoin-privacy
 
+http://bitcoin.sipa.be/miniscript/
+
 ---
 ---
 ---
