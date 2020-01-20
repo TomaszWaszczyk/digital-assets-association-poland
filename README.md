@@ -63,6 +63,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 http://bitcoin.sipa.be/miniscript/
 
+https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos
+
 ---
 ---
 ---
