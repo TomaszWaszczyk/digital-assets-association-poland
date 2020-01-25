@@ -1041,3 +1041,7 @@ https://medium.com/protofire-blog/tezos-part-1-creating-deploying-and-interactin
 https://www.youtube.com/watch?v=PH8YQ1mr5ws
 
 https://reactcrypto.net/bruno-le-maire-praises-tezos-and-the-bank-of-france-tests-a-tezos-node/
+
+# Identity
+
+https://medium.com/marbleorg/introducing-humanity-90ddf9ead235
