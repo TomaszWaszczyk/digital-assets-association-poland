@@ -1045,3 +1045,9 @@ https://reactcrypto.net/bruno-le-maire-praises-tezos-and-the-bank-of-france-test
 # Identity
 
 https://medium.com/marbleorg/introducing-humanity-90ddf9ead235
+
+# Ethereum 2.0
+
+https://www.attestant.io/posts/understanding-validator-effective-balance/
+
+
