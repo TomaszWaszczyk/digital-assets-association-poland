@@ -1050,4 +1050,4 @@ https://medium.com/marbleorg/introducing-humanity-90ddf9ead235
 
 https://www.attestant.io/posts/understanding-validator-effective-balance/
 
-
+https://medium.com/rocket-pool/rocket-pool-beta-v2-node-operators-guide-d2b691822c61
