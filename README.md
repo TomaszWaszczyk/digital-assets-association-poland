@@ -65,6 +65,8 @@ http://bitcoin.sipa.be/miniscript/
 
 https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos
 
+Satoshi: https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts;start=520
+
 ---
 ---
 ---
