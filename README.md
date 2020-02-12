@@ -1019,7 +1019,7 @@ Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logar
 ---
 ---
 ---
-
+https://www.cmegroup.com/education/featured-reports/videos/can-bitcoin-reduce-portfolio-risk.html
 # ꜩezos - notes
 
 http://tezos.gitlab.io/
