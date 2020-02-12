@@ -65,6 +65,8 @@ http://bitcoin.sipa.be/miniscript/
 
 https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos
 
+Satoshi: https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts;start=520
+
 ---
 ---
 ---
@@ -1017,7 +1019,7 @@ Discrete logarithm in MW/Grin/BEAM: https://en.wikipedia.org/wiki/Discrete_logar
 ---
 ---
 ---
-
+https://www.cmegroup.com/education/featured-reports/videos/can-bitcoin-reduce-portfolio-risk.html
 # ꜩezos - notes
 
 http://tezos.gitlab.io/
@@ -1050,4 +1052,4 @@ https://medium.com/marbleorg/introducing-humanity-90ddf9ead235
 
 https://www.attestant.io/posts/understanding-validator-effective-balance/
 
-
+https://medium.com/rocket-pool/rocket-pool-beta-v2-node-operators-guide-d2b691822c61
