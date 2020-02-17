@@ -1,3 +1,7 @@
+https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html
+
+
+
 # SBM vol. #15 - BIP324 oraz BIP150 - Bartłomiej (Tony) Sanak
 
 ## :memo: Agenda
