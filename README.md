@@ -1048,6 +1048,8 @@ https://www.youtube.com/watch?v=PH8YQ1mr5ws
 
 https://reactcrypto.net/bruno-le-maire-praises-tezos-and-the-bank-of-france-tests-a-tezos-node/
 
+https://www.publish0x.com/publish0x-posts/an-introduction-to-tezos-xodegk
+
 # Identity
 
 https://medium.com/marbleorg/introducing-humanity-90ddf9ead235
