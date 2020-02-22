@@ -1050,6 +1050,8 @@ https://reactcrypto.net/bruno-le-maire-praises-tezos-and-the-bank-of-france-test
 
 https://www.publish0x.com/publish0x-posts/an-introduction-to-tezos-xodegk
 
+https://medium.com/@cryptojamesjones/7-reasons-why-tezos-is-the-best-smart-contract-platform-d0983140a3de
+
 # Identity
 
 https://medium.com/marbleorg/introducing-humanity-90ddf9ead235
