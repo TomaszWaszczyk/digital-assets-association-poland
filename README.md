@@ -1032,6 +1032,8 @@ https://bakechain.github.io/
 
 https://smartpy.io/
 
+https://blog.ethereum.org/2014/08/21/introduction-futarchy/
+
 https://medium.com/@SmartPy_io/introducing-smartpy-and-smartpy-io-d4013bee7d4e
 
 https://medium.com/paradigm-fund/tezos-the-carthage-proposal-the-carthagenet-test-network-the-first-version-of-a-baker-registry-10e455075d93
