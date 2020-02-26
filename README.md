@@ -1,6 +1,24 @@
-https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html
+# SBM vol. #16 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
+## :memo: Agenda
 
+One major difference in trading Bitcoin options at the moment is the price. Bitcoin is one of—if not the most—volatile asset trading at this time, meaning to buy an option is very expensive. During the meetup we will talk about:
+
+- Available Bitcoin options
+
+- Description of CALL and PUT options
+
+- Simple strategies and explaining what options offers
+
+## :rocket: Prelegent
+
+Professional investor, programmer, social activist, journalist. Since 2010, it has mainly been investing. Thanks to the implementation of the SWAN principle (SleepWellAtNight) and focus on dividend companies, he is currently realizing his second passion - traveling, and looking after the investment takes him no more than an hour a week. In his spare time he is an active volunteer in several charity organizations.
+
+## :link: Linki
+
+1. https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html
+
+---
 
 # SBM vol. #15 - BIP324 oraz BIP150 - Bartłomiej (Tony) Sanak
 
