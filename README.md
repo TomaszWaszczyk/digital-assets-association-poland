@@ -6,7 +6,9 @@ One major difference in trading Bitcoin options at the moment is the price. Bitc
 
 - Available Bitcoin options
 
-- Description of CALL and PUT options
+- Explaining of CALL and PUT options
+
+- Implied volatility
 
 - Simple strategies and explaining what options offers
 
