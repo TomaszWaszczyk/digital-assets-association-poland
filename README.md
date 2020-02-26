@@ -20,6 +20,12 @@ Professional investor, programmer, social activist, journalist. Since 2010, it h
 
 ---
 
+---
+
+---
+
+---
+
 # SBM vol. #15 - BIP324 oraz BIP150 - Bartłomiej (Tony) Sanak
 
 ## :memo: Agenda
