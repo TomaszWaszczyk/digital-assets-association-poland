@@ -97,6 +97,8 @@ https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-e
 
 Satoshi: https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts;start=520
 
+https://bitcoinmagazine.com/articles/what-we-can-learn-about-lightning-from-lntrustchain2-part-2
+
 ---
 ---
 ---
