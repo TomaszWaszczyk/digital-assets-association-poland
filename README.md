@@ -25,6 +25,8 @@ http://www.zrozumiecbitcoina.pl
 
 https://www.zrozumiecbitcoina.pl/defi-masters/
 
+https://www.thirdwave.network/articles/how-decentralised-finance-will-change-the-worlds-economy
+
 <!-- # SBM vol. #16 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
 ## :memo: Agenda
