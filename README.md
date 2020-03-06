@@ -1,4 +1,31 @@
-# SBM vol. #16 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
+# SBM vol. #16 - Synthetix Network - Piotr Misiurek
+
+## :memo: Agenda
+
+Synthetix Network - świat syntetycznych instrumentów finansowych na blockchainie
+
+## :rocket: Prelegent
+
+<p align="center">
+  <img src="./20-03-2020-Piotr-Misiurek/piotrek.png">
+</p>
+
+
+Programista i startupowiec z ponad 10 letnim doświadczeniem i anarchistyczną duszą. Entuzjasta technologii blockchain, w której zakochał się na jesieni 2016. Od tego czasu był współredaktorem newslettera Blockchain Weekly, współtworzy społeczności entuzjastów blockchaina i kryptowalut w Łodzi oraz Lublinie. Od połowy 2019 roku prowadzi blog www.zrozumiecbitcoina.pl, za który został odznaczony statuetką Społecznika Roku Nexus 2019 na Konferencji Blockchain i Finanse. Od początku roku prowadzi również kanał na YouTube oraz darmowy kurs DeFi Masters, na którym pokazuje jak wykorzystać oparty o blockchain niezależny system finansowy do ochrony swojego kapitału przed inflacją i zwiększenia zysków z kryptowalut.
+
+Twitter: https://twitter.com/PiotrMisiurek
+
+Youtube: https://www.youtube.com/channel/UCvu10PveAPbtpNTYbzLtGAA
+
+Email: piotr@zrozumiecbitcoina.pl
+
+## :link: Linki
+
+http://www.zrozumiecbitcoina.pl
+
+https://www.zrozumiecbitcoina.pl/defi-masters/
+
+<!-- # SBM vol. #16 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
 ## :memo: Agenda
 
@@ -18,7 +45,7 @@ Professional investor, programmer, social activist, journalist. Since 2010, it h
 
 ## :link: Linki
 
-1. https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html
+1. https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html -->
 
 ---
 
