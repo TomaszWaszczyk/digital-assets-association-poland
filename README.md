@@ -21,7 +21,7 @@ Email: piotr@zrozumiecbitcoina.pl
 
 ## :question: Questions
 
-1. "synthetic assets" - derywaty?
+1. "synthetic assets" - derywaty? czy inteligentne kontrakty są otwarte które emitują/będą emitować derywaty?
 
 2. skąd płynność? vanilla P2P?
 
