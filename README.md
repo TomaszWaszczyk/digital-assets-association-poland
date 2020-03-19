@@ -45,6 +45,22 @@ One major difference in trading Bitcoin options at the moment is the price. Bitc
 
 Professional investor, programmer, social activist, journalist. Since 2010, it has mainly been investing. Thanks to the implementation of the SWAN principle (SleepWellAtNight) and focus on dividend companies, he is currently realizing his second passion - traveling, and looking after the investment takes him no more than an hour a week. In his spare time he is an active volunteer in several charity organizations.
 
+## :question: Questions
+
+1. "synthetic assets" - derywaty?
+
+2. skąd płynność? vanilla P2P?
+
+3. jakie widzisz możliwości zbudowania aplikacji dla kodera już DZISIAJ? jakie w przyszłości?
+
+4. jaka jest tokenomika tokenu?
+
+5. 0x vs SNX
+
+6*. "Co doprowadziło do tego, że w akcjach brał udział jeden uczestnik. Który składał oferty wykupu zastawu za bezcen. Ponieważ była to jedyna oferta złożona w aukcji, to system ją akceptował i sprzedawał zastawy za bezcen."
+
+7*. Jakie lekarstwo na MakerDAO, czy widzisz?
+
 ## :link: Linki
 
 1. https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html -->
