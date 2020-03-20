@@ -35,6 +35,10 @@ Email: piotr@zrozumiecbitcoina.pl
 
 7*. Jakie lekarstwo na MakerDAO, czy widzisz?
 
+8. Syntetyk USA vs DAI?
+
+9. Zastaw nadmiarowy? co to znaczy?
+
 ## :link: Linki
 
 http://www.zrozumiecbitcoina.pl
