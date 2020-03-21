@@ -53,6 +53,8 @@ https://synthetix.exchange/trade?base=sBTC&quote=sUSD
 
 https://www.tokensets.com/
 
+https://jbba.scholasticahq.com/article/12270-emerging-regulatory-approaches-to-blockchain-based-token-economy
+
 <!-- # SBM vol. #16 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
 ## :memo: Agenda
