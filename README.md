@@ -4,8 +4,6 @@
 
 The presentation focuses on the whole process of security testing and present it by analogies to the web applications which are quite well-known. It covers the whole SDLC and show the similarities and differences in the arsenal of vulnerabilities, security tools and standards between the smart contracts and web applications on each step. Even though there exist a lot of great security projects for smart contracts, we do not have single, widely accepted security standard (such as ASVS in web apps world). That is why we introduce SCSVS (Smart Contract Security Verification Standard), a open-source 13-part checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors.
 
-The presentation focuses on the whole process of security testing and present it by analogies to the web applications which are quite well-known. It covers the whole SDLC and show the similarities and differences in the arsenal of vulnerabilities, security tools and standards between the smart contracts and web applications on each step. Even though there exist a lot of great security projects for smart contracts, we do not have single, widely accepted security standard (such as ASVS in web apps world). That is why we introduce SCSVS (Smart Contract Security Verification Standard), a open-source 13-part checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors.
-
 ## :rocket: Prelegent
 
 Damian Rusinek
@@ -23,6 +21,12 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
+
+https://github.com/securing/SCSVS
+    
+https://www.securing.biz/smart-contracts-security-checklist/index.html
+    
+https://www.securing.biz/developing-secure-blockchain-applications/index.html
 
 ---
 ---
