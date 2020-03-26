@@ -24,7 +24,9 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 https://securing.github.io/eth-rd-messenger/
 
-
+---
+---
+---
 ---
 
 # SBM vol. #16 - Synthetix Network - Piotr Misiurek
