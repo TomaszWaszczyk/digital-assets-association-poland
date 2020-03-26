@@ -1,3 +1,32 @@
+# SBM vol. #17 - Smart Contract Security Verification Standard - Damian Rusinek
+
+## :memo: Agenda
+
+The presentation focuses on the whole process of security testing and present it by analogies to the web applications which are quite well-known. It covers the whole SDLC and show the similarities and differences in the arsenal of vulnerabilities, security tools and standards between the smart contracts and web applications on each step. Even though there exist a lot of great security projects for smart contracts, we do not have single, widely accepted security standard (such as ASVS in web apps world). That is why we introduce SCSVS (Smart Contract Security Verification Standard), a open-source 13-part checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors.
+
+The presentation focuses on the whole process of security testing and present it by analogies to the web applications which are quite well-known. It covers the whole SDLC and show the similarities and differences in the arsenal of vulnerabilities, security tools and standards between the smart contracts and web applications on each step. Even though there exist a lot of great security projects for smart contracts, we do not have single, widely accepted security standard (such as ASVS in web apps world). That is why we introduce SCSVS (Smart Contract Security Verification Standard), a open-source 13-part checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors.
+
+## :rocket: Prelegent
+
+Damian Rusinek
+
+Senior IT Security Specialist, since 2016 in SecuRing. Professionally responsible for web and mobile application audits and source code analysis. Software developer and analyst with over a decade of experience. Mainly focused on the cryptographic protocols and distributed ledger technologies and applications that use them.
+
+Finished PhD at Warsaw University of Technology. Damian works as researcher at Maria Curie Sklodowska University in Lublin where his main topic of research are biocrypto and blockchain based protocols and applications. Author of several academic research papers and speaker at such conferences as Cryptography and Security Systems, International Science Conference on Computer Networks, Confidence, Confidence London, AppSec EU, InfoShare.
+
+Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io/eth-rd-messenger/) and co-creator of Smart Contracts Security Verification Standard (SCSVS).
+
+## :question: Questions
+
+1. 
+
+## :link: Linki
+
+https://securing.github.io/eth-rd-messenger/
+
+
+---
+
 # SBM vol. #16 - Synthetix Network - Piotr Misiurek
 
 ## :memo: Agenda
