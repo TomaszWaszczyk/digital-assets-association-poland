@@ -30,6 +30,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 6. There is any business model? Is it profitable? ;-) #nofreelunch
 
+7. Do you have some thoughts on Eth2.0? Do you know whether smart contracts will need migrate? Rewrite?
+
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
