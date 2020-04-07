@@ -59,6 +59,7 @@ https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)
 
 # History
 * 1976 - Cipher Block Chaining (CBC) - https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#CBC
+* 1978, April - Ralph Merkle published the article ‘Secure Communications Over Insecure Channels’ in which he “provides a logically new kind of protection against the passive eavesdropper.”
 * 1981 November - „Hash chain”: L. Lamport, “Password Authentication with Insecure Communication”, Communications of
 the ACM 24.11 https://en.wikipedia.org/wiki/Hash_chain 
 * 1983 — David Chaum, Blind Signatures for Untraceable Payments, proposes an early form of digital value transfer
