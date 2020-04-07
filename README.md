@@ -28,6 +28,8 @@ https://www.securing.biz/smart-contracts-security-checklist/index.html
     
 https://www.securing.biz/developing-secure-blockchain-applications/index.html
 
+https://www.slideshare.net/wojdwo/webapps-vs-blockchain-dapps-smartcontracts-tools-vulns-and-standards-229586541
+
 ---
 ---
 ---
