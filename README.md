@@ -26,6 +26,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 4. Have you considered to write similar tool to another chain?
 
+5. SCSVS is completely open source or there are some closed parts?
+
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
