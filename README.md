@@ -28,6 +28,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 5. SCSVS is completely open source or there are some closed parts?
 
+6. There is any business model? Is it profitable? ;-) #nofreelunch
+
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
