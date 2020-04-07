@@ -16,7 +16,15 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 ## :question: Questions
 
-1. 
+0. Is it true that last update was two years ago (SCSVS)?
+
+1. Do you update SCSVS when new features arrives to Solidity?
+
+2. What you think abotu formal verification?
+
+3. SCSVS analyses source code or byte code executed on EVM?
+
+4. Have you considered to write similar tool to another chain?
 
 ## :link: Linki
 
