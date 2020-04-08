@@ -16,7 +16,7 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 ## :question: Questions
 
--1. Could You share slides?
+-1. Could You share the slides?
 
 0. Is it true that last update was two years ago (SCSVS)?
 
