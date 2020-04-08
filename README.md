@@ -34,6 +34,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 8. Which database do you use to keep state?
 
+9. 'if you implement randomness correctly' - could you explain it?
+
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
