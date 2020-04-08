@@ -36,6 +36,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 9. 'if you implement randomness correctly' - could you explain it?
 
+10. 'front running in context of security' ?
+
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
