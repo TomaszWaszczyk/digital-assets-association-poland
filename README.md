@@ -20,7 +20,7 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 1. Do you update SCSVS when new features arrives to Solidity?
 
-2. What you think abotu formal verification?
+2. What you think abotu formal verification? (https://en.wikipedia.org/wiki/Symbolic_execution)
 
 3. SCSVS analyses source code or byte code executed on EVM?
 
@@ -32,7 +32,7 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 7. Do you have some thoughts on Eth2.0? Do you know whether smart contracts will need migrate? Rewrite?
 
-8. Which database do you use to keep state?
+8. Which database do you use to keep state? (https://en.wikipedia.org/wiki/Commitment_scheme)
 
 9. 'if you implement randomness correctly' - could you explain it?
 
