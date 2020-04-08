@@ -32,6 +32,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 7. Do you have some thoughts on Eth2.0? Do you know whether smart contracts will need migrate? Rewrite?
 
+8. Which database do you use to keep state?
+
 ## :link: Linki
 
 https://securing.github.io/eth-rd-messenger/
