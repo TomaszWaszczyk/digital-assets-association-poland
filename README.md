@@ -16,6 +16,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 ## :question: Questions
 
+-1. Could You share slides?
+
 0. Is it true that last update was two years ago (SCSVS)?
 
 1. Do you update SCSVS when new features arrives to Solidity?
