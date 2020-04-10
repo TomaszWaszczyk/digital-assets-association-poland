@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Wix Pro Gallery Worker</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="referrer" content="origin">
+    
+    <script>
+      window.staticsVersion="2.1728.0";
+      window.staticBaseUrl="//static.parastorage.com/";
+      window.staticsUrl="https://static.parastorage.com/services/pro-gallery-statics/2.1728.0/";
+      window.instance = "MVk2Ncay2slM5s3zBes6I-VEzOInGuySLzVe-5bwvf8.eyJpbnN0YW5jZUlkIjoiYzhlNGViNmMtNDdiNC00MmM3LWIwMTQtMDE3Y2RlZGQ4ZWRlIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJtZXRhU2l0ZUlkIjoiZWZhZTg1OTUtM2YzNi00ZTJhLTk3M2MtNzc0MDUwOTIyOGNhIiwic2lnbkRhdGUiOiIyMDIwLTA0LTA0VDE5OjQ2OjE2Ljg2NVoiLCJ1aWQiOiJlMGUyYmI1ZC03ZjM3LTRiYjItYjA2NS1mOWMxYmEyMGM2ZmYiLCJkZW1vTW9kZSI6ZmFsc2UsIm9yaWdpbkluc3RhbmNlSWQiOiJmMmI0MmI2NC03M2Y2LTQ5N2EtOThjNC1lNjRiZDM1Y2U5ZTMiLCJhaWQiOiI0NTNlNDA4OC1jMzIyLTRjYmEtOTE1NC1hNmViMTBhNjRkNmUiLCJiaVRva2VuIjoiMjc0YTZlZjktNzg4Mi0wY2VkLTI3MjgtNzYzYzhlNGZhNjE0Iiwic2l0ZU93bmVySWQiOiI0ZGU4ZDUxYy01NjM0LTQ2MmEtYTdhNi1iNjUxN2M5NWY2MmUiLCJleHBpcmF0aW9uRGF0ZSI6IjIwMjAtMDQtMDRUMjM6NDY6MTYuODY1WiJ9";
+      window.instanceId = "c8e4eb6c-47b4-42c7-b014-017cdedd8ede";
+      window.isStore = "false";
+      window.proGalleryWidget = 'Worker';
+      window.isWorker = true;
+      window.isProGallery = true;
+
+      console.log("Worker Statics Version", window.staticsVersion);
+
+      try {
+        window.petri = {"specs.pro-gallery.useOOICart":"true","specs.pro-gallery.newFullscreenShare":"true","specs.pro-gallery.useCustomElement":"true","specs.pro-gallery.useArtStoreInAlbums":"true","specs.LinguistProGalleryIntegrationSpec":"false","specs.pro-gallery.appSettings":"true"};
+      } catch (e) {
+        window.petri = {};
+      }
+    </script>
+  <style wix-style="">.Title{ font:normal normal normal 40px/1.4em proxima-n-w01-reg,sans-serif; } .Menu{ font:normal normal normal 16px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif; } .Page-title{ font:normal normal normal 28px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-XL{ font:normal normal normal 60px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-L{ font:normal normal normal 40px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-M{ font:normal normal normal 25px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-S{ font:normal normal normal 22px/1.4em proxima-n-w01-reg,sans-serif; } .Body-L{ font:normal normal normal 17px/1.4em proxima-n-w01-reg,sans-serif; } .Body-M{ font:normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif; } .Body-S{ font:normal normal normal 14px/1.4em proxima-n-w01-reg,sans-serif; } .Body-XS{ font:normal normal normal 12px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif; } }</style><link type="text/css" rel="stylesheet" href="worker_data/languages.css"><style>:focus {
+    outline: none;
+}
+
+.js-focus-visible .focus-visible:focus,
+.js-focus-visible .focus-visible:focus ~ .wixSdkShowFocusOnSibling
+{
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.9), 0 0 1px 2px #3899EC;
+}
+</style><script src="worker_data/focus-visible.js" id="dynamic_script_FOCUS_VISIBLE"></script></head>
+
+  <body class="js-focus-visible">
+    <script src="worker_data/wix-private.js" crossorigin="anonymous"></script>
+    
+    <script>
+      function loadJS(filePath) {
+        var fileref = document.createElement('link');
+        fileref.setAttribute('rel', 'prefetch');
+        fileref.setAttribute('href', filePath);
+        document.getElementsByTagName('head')[0].appendChild(fileref);
+      }
+
+      try {
+        var Wix = window.Wix;
+        if (Wix && Wix.Worker && Wix.Worker.Utils) {
+          if (Wix.Worker.Utils.getViewMode() == 'editor') {
+            loadJS('//static.parastorage.com/services/editor-ui-lib/1.28.0/lib/editor-ui-lib-jquery.min.js');
+            loadJS('//static.parastorage.com/services/editor-ui-lib/1.28.0/lib/editor-ui-lib-angular.min.js');
+
+            if (window.location.search.toLowerCase().indexOf('isstore') > -1) {
+              var wixAddEventListener = Wix.Worker.addEventListener || Wix.addEventListener;
+              if (wixAddEventListener && typeof wixAddEventListener === 'function') {
+                wixAddEventListener(Wix.Events.SITE_PUBLISHED, function(e) {
+                  const xhr = new XMLHttpRequest();
+                  xhr.open('POST', '/api/v1/store/publish?instance=' + window.instance + '&isStore=true');
+                  xhr.withCredentials = true;
+                  xhr.setRequestHeader('Content-Type', 'application/json');
+                  xhr.send();
+                });
+              }
+            }
+
+          }
+        } else {
+          console.error('Wix.Worker.Utils isn\'t defined on worker.vm', Wix);
+        }
+      } catch (error) {
+        console.error('preload and publish event error', error);
+      }
+    </script>
+    <script>
+      try {
+        document.domain = 'wix.com';
+      } catch (e) {
+        console.log("couldn't set subdomain to wix.com");
+      }
+    </script>
+    <script src="worker_data/bundle.js" crossorigin="anonymous"></script>
+    <script>Sentry.init({ dsn: 'https://e8da9340b9594a029c2f6c127517893d@sentry.wixpress.com/111', environment: 'worker' });</script>
+  
+
+</body></html>

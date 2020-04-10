@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<!--  -->
+<!--
+    -->
+<html ng-app="shoutoutGetSubscriberApp" class="ng-scope"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <script>
+      window.parsedQuery = {};
+      function parseQuery() {
+        var search = window.location.search.split('?');
+
+        if (search.length > 1) {
+          search[1].split('&').map(function (item) {
+            var queryItem = item.split('=');
+            if (queryItem.length > 0) {
+              window.parsedQuery[queryItem[0]] = queryItem[1];
+            }
+          });
+        }
+      }
+      parseQuery();
+      try {
+        (new Image()).src = '//frog.wix.com/shout?_='+ Date.now() +'&src=36&msid=efae8595-3f36-4e2a-973c-7740509228ca&ownerId=4de8d51c-5634-462a-a7a6-b6517c95f62e&evid=302&vsi=' + window.parsedQuery.vsi;
+      } catch (e){}
+
+      (function () {
+        var appName = 'shoutout-get-subscriber';
+        window.fedops = window.fedops || {};
+        window.fedops.apps = window.fedops.apps || {};
+        window.fedops.apps[appName] = { startLoadTime: window.performance && window.performance.now() };
+        try { window.fedops.sessionId = window.localStorage.getItem('fedops.logger.sessionId'); } catch(e) {};
+        window.fedops.sessionId = window.fedops.sessionId || 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) { var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); return v.toString(16); });
+        (new Image()).src = '//frog.wix.com/fed?appName=' + appName + '&src=72&evid=14&session_id=' + window.fedops.sessionId;
+      })();
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Subscribe</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="referrer" content="origin">
+    <link type="image/png" href="https://www.wix.com/favicon.ico" rel="shortcut icon">
+    <link rel="stylesheet" href="index_data_003/fontFace.css">
+    <!-- <link rel="stylesheet" href="//static.parastorage.com/services/shoutout-get-subscriber/1.577.0/bower_components/wix-ui-lib2/ui-lib.min.css"> -->
+    <!-- <link rel="stylesheet" href="//static.parastorage.com/services/shoutout-get-subscriber/1.577.0/bower_components/wix-style/dist/styles/style.min.css"> -->
+    <link rel="stylesheet" href="index_data_002/font-awesome.css">
+
+    <!--  -->
+<link rel="stylesheet" href="index_data_002/new-main.css">
+<!--  -->
+
+    <style wix-style="" type="text/css" ng-non-bindable="">
+      .app-container {
+        background-color: rgba(255,255,255,0);
+        border-width: 0px;
+        border-color: rgba(64,102,124,1);
+      }
+
+      .app-container.classic,
+      .app-container.strip {
+        border-radius: 0px;
+      }
+
+      .app-container.elegant {
+        background-color: rgba(255,255,255,0);
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+      }
+
+      .classic .header-block {
+        background-color: rgba(232,230,230,1);
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+      }
+
+      .app-container.headline {
+        background-color: rgba(255,255,255,0);
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-width: 0px;
+        border-color: rgba(64,102,124,1);
+      }
+
+      .field__label {
+        color: rgba(64,102,124,1);
+        font:normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;;
+      }
+
+      .classic .field,
+      .elegant .field,
+      .strip .field__input,
+      .postcard .field__input,
+      .headline .field__input {
+        border-width: style.linesSliderpx;
+        border-color: rgba(153,153,151,1);
+        background-color: rgba(232,230,230,1);
+        color: rgba(33,61,77,1);
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .postcard.app-container::before {
+        background-color: rgba(255,255,255,0);
+      }
+
+      .prefix-block {
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .prefix {
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+        color: rgba(33,61,77,1);
+        background-color: rgba(232,230,230,1);
+      }
+
+      .dropdown-arrow,
+      .field__icon {
+        font-size: inherit;
+        color: rgba(153,153,151,1);
+      }
+
+      .field__input {
+        color: rgba(33,61,77,1);
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .field__input::-webkit-input-placeholder {
+        color: rgba(33,61,77,1);
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .field__input:-ms-input-placeholder {
+        color: rgba(33,61,77,1);
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .field__input::placeholder {
+        color: rgba(33,61,77,1);
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .title {
+        color: rgba(255,255,255,1);
+        font:normal normal normal 20px/25px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .subtitle {
+        color: rgba(64,102,124,1);
+        font:normal normal normal 20px/25px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .subscribe-button {
+        background-color: rgba(127,204,247,0.32) !important;
+        border-color: rgba(127,204,247,1);
+        border-width: style.linesSliderpx;
+        color: rgba(255,255,255,1);
+        font:normal normal normal 15px/18px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .app-container.in-popup {
+        background-color: #FFFFFF;
+      }
+
+      .success-view-title {
+        color: rgba(255,255,255,1);
+        font:normal normal normal 20px/25px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .success-view-subtitle {
+        color: rgba(255,255,255,1);
+        font:normal normal normal 20px/25px poppins-extralight,poppins,sans-serif;;
+      }
+
+      .close-popup {
+        color: #7FCCF7;
+        text-shadow: rgba(255,255,255,1);
+      }
+
+      .error-block .error-message {
+        color: rgba(139,20,60,1);
+      }
+
+      .invalid {
+        border-color: rgba(139,20,60,1);
+      }
+
+      .explicit-consent-block {
+        font:normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;;
+        color: rgba(33,61,77,1);
+      }
+
+      .explicit-consent-block .explicit-consent-checkbox {
+        box-shadow: none;
+      }
+
+      .strip .explicit-consent-block .explicit-consent-checkbox,
+      .elegant .explicit-consent-block .explicit-consent-checkbox,
+      .headline .explicit-consent-block .explicit-consent-checkbox {
+        background-color: rgba(232,230,230,1);
+      }
+
+      .strip .explicit-consent-block .explicit-consent-checkbox-wrapper,
+      .elegant .explicit-consent-block .explicit-consent-checkbox-wrapper,
+      .headline .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        box-shadow: 0 0 0 1px rgba(153,153,151,1);
+        box-shadow: 0 0 0 style.linesSliderpx rgba(153,153,151,1);
+      }
+
+      .classic .explicit-consent-block .explicit-consent-checkbox,
+      .postcard .explicit-consent-block .explicit-consent-checkbox {
+        background-color: rgba(232,230,230,1);
+      }
+
+      .classic .explicit-consent-block .explicit-consent-checkbox-wrapper,
+      .postcard .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        box-shadow: 0 0 0 0px transparent;
+        box-shadow: 0 0 0 style.linesSliderpx rgba(153,153,151,1);
+      }
+
+      .explicit-consent-block .explicit-consent-checkbox-wrapper.invalid {
+        box-shadow: 0 0 0 1px #ec4d4d;
+        box-shadow: 0 0 0 style.linesSliderpx #ec4d4d;
+        border: 1px solid #ec4d4d;
+      }
+
+      .explicit-consent-block .explicit-consent-checkbox:checked::before {
+        color: rgba(33,61,77,1);
+      }
+
+      .layout-horizontal .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        margin-left: calc(4px + style.linesSliderpx);
+      }
+
+      .classic.layout-horizontal .explicit-consent-block .explicit-consent-checkbox-wrapper,
+      .postcard.layout-horizontal .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        margin-left: style.linesSliderpx;
+      }
+
+      .strip.layout-horizontal .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        margin-left: 5px;
+        margin-left: calc(4px + style.linesSliderpx);
+      }
+      .headline.layout-horizontal .explicit-consent-block .explicit-consent-checkbox-wrapper,
+      .elegant.layout-horizontal .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        margin-left: calc(3px + style.linesSliderpx);
+      }
+
+      .layout-vertical .explicit-consent-block .explicit-consent-checkbox-wrapper {
+        margin-left: 2px;
+        margin-left: style.linesSliderpx;
+      }
+
+      .layout-horizontal .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper {
+        margin-right: calc(4px + style.linesSliderpx);
+      }
+
+      .classic.layout-horizontal .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper {
+        margin-right: style.linesSliderpx;
+      }
+
+      .postcard.layout-horizontal .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper {
+        margin-right: calc(12px + style.linesSliderpx);
+      }
+
+      .strip.layout-horizontal .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper {
+        margin-right: 5px;
+        margin-right: calc(4px + style.linesSliderpx);
+      }
+      .headline.layout-horizontal .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper,
+      .elegant.layout-horizontal .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper {
+        margin-right: calc(3px + style.linesSliderpx);
+      }
+
+      .layout-vertical .explicit-consent-block.align-body-right .explicit-consent-checkbox-wrapper {
+        margin-right: 2px;
+        margin-right: style.linesSliderpx;
+      }
+
+    </style>
+
+    
+  <style wix-style="">.Title{ font:normal normal normal 40px/1.4em proxima-n-w01-reg,sans-serif; } .Menu{ font:normal normal normal 16px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif; } .Page-title{ font:normal normal normal 28px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-XL{ font:normal normal normal 60px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-L{ font:normal normal normal 40px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-M{ font:normal normal normal 25px/1.4em proxima-n-w01-reg,sans-serif; } .Heading-S{ font:normal normal normal 22px/1.4em proxima-n-w01-reg,sans-serif; } .Body-L{ font:normal normal normal 17px/1.4em proxima-n-w01-reg,sans-serif; } .Body-M{ font:normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif; } .Body-S{ font:normal normal normal 14px/1.4em proxima-n-w01-reg,sans-serif; } .Body-XS{ font:normal normal normal 12px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif; } }</style><link type="text/css" rel="stylesheet" href="index_data_002/css.css" id="wix-google-fonts"><link type="text/css" rel="stylesheet" href="worker_data/languages.css"><style>:focus {
+    outline: none;
+}
+
+.js-focus-visible .focus-visible:focus,
+.js-focus-visible .focus-visible:focus ~ .wixSdkShowFocusOnSibling
+{
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.9), 0 0 1px 2px #3899EC;
+}
+</style><script src="worker_data/focus-visible.js" id="dynamic_script_FOCUS_VISIBLE"></script></head>
+  <body resize="" class="js-focus-visible">
+    <script src="index_data_002/polyfill.js"></script>
+
+    <script type="text/javascript" src="index_data_002/wix-private.js"></script>
+
+    <script>
+      window.apiUrl = '/_api/shoutout-get-subscriber-server-webapp';
+      window.metasiteId = 'efae8595-3f36-4e2a-973c-7740509228ca';
+      window.defaultLocale = 'en';
+      window.ownerId = '4de8d51c-5634-462a-a7a6-b6517c95f62e';
+    </script>
+    <div class="container">
+      <get-subscribers><!-- ngIf: !main.hideFormIfPopupIsOpen() && !main.hideForm --><div class="app-container ng-pristine ng-scope ng-isolate-scope strip layout-horizontal ng-invalid ng-invalid-required ng-valid-pattern" focus-first-erroneous-field="main.ngForm.$submitted &amp;&amp; main.ngForm.$invalid" ng-class="[main.getSkin(), main.getLayout(), main.popupBackground()]" ng-form="main.ngForm" ng-if="!main.hideFormIfPopupIsOpen() &amp;&amp; !main.hideForm">
+<!-- ngIf: !main.isSubscribeSuccessful --><div class="app-view ng-scope" ng-if="!main.isSubscribeSuccessful">
+<div class="header-block align-header-center" ng-class="main.getHeaderAlignment()">
+<!-- ngIf: main.isInPopup() -->
+<div class="title">
+<!-- ngIf: main.settings.signupForm.showTitle && !main.isInPopup() --><span ng-if="main.settings.signupForm.showTitle &amp;&amp; !main.isInPopup()" class="ng-binding ng-scope">
+Join our mailing list to receive free content we release.
+</span><!-- end ngIf: main.settings.signupForm.showTitle && !main.isInPopup() -->
+<!-- ngIf: main.isInPopup() -->
+</div>
+<div class="subtitle">
+<!-- ngIf: main.settings.signupForm.showSubtitle && main.settings.signupForm.showTitle && !main.isInPopup() -->
+<!-- ngIf: main.settings.popup.showSubtitle && main.isInPopup() -->
+</div>
+</div>
+<div aria-label="Subscribe" class="collectable-info align-body-left" ng-class="main.getBodyAlignment()" role="form">
+<!-- / name -->
+<!-- ngIf: main.settings.generalSettings.collectName -->
+<!-- / phone prefix -->
+<!-- ngIf: main.generalSettings.collectPhone -->
+<!-- / phone number -->
+<!-- ngIf: main.generalSettings.collectPhone -->
+<!-- / email -->
+<div class="field field--email" ng-class="main.getInvalid('subscriberEmail')">
+<div class="field__label ng-binding">
+Email
+</div>
+<i class="field__icon fa fa-envelope-o"></i>
+<input aria-label="Email Address" class="field__input ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-pattern" name="subscriberEmail" ng-model="main.subscriberEmail" ng-pattern="/^\b[a-zA-Z0-9.!#$%&amp;’*+\/=?^_`{|}~-]{1,50}@[a-zA-Z0-9-]{1,50}(?:\.[a-zA-Z0-9-]{2,20})+$/" placeholder="Email Address" required="" size="1">
+</div>
+<!-- ngIf: main.gdpr.requireConsent && (main.getLayout() === 'layout-vertical' || main.getLayout() === 'layout-old-horizontal') -->
+<button class="button subscribe-button" ng-click="main.subscribe()" ng-disabled="main.isPreview()">
+<!-- ngIf: main.isInPopup() -->
+<!-- ngIf: !main.isInPopup() --><span ng-if="!main.isInPopup()" class="ng-binding ng-scope">
+Subscribe Now
+</span><!-- end ngIf: !main.isInPopup() -->
+</button>
+</div>
+<!-- ngIf: main.gdpr.requireConsent && main.getLayout() === 'layout-horizontal' -->
+<!-- ngIf: main.ngForm.$submitted && main.ngForm.$invalid -->
+</div><!-- end ngIf: !main.isSubscribeSuccessful -->
+<!-- ngIf: main.isSubscribeSuccessful -->
+</div><!-- end ngIf: !main.hideFormIfPopupIsOpen() && !main.hideForm -->
+</get-subscribers>
+    </div>
+
+    <script src="index_data_002/jquery.js"></script>
+    <script src="index_data_002/angular.js"></script>
+    <script src="index_data_002/angular-translate.js"></script>
+    <script src="index_data_002/angular-locale_en.js"></script>
+    <!--  -->
+<script src="index_data_002/messages_en.js"></script>
+<!--  -->
+    <!--  -->
+<script src="index_data_002/new-modules.js"></script>
+<!--  -->
+    <!--  -->
+<script src="index_data_002/new-scripts.js"></script>
+<!--  -->
+
+    <!--  -->
+    <script src="index_data_002/main.js"></script>
+    <script src="index_data_002/success-view.js"></script>
+    <script>
+      function convertStringsToBool(data) {
+        for (var prop in data) {
+          data[prop] = data[prop] === 'true' ? true : data[prop] === 'false' ? false : data[prop];
+        }
+        return data;
+      }
+
+      window.experiments = convertStringsToBool(JSON.parse('{"specs.shoutoutgetsubscriberserver.UseLoadBalancingForGetSubscribers":"true","specs.shoutoutgetsubscriberserver.UseRoutingForGetSubscribers":"true"}'));
+    </script>
+    <script>
+    angular.module('shoutoutGetSubscriberApp').requires.push('shoutoutGetSubscriberPreload');
+    angular.module('shoutoutGetSubscriberApp').requires.push('pascalprecht.translate');
+    angular.module('shoutoutGetSubscriberApp')
+      .config(function (wixAngularTopologyProvider, experimentManagerProvider, $translateProvider) {
+        wixAngularTopologyProvider.setStaticsUrl('//static.parastorage.com/services/shoutout-get-subscriber/1.577.0/');
+        experimentManagerProvider.setExperiments(JSON.parse('{"specs.shoutoutgetsubscriberserver.UseLoadBalancingForGetSubscribers":"true","specs.shoutoutgetsubscriberserver.UseRoutingForGetSubscribers":"true"}'));
+        var languagePath = wixAngularTopologyProvider.getStaticsUrl() +
+            'scripts/locale/get-subscribers/messages_';
+        $translateProvider.useSanitizeValueStrategy(null);
+        $translateProvider.useStaticFilesLoader({
+              prefix: languagePath,
+              suffix: '.json'
+            });
+      })
+      .constant('experiments', window.experiments);
+    </script>
+
+    
+
+  
+
+</body></html>

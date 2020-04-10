@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<!--
+Copyright 2012 Mozilla Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Adobe CMap resources are covered by their own copyright but the same license:
+
+    Copyright 1990-2015 Adobe Systems Incorporated.
+
+See https://github.com/adobe-type-tools/cmap-resources
+-->
+<html dir="ltr" mozdisallowselectionprint=""><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="google" content="notranslate">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>PDF.js viewer</title>
+
+
+    <link rel="stylesheet" href="viewer_data/viewer.css">
+
+
+<!-- This snippet is used in production (included from viewer.html) -->
+<link rel="resource" type="application/l10n" href="https://wixlabs-pdf-dev.appspot.com/assets/pdfjs/web/locale/locale.properties">
+<script src="pdf.js"></script>
+
+
+    <script src="viewer_data/viewer.js"></script>
+
+  <style id="PDFJS_FONT_STYLE_TAG_d0"></style></head>
+
+  <body tabindex="1" class="">
+    <div id="outerContainer">
+
+      <div id="sidebarContainer">
+        <div id="toolbarSidebar">
+          <div class="splitToolbarButton toggled">
+            <button id="viewThumbnail" class="toolbarButton toggled" title="Show Thumbnails" tabindex="2" data-l10n-id="thumbs">
+               <span data-l10n-id="thumbs_label">Thumbnails</span>
+            </button>
+            <button id="viewOutline" class="toolbarButton" title="Show Document Outline (double-click to expand/collapse all items)" tabindex="3" data-l10n-id="document_outline" disabled="disabled">
+               <span data-l10n-id="document_outline_label">Document Outline</span>
+            </button>
+            <button id="viewAttachments" class="toolbarButton" title="Show Attachments" tabindex="4" data-l10n-id="attachments" disabled="disabled">
+               <span data-l10n-id="attachments_label">Attachments</span>
+            </button>
+          </div>
+        </div>
+        <div id="sidebarContent">
+          <div id="thumbnailView"><a href="#page=1" title="Page 1"><div class="thumbnail selected" data-page-number="1"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=2" title="Page 2"><div class="thumbnail" data-page-number="2"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=3" title="Page 3"><div class="thumbnail" data-page-number="3"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=4" title="Page 4"><div class="thumbnail" data-page-number="4"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=5" title="Page 5"><div class="thumbnail" data-page-number="5"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=6" title="Page 6"><div class="thumbnail" data-page-number="6"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=7" title="Page 7"><div class="thumbnail" data-page-number="7"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=8" title="Page 8"><div class="thumbnail" data-page-number="8"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=9" title="Page 9"><div class="thumbnail" data-page-number="9"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=10" title="Page 10"><div class="thumbnail" data-page-number="10"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=11" title="Page 11"><div class="thumbnail" data-page-number="11"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=12" title="Page 12"><div class="thumbnail" data-page-number="12"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=13" title="Page 13"><div class="thumbnail" data-page-number="13"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=14" title="Page 14"><div class="thumbnail" data-page-number="14"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=15" title="Page 15"><div class="thumbnail" data-page-number="15"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=16" title="Page 16"><div class="thumbnail" data-page-number="16"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=17" title="Page 17"><div class="thumbnail" data-page-number="17"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=18" title="Page 18"><div class="thumbnail" data-page-number="18"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=19" title="Page 19"><div class="thumbnail" data-page-number="19"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=20" title="Page 20"><div class="thumbnail" data-page-number="20"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=21" title="Page 21"><div class="thumbnail" data-page-number="21"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=22" title="Page 22"><div class="thumbnail" data-page-number="22"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=23" title="Page 23"><div class="thumbnail" data-page-number="23"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=24" title="Page 24"><div class="thumbnail" data-page-number="24"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=25" title="Page 25"><div class="thumbnail" data-page-number="25"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=26" title="Page 26"><div class="thumbnail" data-page-number="26"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=27" title="Page 27"><div class="thumbnail" data-page-number="27"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a><a href="#page=28" title="Page 28"><div class="thumbnail" data-page-number="28"><div class="thumbnailSelectionRing" style="width: 100px; height: 75px;"></div></div></a></div>
+          <div id="outlineView" class="hidden"></div>
+          <div id="attachmentsView" class="hidden"></div>
+        </div>
+        <div id="sidebarResizer" class=""></div>
+      </div>  <!-- sidebarContainer -->
+
+      <div id="mainContainer">
+        <div class="findbar hidden doorHanger" id="findbar">
+          <div id="findbarInputContainer">
+            <input id="findInput" class="toolbarField" title="Find" placeholder="Find in document…" tabindex="91" data-l10n-id="find_input">
+            <div class="splitToolbarButton">
+              <button id="findPrevious" class="toolbarButton findPrevious" title="Find the previous occurrence of the phrase" tabindex="92" data-l10n-id="find_previous">
+                <span data-l10n-id="find_previous_label">Previous</span>
+              </button>
+              <div class="splitToolbarButtonSeparator"></div>
+              <button id="findNext" class="toolbarButton findNext" title="Find the next occurrence of the phrase" tabindex="93" data-l10n-id="find_next">
+                <span data-l10n-id="find_next_label">Next</span>
+              </button>
+            </div>
+          </div>
+
+          <div id="findbarOptionsContainer">
+            <input type="checkbox" id="findHighlightAll" class="toolbarField" tabindex="94">
+            <label for="findHighlightAll" class="toolbarLabel" data-l10n-id="find_highlight">Highlight all</label>
+            <input type="checkbox" id="findMatchCase" class="toolbarField" tabindex="95">
+            <label for="findMatchCase" class="toolbarLabel" data-l10n-id="find_match_case_label">Match case</label>
+            <span id="findResultsCount" class="toolbarLabel hidden"></span>
+          </div>
+
+          <div id="findbarMessageContainer">
+            <span id="findMsg" class="toolbarLabel"></span>
+          </div>
+        </div>  <!-- findbar -->
+
+        <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
+          <div id="secondaryToolbarButtonContainer">
+            <button id="secondaryPresentationMode" class="secondaryToolbarButton presentationMode visibleLargeView hidden" title="Switch to Presentation Mode" tabindex="51" data-l10n-id="presentation_mode">
+              <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+            </button>
+
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file">
+              <span data-l10n-id="open_file_label">Open</span>
+            </button>
+
+            <button id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="53" data-l10n-id="print">
+              <span data-l10n-id="print_label">Print</span>
+            </button>
+
+            <button id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="54" data-l10n-id="download">
+              <span data-l10n-id="download_label">Download</span>
+            </button>
+
+            <a href="#page=1&amp;zoom=auto,-21,720&amp;links=true&amp;allowPrinting=true&amp;allowDownload=true&amp;originalFileName=Bitcoin%20Monthly%20Outlook%20-%20October%2031st%202" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark" target="_blank">
+              <span data-l10n-id="bookmark_label">Current View</span>
+            </a>
+
+            <div class="horizontalToolbarSeparator visibleLargeView"></div>
+
+            <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="56" data-l10n-id="first_page" disabled="disabled">
+              <span data-l10n-id="first_page_label">Go to First Page</span>
+            </button>
+            <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="57" data-l10n-id="last_page">
+              <span data-l10n-id="last_page_label">Go to Last Page</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw">
+              <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
+            </button>
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw">
+              <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="cursorSelectTool" class="secondaryToolbarButton selectTool toggled" title="Enable Text Selection Tool" tabindex="60" data-l10n-id="cursor_text_select_tool">
+              <span data-l10n-id="cursor_text_select_tool_label">Text Selection Tool</span>
+            </button>
+            <button id="cursorHandTool" class="secondaryToolbarButton handTool" title="Enable Hand Tool" tabindex="61" data-l10n-id="cursor_hand_tool">
+              <span data-l10n-id="cursor_hand_tool_label">Hand Tool</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="62" data-l10n-id="document_properties">
+              <span data-l10n-id="document_properties_label">Document Properties…</span>
+            </button>
+          </div>
+        </div>  <!-- secondaryToolbar -->
+
+        <div class="toolbar">
+          <div id="toolbarContainer">
+            <div id="toolbarViewer">
+              <div id="toolbarViewerLeft">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="11" data-l10n-id="toggle_sidebar">
+                  <span data-l10n-id="toggle_sidebar_label">Toggle Sidebar</span>
+                </button>
+                <div class="toolbarButtonSpacer"></div>
+                <button id="viewFind" class="toolbarButton" title="Find in Document" tabindex="12" data-l10n-id="findbar">
+                  <span data-l10n-id="findbar_label">Find</span>
+                </button>
+                <div class="splitToolbarButton hiddenSmallView">
+                  <button class="toolbarButton pageUp" title="Previous Page" id="previous" tabindex="13" data-l10n-id="previous" disabled="disabled">
+                    <span data-l10n-id="previous_label">Previous</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button class="toolbarButton pageDown" title="Next Page" id="next" tabindex="14" data-l10n-id="next">
+                    <span data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <input type="number" id="pageNumber" class="toolbarField pageNumber" title="Page" value="1" size="4" min="1" tabindex="15" data-l10n-id="page" max="28">
+                <span id="numPages" class="toolbarLabel">of 28</span>
+              </div>
+              <div id="toolbarViewerRight">
+                <button id="presentationMode" class="toolbarButton presentationMode hiddenLargeView hidden" title="Switch to Presentation Mode" tabindex="31" data-l10n-id="presentation_mode">
+                  <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+                </button>
+
+                <button id="openFile" class="toolbarButton openFile hiddenLargeView" title="Open File" tabindex="32" data-l10n-id="open_file">
+                  <span data-l10n-id="open_file_label">Open</span>
+                </button>
+
+                <button id="print" class="toolbarButton print hiddenMediumView" title="Print" tabindex="33" data-l10n-id="print" style="display: block;">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="download" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download" style="display: block;">
+                  <span data-l10n-id="download_label">Download</span>
+                </button>
+                <a href="#page=1&amp;zoom=auto,-21,720&amp;links=true&amp;allowPrinting=true&amp;allowDownload=true&amp;originalFileName=Bitcoin%20Monthly%20Outlook%20-%20October%2031st%202" id="viewBookmark" class="toolbarButton bookmark hiddenSmallView" title="Current view (copy or open in new window)" tabindex="35" data-l10n-id="bookmark" target="_blank">
+                  <span data-l10n-id="bookmark_label">Current View</span>
+                </a>
+
+                <div class="verticalToolbarSeparator hiddenSmallView"></div>
+
+                <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="36" data-l10n-id="tools">
+                  <span data-l10n-id="tools_label">Tools</span>
+                </button>
+              </div>
+              <div id="toolbarViewerMiddle">
+                <div class="splitToolbarButton">
+                  <button id="zoomOut" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out">
+                    <span data-l10n-id="zoom_out_label">Zoom Out</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button id="zoomIn" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in">
+                    <span data-l10n-id="zoom_in_label">Zoom In</span>
+                   </button>
+                </div>
+                <span id="scaleSelectContainer" class="dropdownToolbarButton" style="min-width: 122px; max-width: 122px;">
+                  <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom" style="min-width: 144px;">
+                    <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                    <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
+                    <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Page Fit</option>
+                    <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Page Width</option>
+                    <option id="customScaleOption" title="" value="custom" disabled="disabled" hidden="true"></option>
+                    <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }">50%</option>
+                    <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }">75%</option>
+                    <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }">100%</option>
+                    <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }">125%</option>
+                    <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }">150%</option>
+                    <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }">200%</option>
+                    <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }">300%</option>
+                    <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }">400%</option>
+                  </select>
+                </span>
+              </div>
+            </div>
+            <div id="loadingBar" class="hidden" style="width: calc(100% - 12px);">
+              <div class="progress indeterminate" style="height: 100%; width: 100%;">
+                <div class="glimmer">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <menu type="context" id="viewerContextMenu">
+          <menuitem id="contextFirstPage" label="Go to First Page" data-l10n-id="first_page" title="Go to First Page"></menuitem>
+          <menuitem id="contextLastPage" label="Go to Last Page" data-l10n-id="last_page" title="Go to Last Page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw" title="Rotate Clockwise"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counterclockwise" data-l10n-id="page_rotate_ccw" title="Rotate Counterclockwise"></menuitem>
+        </menu>
+
+        <div id="viewerContainer" tabindex="0">
+          <div id="viewer" class="pdfViewer"><div class="page" style="width: 928px; height: 693px;" data-page-number="1" data-loaded="true"><div style="width: 928px; height: 693px;" class="canvasWrapper"><canvas id="page1" moz-opaque="" width="928" height="694" style="width: 928px; height: 694px;"></canvas></div><div class="textLayer" style="width: 928px; height: 693px;"><div style="left: 429.467px; top: 628.657px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.885005);">85 Broad Street</div><div style="left: 414.152px; top: 648.897px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.889754);">New York, NY, 10004</div><div style="left: 415.477px; top: 669.136px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.898531);">www.delphidigital.io</div><div style="left: 287.853px; top: 227.713px; font-size: 34.6959px; font-family: sans-serif; transform: scaleX(0.92867);">Monthly Bitcoin Outlook</div><div style="left: 372.228px; top: 279.757px; font-size: 34.6959px; font-family: sans-serif; transform: scaleX(0.909913);">October 2019</div><div style="left: 902.895397291459px; top: 672.9789167962779px; font-size: 7.71020272515786px; font-family: sans-serif;">1</div><div class="endOfContent"></div></div><div class="annotationLayer"><section data-annotation-id="244R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -431.25px -697.25px 0px; left: 431.25px; top: 697.25px; width: 126px; height: 15.0001px;" class="linkAnnotation"><a title="http://www.delphidigital.io/" href="http://www.delphidigital.io/" target="_blank" rel="noopener noreferrer nofollow"></a></section><section data-annotation-id="245R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -9px -674.25px 0px; left: 9px; top: 674.25px; width: 42.75px; height: 45px;" class="linkAnnotation"><a title="https://twitter.com/delphi_digital" href="https://twitter.com/delphi_digital" target="_blank" rel="noopener noreferrer nofollow"></a></section><section data-annotation-id="246R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -63px -678px 0px; left: 63px; top: 678px; width: 35.25px; height: 37.5px;" class="linkAnnotation"><a title="https://www.linkedin.com/company/delphi-digital/" href="https://www.linkedin.com/company/delphi-digital/" target="_blank" rel="noopener noreferrer nofollow"></a></section></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="2" data-loaded="true"><div style="width: 928px; height: 693px;" class="canvasWrapper"><canvas id="page2" moz-opaque="" width="928" height="694" style="width: 928px; height: 694px;"></canvas></div><div class="textLayer" style="width: 928px; height: 693px;"><div style="left: 29.7264px; top: 22.4704px; font-size: 37.5872px; font-family: sans-serif; transform: scaleX(0.930873);">Table of Contents</div><div style="left: 65.868px; top: 120.067px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.955376);">Executive Summary</div><div style="left: 65.868px; top: 156.69px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.959332);">2019 Bitcoin Volume Profile</div><div style="left: 65.868px; top: 193.314px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.961767);">Open Interest - Bearish Exhaustion</div><div style="left: 65.868px; top: 229.937px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.981584);">False Bull Market?</div><div style="left: 65.868px; top: 266.561px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.970843);">Bitcoin Dominance</div><div style="left: 65.868px; top: 303.184px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.978806);">Open Interest and Volatility</div><div style="left: 65.868px; top: 339.808px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.964866);">Open Interest - Bullish Exhaustion</div><div style="left: 65.868px; top: 376.431px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.967308);">Quantifying The 1B OI Trend</div><div style="left: 65.868px; top: 413.054px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.963676);">Monthly Exchange Flows</div><div style="left: 65.868px; top: 449.678px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.944841);">Daily Exchange Flows</div><div style="left: 65.868px; top: 486.301px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.955377);">Hourly Exchange Flows</div><div style="left: 417.51px; top: 573.415px; font-size: 14.4566px; font-family: sans-serif; transform: scaleX(0.958647);">Lead Analysts</div><div style="left: 252.359px; top: 614.616px; font-size: 14.4566px; font-family: sans-serif; transform: scaleX(0.896461);">Yan Liberman, CFA, CAIA</div><div style="left: 252.359px; top: 635.055px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.831676);">yan@delphidigital.io</div><div style="left: 634.014px; top: 611.002px; font-size: 14.4566px; font-family: sans-serif; transform: scaleX(0.880941);">Kevin Kelly, CFA</div><div style="left: 634.014px; top: 631.44px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.825729);">kevin@delphidigital.io</div><div style="left: 423.44375878801526px; top: 118.62106902569676px; font-size: 16.3841809220339px; font-family: sans-serif;">3</div><div style="left: 423.44375878801526px; top: 155.24453226318437px; font-size: 16.3841809220339px; font-family: sans-serif;">4</div><div style="left: 423.44375878801526px; top: 191.8679955006718px; font-size: 16.3841809220339px; font-family: sans-serif;">5</div><div style="left: 423.44375878801526px; top: 228.4914587381593px; font-size: 16.3841809220339px; font-family: sans-serif;">6</div><div style="left: 423.44375878801526px; top: 265.11492197564684px; font-size: 16.3841809220339px; font-family: sans-serif;">7</div><div style="left: 423.44375878801526px; top: 301.7383852131344px; font-size: 16.3841809220339px; font-family: sans-serif;">8</div><div style="left: 423.44375878801526px; top: 338.36184845062195px; font-size: 16.3841809220339px; font-family: sans-serif;">9</div><div style="left: 414.378px; top: 374.985px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">10</div><div style="left: 414.378px; top: 411.609px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">11</div><div style="left: 414.378px; top: 448.232px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">12</div><div style="left: 414.378px; top: 484.856px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">13</div><div style="left: 504.627px; top: 120.067px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.963105);">Liquid Supply</div><div style="left: 504.627px; top: 156.69px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.962124);">UTXO Adjusted NVTS</div><div style="left: 504.627px; top: 193.314px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.969205);">UTXO Analysis</div><div style="left: 504.627px; top: 229.937px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.997702);">Volatility Awakens</div><div style="left: 504.627px; top: 266.561px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.950282);">BTC "Death Cross"</div><div style="left: 504.627px; top: 303.184px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.982756);">Violent Drawdowns</div><div style="left: 504.627px; top: 339.808px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.95532);">Key Drivers of Rally Fade</div><div style="left: 504.627px; top: 376.431px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.94015);">Risk Asset or Safe Haven?</div><div style="left: 504.627px; top: 413.054px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.959727);">Risk-On Rally May Boost Bitcoin</div><div style="left: 504.627px; top: 449.678px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.953622);">Bitcoin Thrives In The Calm</div><div style="left: 504.627px; top: 486.301px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.967291);">Central Banks Restart Stimulus</div><div style="left: 851.691px; top: 118.621px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">15</div><div style="left: 851.691px; top: 155.245px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">16</div><div style="left: 851.691px; top: 191.868px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">17</div><div style="left: 851.691px; top: 228.491px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">18</div><div style="left: 851.691px; top: 265.115px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">19</div><div style="left: 851.691px; top: 301.738px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">20</div><div style="left: 851.691px; top: 338.362px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">21</div><div style="left: 851.691px; top: 374.985px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">22</div><div style="left: 851.691px; top: 411.609px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">23</div><div style="left: 851.691px; top: 448.232px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">24</div><div style="left: 851.691px; top: 484.856px; font-size: 16.3842px; font-family: sans-serif; transform: scaleX(0.882355);">26</div><div style="left: 902.895397291459px; top: 672.9789167962779px; font-size: 7.71020272515786px; font-family: sans-serif;">2</div><div class="endOfContent"></div></div><div class="annotationLayer"><section data-annotation-id="160R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -270px -684.75px 0px; left: 270px; top: 684.75px; width: 20.25px; height: 22.5px;" class="linkAnnotation"><a title="https://twitter.com/YanLiberman" href="https://twitter.com/YanLiberman" target="_blank" rel="noopener noreferrer nofollow"></a></section><section data-annotation-id="161R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -296.25px -684.75px 0px; left: 296.25px; top: 684.75px; width: 19.5px; height: 22.5px;" class="linkAnnotation"><a title="https://www.linkedin.com/in/yanliberman" href="https://www.linkedin.com/in/yanliberman" target="_blank" rel="noopener noreferrer nofollow"></a></section><section data-annotation-id="162R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -669.75px -680.25px 0px; left: 669.75px; top: 680.25px; width: 20.25px; height: 21.75px;" class="linkAnnotation"><a title="https://twitter.com/Kevin_Kelly_II" href="https://twitter.com/Kevin_Kelly_II" target="_blank" rel="noopener noreferrer nofollow"></a></section><section data-annotation-id="163R" style="transform: matrix(0.963775, 0, 0, 0.963775, 0, 0); transform-origin: -696.75px -680.25px 0px; left: 696.75px; top: 680.25px; width: 20.25px; height: 21.75px;" class="linkAnnotation"><a title="https://www.linkedin.com/in/kevin-kelly-cfa-02027b28/" href="https://www.linkedin.com/in/kevin-kelly-cfa-02027b28/" target="_blank" rel="noopener noreferrer nofollow"></a></section></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="3" data-loaded="true"><div style="width: 928px; height: 693px;" class="canvasWrapper"><canvas id="page3" moz-opaque="" width="928" height="694" style="width: 928px; height: 694px;"></canvas></div><div class="textLayer" style="width: 928px; height: 693px;"><div style="left: 407.06px; top: 487.751px; font-size: 14.4567px; font-family: sans-serif; transform: scaleX(0.905279);">Type something</div><div style="left: 27.5579px; top: 13.7964px; font-size: 37.5872px; font-family: sans-serif; transform: scaleX(0.901218);">Executive Summary</div><div style="left: 58.6397px; top: 611.791px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.900008);">We will delve into each section individually while providing the necessary data analysis to support our opinions. It is important to note </div><div style="left: 58.6397px; top: 632.031px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.896584);">that investing in Bitcoin is risky and any decision made should be evaluated in the context of an individual investor's capability and </div><div style="left: 58.6397px; top: 652.27px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.909527);">appetite to take risk. </div><div style="left: 68.3264px; top: 554.95px; font-size: 15.4204px; font-family: sans-serif; transform: rotate(-90deg) scaleX(0.925006);">Macro Backdrop</div><div style="left: 117.188px; top: 102.902px; font-size: 13.2797px; font-family: sans-serif; transform: scaleX(0.955537);">Open Interest Based Trading of The Summer</div><div style="left: 117.188px; top: 122.003px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.873555);">We provide our take on the evolving relationship between price and open interest, including the impact of market sentiment, volatility, and </div><div style="left: 117.188px; top: 139.077px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.873364);">exchange flows. </div><div style="left: 117.188px; top: 174.043px; font-size: 13.2797px; font-family: sans-serif; transform: scaleX(0.961337);">Rebound in Volume Strengthens Argument that Local Bottom is in</div><div style="left: 117.188px; top: 193.144px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.867519);">After continuously declining since the YTD price peak in June, volume has come back to life in this recent resurgence, giving credence to the idea </div><div style="left: 117.188px; top: 213.064px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.880461);">that the bottom is behind us. Another prolonged decline in volume would, however, certainly add doubt to that opinion.</div><div style="left: 117.188px; top: 248.029px; font-size: 13.2797px; font-family: sans-serif; transform: scaleX(0.962537);">Long-Term Holders Stay Strong</div><div style="left: 117.188px; top: 267.131px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.862778);">Long term holders have held steady throughout all the volatility that took place this year, with 2 year+ holders at YTD highs and 5 year+ holders at </div><div style="left: 117.188px; top: 284.205px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.875774);">ATHs. Short term traders continue to drive price action. </div><div style="left: 117.188px; top: 319.171px; font-size: 13.2797px; font-family: sans-serif; transform: scaleX(0.935279);">Exchange Flows </div><div style="left: 117.188px; top: 338.272px; font-size: 11.3826px; font-family: sans-serif; transform: scaleX(0.877095);">We use high and low time frames to help put both market wide sentiment and individual trading trends into perspective.  </div><div style="left: 68.8121px; top: 303.311px; font-size: 15.4204px; font-family: sans-serif; transform: rotate(-90deg) scaleX(0.895347);">Key Themes &amp; Trends</div><div style="left: 117.189px; top: 399.279px; font-size: 13.4929px; font-family: sans-serif; transform: scaleX(0.968477);">Ideal Macro Environment for Bitcoin</div><div style="left: 117.189px; top: 418.687px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.869619);">Seeing as how bitcoin has never experienced a full market cycle, any prediction of its behavior during the next economic downturn is speculative at </div><div style="left: 117.189px; top: 436.035px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.868505);">best. However, given how it’s performed over the last 5-7 years, we have a decent indication of how it may respond when markets finally tap out.</div><div style="left: 117.189px; top: 465.912px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.871947);">In our view, the best environment for bitcoin is one characterized by </div><div style="left: 466.603px; top: 465.912px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.95223);">declining market volatility, more accommodative monetary policies from </div><div style="left: 117.189px; top: 483.26px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.943051);">global central banks, and low (but not contracting) economic growth. </div><div style="left: 498.633px; top: 483.26px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.864796);">Such a backdrop is favorable for risk assets, especially those that are </div><div style="left: 117.189px; top: 500.608px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.875866);">more growth-oriented, as investors’ appetite for risk returns.</div><div style="left: 117.189px; top: 535.304px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.873154);">We’ve already begun to see a slight improvement on several macro fronts, including trade discussions between the U.S. and China and better-than-</div><div style="left: 117.189px; top: 552.652px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.870784);">expected economic data (at least in some major developed markets). However, the risk of a global recession over the next 12-18 months remains </div><div style="left: 117.189px; top: 570px; font-size: 11.5653px; font-family: sans-serif; transform: scaleX(0.872046);">elevated and any new headwinds to an improving outlook could send markets into a tailspin given their fragile state.</div><div style="left: 902.895397291459px; top: 672.9789167962779px; font-size: 7.71020272515786px; font-family: sans-serif;">3</div><div class="endOfContent"></div></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="4"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="5"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="6"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="7"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="8"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="9"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="10"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="11"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="12"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="13"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="14"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="15"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="16"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="17"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="18"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="19"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="20"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="21"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="22"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="23"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="24"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="25"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="26"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="27"><div class="loadingIcon"></div></div><div class="page" style="width: 928px; height: 693px;" data-page-number="28"><div class="loadingIcon"></div></div></div>
+        </div>
+
+        <div id="errorWrapper" hidden="true">
+          <div id="errorMessageLeft">
+            <span id="errorMessage"></span>
+            <button id="errorShowMore" data-l10n-id="error_more_info">More Information</button>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">Less Information</button>
+          </div>
+          <div id="errorMessageRight">
+            <button id="errorClose" data-l10n-id="error_close">Close</button>
+          </div>
+          <div class="clearBoth"></div>
+          <textarea id="errorMoreInfo" readonly="readonly" hidden="true"></textarea>
+        </div>
+      </div> <!-- mainContainer -->
+
+      <div id="overlayContainer" class="hidden">
+        <div id="passwordOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <p id="passwordText" data-l10n-id="password_label">Enter the password to open this PDF file.</p>
+            </div>
+            <div class="row">
+              <input type="password" id="password" class="toolbarField">
+            </div>
+            <div class="buttonRow">
+              <button id="passwordCancel" class="overlayButton"><span data-l10n-id="password_cancel">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton"><span data-l10n-id="password_ok">OK</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="documentPropertiesOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="document_properties_file_name">File name:</span> <p id="fileNameField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_file_size">File size:</span> <p id="fileSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_title">Title:</span> <p id="titleField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_author">Author:</span> <p id="authorField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_subject">Subject:</span> <p id="subjectField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_keywords">Keywords:</span> <p id="keywordsField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creation_date">Creation Date:</span> <p id="creationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_modification_date">Modification Date:</span> <p id="modificationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creator">Creator:</span> <p id="creatorField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_producer">PDF Producer:</span> <p id="producerField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_version">PDF Version:</span> <p id="versionField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_count">Page Count:</span> <p id="pageCountField">-</p>
+            </div>
+            <div class="buttonRow">
+              <button id="documentPropertiesClose" class="overlayButton"><span data-l10n-id="document_properties_close">Close</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="printServiceOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="print_progress_message">Preparing document for printing…</span>
+            </div>
+            <div class="row">
+              <progress value="0" max="100"></progress>
+              <span data-l10n-id="print_progress_percent" data-l10n-args="{ &quot;progress&quot;: 0 }" class="relative-progress">0%</span>
+            </div>
+            <div class="buttonRow">
+              <button id="printCancel" class="overlayButton"><span data-l10n-id="print_progress_close">Cancel</span></button>
+            </div>
+          </div>
+        </div>
+      </div>  <!-- overlayContainer -->
+
+    </div> <!-- outerContainer -->
+    <div id="printContainer"></div>
+  
+
+
+<input id="fileInput" class="fileInput" type="file"></body></html>
