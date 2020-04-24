@@ -22,6 +22,10 @@ Professional investor, programmer, social activist, journalist. Since 2010, it h
 
 ## :link: Linki
 
+0. Dividend Kingdom: https://www.facebook.com/groups/usstocksvip/
+
+0. Blog USStocks: https://usstocks.pl/
+
 1. https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_quotes_globex_options.html
 
 2. https://www.hegic.co/
