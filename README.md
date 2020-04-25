@@ -14,7 +14,7 @@ One major difference in trading Bitcoin options at the moment is the price. Bitc
 
 ## :rocket: Prelegent
 
-Professional investor, programmer, social activist, journalist. Since 2010, it has mainly been investing. Thanks to the implementation of the SWAN principle (SleepWellAtNight) and focus on dividend companies, he is currently realizing his second passion - traveling, and looking after the investment takes him no more than an hour a week. In his spare time he is an active volunteer in several charity organizations.
+Professional investor, programmer, charity worker, journalist. Since 2010 his main source of income is investing. Due to the implementation of the SWAN principle (SleepWellAtNight) and focus on dividend companies, he pursues his second passion - traveling around world. Currently managing investments takes him no more than an hour per week.
 
 ## :question: Questions
 
