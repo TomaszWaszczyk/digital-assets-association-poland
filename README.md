@@ -40,6 +40,8 @@ Professional investor, programmer, charity worker, journalist. Since 2010 his ma
 
 5. https://lnpay.co/t/2b2361/web
 
+6. https://www.deribit.com/
+
 <details><summary>More about Hegic Protocol</summary>
 <br>
 On April 23rd, Hegic announced the V1 launch of its protocol, which allows users to buy or sell American put/call options on Ethereum. We first wrote about Hegic on March 20th in our Thematic Report on Insurance Products. In that report, we also highlighted Opyn, a similar on-chain options protocol. What differentiates Hegic though, is how it writes (sells) options by implementing liquidity pools.
