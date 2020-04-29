@@ -1,5 +1,9 @@
 # SBM vol. #18 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
+<p align="center">
+  <img src="._PREVIOUS_MEETUPS/30-04-2020-Bartek-Szyma/options.jpg">
+</p>
+
 ## :memo: Agenda
 
 One major difference in trading Bitcoin options at the moment is the price. Bitcoin is one of—if not the most—volatile asset trading at this time, meaning to buy an option is very expensive. During the meetup we will talk about:
