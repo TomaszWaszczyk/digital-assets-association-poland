@@ -40,6 +40,22 @@ Professional investor, programmer, charity worker, journalist. Since 2010 his ma
 
 5. https://lnpay.co/t/2b2361/web
 
+<details><summary>More about Hegic Protocol</summary>
+
+On April 23rd, Hegic announced the V1 launch of its protocol, which allows users to buy or sell American put/call options on Ethereum. We first wrote about Hegic on March 20th in our Thematic Report on Insurance Products. In that report, we also highlighted Opyn, a similar on-chain options protocol. What differentiates Hegic though, is how it writes (sells) options by implementing liquidity pools.
+
+Hegic has two types of users - 1) holders of options (buyers) and 2) liquidity providers (sellers). When traders typically sell an option contract, the risk they're exposed to is limited to that specific contract. With Hegic, however, the goal is to diversify that risk across all of the liquidity providers for a given pool. Rather than having a single trader be exposed to the risk of a single contract, LPs now share the risk and reward for all contracts issued off their pool. The tables shown below from Hegic's whitepaper illustrate this principal.
+
+<p align="center">
+  <img src="./_PREVIOUS_MEETUPS/30-04-2020-Bartek-Szyma/Options/hegic.png">
+</p>
+
+A Hegic token is also expected to launch soon, which will be entitled to protocol settlement fees in contrast to the option premiums that LPs earn. In addition, the token will be used for governance and it'll give option buyers a discount on premiums paid (initially 30%) if the value of the tokens they hold exceeds the value of the contract they want to purchase.
+
+While certainly an interesting idea, will Hegic's design prove to be an innovation with material benefits? This will depend on a variety of factors. How will yields compare to other liquidity pools? How will prices compare to other options exchanges? What is the true risk profile of being a liquidity provider? To answer these questions, our team will be doing a deep dive into the protocol to conduct further analysis. We'll keep our members posted. 
+
+</details>
+
 ---
 ---
 ---
