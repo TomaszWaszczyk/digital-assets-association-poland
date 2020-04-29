@@ -1,7 +1,7 @@
 # SBM vol. #18 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
 <p align="center">
-  <img src="._PREVIOUS_MEETUPS/30-04-2020-Bartek-Szyma/options.jpg">
+  <img src="./_PREVIOUS_MEETUPS/30-04-2020-Bartek-Szyma/Options/options.jpg">
 </p>
 
 ## :memo: Agenda
@@ -22,7 +22,7 @@ Professional investor, programmer, charity worker, journalist. Since 2010 his ma
 
 ## :question: Questions
 
-1. 
+1. https://ipfs.io/ipfs/QmWy8x6vEunH4gD2gWT4Bt4bBwWX2KAEUov46tCLvMRcME
 
 ## :link: Linki
 
