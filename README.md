@@ -41,7 +41,7 @@ Professional investor, programmer, charity worker, journalist. Since 2010 his ma
 5. https://lnpay.co/t/2b2361/web
 
 <details><summary>More about Hegic Protocol</summary>
-
+<br>
 On April 23rd, Hegic announced the V1 launch of its protocol, which allows users to buy or sell American put/call options on Ethereum. We first wrote about Hegic on March 20th in our Thematic Report on Insurance Products. In that report, we also highlighted Opyn, a similar on-chain options protocol. What differentiates Hegic though, is how it writes (sells) options by implementing liquidity pools.
 
 Hegic has two types of users - 1) holders of options (buyers) and 2) liquidity providers (sellers). When traders typically sell an option contract, the risk they're exposed to is limited to that specific contract. With Hegic, however, the goal is to diversify that risk across all of the liquidity providers for a given pool. Rather than having a single trader be exposed to the risk of a single contract, LPs now share the risk and reward for all contracts issued off their pool. The tables shown below from Hegic's whitepaper illustrate this principal.
