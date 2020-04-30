@@ -22,6 +22,8 @@ Professional investor, programmer, charity worker, journalist. Since 2010 his ma
 
 ## :question: Questions
 
+0. Opcje amerykańskie vs europejskie
+
 1. https://ipfs.io/ipfs/QmWy8x6vEunH4gD2gWT4Bt4bBwWX2KAEUov46tCLvMRcME
 
 ## :link: Linki
