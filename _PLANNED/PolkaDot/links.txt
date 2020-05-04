@@ -1,7 +1,9 @@
-https://www.shawntabrizi.com/substrate-collectables-workshop/#/
+https://www.shawntabrizi.com/substrate-collectables-workshop/#/ - outdated
 
 https://figment.network/resources/staking-ksm-how-to-claim-stake-your-kusama-tokens/
 
 https://wiki.polkadot.network/docs/en/learn-comparisons-cosmos
 
 https://github.com/substrate-developer-hub/substrate-front-end-template/
+
+https://substrate.dev/recipes/
