@@ -1,4 +1,4 @@
-# SBM vol. #19 - Plam Network [Polkadot] - Hoon Kim
+# SBM vol. #19 - Plasm Network [Polkadot] - Hoon Kim
 
 <p align="center">
   <img src="./_PLANNED/PlasmNetwork/plasm-network.png">
