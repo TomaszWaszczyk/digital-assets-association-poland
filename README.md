@@ -1,3 +1,40 @@
+# SBM vol. #19 - Plam Network [Polkadot] - Hoon Kim
+
+<p align="center">
+  <img src="./_PLANNED/PlasmNetwork/plasm-network.png">
+</p>
+
+## :memo: Agenda
+
+This presentation will act as an introductory point to Plasm Network and Layer 2 scalability solutions as a whole. The contents include, what layer 2 is, what is an OVM, how it provides scalability, what Plasm Network is, what Parity Substrate framework is, what is a Parachain, and how all of this is implemented on Plasm Network.
+
+## :rocket: Prelegent
+
+Hoon Kim, a software engineer at Stake Technologies and a core developer of the Plasm Team.
+Awarded Gold Prize at the 2014 South Korean National Olympiad in Informatics. Received the Outstanding Thesis award at Ritsumeikan Asia Pacific University for an undergraduate thesis regarding the applicability of a single purpose blockchain for stock exchanges and asset management (2020).
+Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Administration at the College of International Management (2020).
+
+## :question: Questions
+
+0. 
+
+## :link: Linki
+
+1. https://www.plasmnet.io/
+
+2. https://github.com/staketechnologies
+
+3. https://discord.gg/BfAA6E3
+
+4. https://medium.com/stake-technologies
+
+5. https://twitter.com/hoonsubin
+
+---
+---
+---
+---
+
 # SBM vol. #18 - Can Bitcoin Reduce Portfolio Risk - Bartek Szyma
 
 <p align="center">
