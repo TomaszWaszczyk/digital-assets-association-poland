@@ -18,7 +18,7 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 0. 
 
-## :link: Linki
+## :link: Links
 
 1. https://www.plasmnet.io/
 
