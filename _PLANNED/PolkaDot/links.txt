@@ -9,3 +9,7 @@ https://wiki.polkadot.network/docs/en/learn-comparisons-cosmos
 https://github.com/substrate-developer-hub/substrate-front-end-template/
 
 https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
+
+----------------
+
+https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
