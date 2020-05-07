@@ -31,6 +31,10 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 5. https://twitter.com/hoonsubin
 
 ---
+
+https://research.web3.foundation/en/latest/polkadot/NPoS/
+
+---
 ---
 ---
 ---
