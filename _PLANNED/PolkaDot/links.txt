@@ -8,4 +8,4 @@ https://wiki.polkadot.network/docs/en/learn-comparisons-cosmos
 
 https://github.com/substrate-developer-hub/substrate-front-end-template/
 
-https://substrate.dev/recipes/
+https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
