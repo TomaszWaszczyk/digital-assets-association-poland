@@ -30,6 +30,8 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 5. https://twitter.com/hoonsubin
 
+6. Mainnet launch: https://medium.com/stake-technologies/plasm-network-mainnet-launch-6c0372842625
+
 ---
 
 https://research.web3.foundation/en/latest/polkadot/NPoS/
