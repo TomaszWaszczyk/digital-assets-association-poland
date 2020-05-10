@@ -44,6 +44,8 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 https://research.web3.foundation/en/latest/polkadot/NPoS/
 
+https://github.com/staketechnologies/lockdrop-ui/blob/master/audit/quantstamp-audit.pdf
+
 ---
 ---
 ---
