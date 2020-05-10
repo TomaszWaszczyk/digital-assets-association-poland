@@ -22,6 +22,10 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 2. As an introduction, could you say about stack technology?
 
+3. Let's talk about the roadmap, "Game development-focused DApps to allow game developers to leverage Plasm Networks’s Layer2 capabilities (ideally a game engine plugin that does not require the developer to know anything about blockchains to use it in their games)." - could you describe a bit more about that, architecture, do you have some draft of API, or just now 'in run-time-meetup' to propose API for that :D ? 
+
+4. 
+
 ## :link: Links
 
 1. https://www.plasmnet.io/
