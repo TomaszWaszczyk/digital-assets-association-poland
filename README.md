@@ -16,7 +16,7 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 ## :question: Questions
 
-0. First of all congrats for running mainnet! :rocket:
+0. First of all congrats for running mainnet! :rocket: :rocket: :rocket:
 
 1. Are you goin to have own DEX?
 
