@@ -10,6 +10,10 @@ https://github.com/substrate-developer-hub/substrate-front-end-template/
 
 https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
 
+Tutorials: https://www.substrate.io/tutorials/ + https://substrate.dev/docs/en/
+
+
+
 http://polkaproject.com/
 
 ----------------
