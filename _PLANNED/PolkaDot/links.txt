@@ -10,6 +10,8 @@ https://github.com/substrate-developer-hub/substrate-front-end-template/
 
 https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
 
+http://polkaproject.com/
+
 ----------------
 
 https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
