@@ -12,6 +12,8 @@ https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
 
 Tutorials: https://www.substrate.io/tutorials/ + https://substrate.dev/docs/en/
 
+https://mvpworkshop.co/blog/the-kusama-approach/
+
 
 
 http://polkaproject.com/
