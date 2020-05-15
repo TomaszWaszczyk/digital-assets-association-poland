@@ -30,3 +30,7 @@ The best things which Substrate delivers:
 - security, pow, consensus
 
 - runtime upgrades
+
+---
+
+https://github.com/w3f/General-Grants-Program
