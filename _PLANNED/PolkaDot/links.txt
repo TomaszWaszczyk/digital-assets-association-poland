@@ -23,3 +23,10 @@ http://polkaproject.com/
 ----------------
 
 https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
+
+----------------
+The best things which Substrate delivers:
+
+- security, pow, consensus
+
+- runtime upgrades
