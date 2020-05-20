@@ -3,3 +3,7 @@ https://medium.com/paradigm-fund/tezos-a-critical-reliability-update-for-all-tez
 https://tezostaquito.io/
 
 https://github.com/ecadlabs/proposal-vote
+
+Testnet: https://carthagenet.tezblock.io/ && https://cartgagenet.tzstats.com/
+
+
