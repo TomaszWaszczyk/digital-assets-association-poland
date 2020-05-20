@@ -1,1 +1,3 @@
 https://medium.com/paradigm-fund/tezos-a-critical-reliability-update-for-all-tezos-nodes-bringing-chainlink-oracles-to-the-tezos-e223984a7740
+
+https://tezostaquito.io/
