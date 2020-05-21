@@ -1,3 +1,5 @@
+https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS - Substrate Seminar(!!!)
+
 https://www.shawntabrizi.com/substrate-collectables-workshop/#/ - outdated
 
 https://figment.network/resources/staking-ksm-how-to-claim-stake-your-kusama-tokens/
@@ -6,4 +8,33 @@ https://wiki.polkadot.network/docs/en/learn-comparisons-cosmos
 
 https://github.com/substrate-developer-hub/substrate-front-end-template/
 
-https://substrate.dev/recipes/
+https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
+
+Tutorials: https://www.substrate.io/tutorials/ + https://substrate.dev/docs/en/
+
+https://mvpworkshop.co/blog/the-kusama-approach/
+
+Frontend - https://substrate.dev/docs/en/tutorials/build-a-dapp/front-end#submit-a-proof
+
+Subkey: https://medium.com/@meleacrypto/subkey-create-keys-for-kusama-polkadot-substrate-38e4b7a2e7f1
+
+
+
+http://polkaproject.com/
+
+----------------
+
+https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
+
+----------------
+The best things which Substrate delivers:
+
+- security, pow, consensus
+
+- runtime upgrades
+
+---
+
+https://github.com/w3f/General-Grants-Program
+
+Let us know if you have any questions or want to chat: Twitter: @BillLaboon Telegram: @billlaboon Email: bill@web3.foundation

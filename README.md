@@ -1,4 +1,4 @@
-# SBM vol. #19 - Plam Network [Polkadot] - Hoon Kim
+# SBM vol. #19 - Plasm Network [Polkadot] - Hoon Kim
 
 <p align="center">
   <img src="./_PLANNED/PlasmNetwork/plasm-network.png">
@@ -16,9 +16,17 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 ## :question: Questions
 
-0. 
+0. First of all congrats for running mainnet! :rocket: :rocket: :rocket:
 
-## :link: Linki
+1. Are you goin to have own DEX?
+
+2. As an introduction, could you say about stack technology?
+
+3. Let's talk about the roadmap, "Game development-focused DApps to allow game developers to leverage Plasm Networks’s Layer2 capabilities (ideally a game engine plugin that does not require the developer to know anything about blockchains to use it in their games)." - could you describe a bit more about that, architecture, do you have some draft of API, or just now 'in run-time-meetup' to propose API for that :D ? 
+
+4. What is Dusty network?
+
+## :link: Links
 
 1. https://www.plasmnet.io/
 
@@ -29,6 +37,16 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 4. https://medium.com/stake-technologies
 
 5. https://twitter.com/hoonsubin
+
+6. Mainnet launch: https://medium.com/stake-technologies/plasm-network-mainnet-launch-6c0372842625
+
+---
+
+https://research.web3.foundation/en/latest/polkadot/NPoS/
+
+Audit: https://github.com/staketechnologies/lockdrop-ui/blob/master/audit/quantstamp-audit.pdf
+
+Wiki: https://docs.plasmnet.io/PlasmNetwork/Lockdrop.html
 
 ---
 ---
