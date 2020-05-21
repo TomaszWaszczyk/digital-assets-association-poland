@@ -36,3 +36,5 @@ The best things which Substrate delivers:
 ---
 
 https://github.com/w3f/General-Grants-Program
+
+Let us know if you have any questions or want to chat: Twitter: @BillLaboon Telegram: @billlaboon Email: bill@web3.foundation
