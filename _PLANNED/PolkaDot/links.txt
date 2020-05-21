@@ -16,6 +16,8 @@ https://mvpworkshop.co/blog/the-kusama-approach/
 
 Frontend - https://substrate.dev/docs/en/tutorials/build-a-dapp/front-end#submit-a-proof
 
+Subkey: https://medium.com/@meleacrypto/subkey-create-keys-for-kusama-polkadot-substrate-38e4b7a2e7f1
+
 
 
 http://polkaproject.com/
