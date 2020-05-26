@@ -30,9 +30,13 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 5. Polkadot delivers security, pow, consensus and runtime upgrades, so why Plasm Network requires additional validators? Why is that?
 
-6. As added value of Plasm Network is "Dapps as a business" but what is the difference to the following quote:
+6. As added value of Plasm Network is "Dapps as a business", but what is the difference (taking into concideration the following quote):
 
 > “Polkadot allows every coder to also be a businessman. They just place an algorithmic service online and it's a self-sovereign, autonomous, economically strong business. The world, in some sense, belongs to coders.” –– @gavofyork
+
+Why not just:
+
+> Parachain as a business? - Tomek :D :rocket:
 
 7. 
 
