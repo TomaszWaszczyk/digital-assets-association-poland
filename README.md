@@ -18,7 +18,9 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 0. First of all congrats for running mainnet! :rocket: :rocket: :rocket:
 
-1. Are you goin to have own DEX?
+0.5. What does Web3 mean for Plasm Network? ;-)
+
+1. Are you going to have own DEX?
 
 2. As an introduction, could you say about stack technology?
 
