@@ -62,3 +62,6 @@ Seminar 26-05-2020
 9. https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
 
 10. https://gitlab.com/totem-tech/totem-substrate/-/blob/master/node/runtime/src/boxkeys.rs
+
+11. YouTube: [TUTORIAL] Build a Bitcoin-like Blockchain with Substrate - Beginner Friendly (1 of 5)
+
