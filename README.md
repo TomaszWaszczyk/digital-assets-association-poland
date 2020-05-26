@@ -28,6 +28,8 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 4. What is Dusty network?
 
+5. Polkadot delivers security, pow, consensus and runtime upgrades, so why Plasm Network requires additional validators? Why is that?
+
 ## :link: Links
 
 1. https://www.plasmnet.io/
