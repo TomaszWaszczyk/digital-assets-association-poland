@@ -56,6 +56,8 @@ You are deeply tech guys but for normal people in Japan, what is the awerness of
 
 6. Mainnet launch: https://medium.com/stake-technologies/plasm-network-mainnet-launch-6c0372842625
 
+7. https://docs.plasmnet.io/PlasmNetwork/Lockdrop.html
+
 ---
 
 https://research.web3.foundation/en/latest/polkadot/NPoS/
