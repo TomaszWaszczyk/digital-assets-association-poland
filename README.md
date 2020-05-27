@@ -38,9 +38,13 @@ Why not just:
 
 > Parachain as a business? - Tomek :D :rocket:
 
-7. 
+7. There is any tocenomy connection between following tokens: DOT, PLM and maybe KSM?
 
-You are deeply tech guys but for normal people in Japan, what is the awerness of comming token economy? Could you say a few cents on that?
+8. "Good actors are rewarded by this mechanism whilst bad actors will lose their stake in the network" - any example for being good and bad actor? As an engineer I am really curious what "bad actor" means :D ?
+
+9. There is any incentive for validator?
+
+10. You are deeply tech guys but for normal people in Japan, what is the awerness of comming token economy? Could you say a few cents on that?
 
 ## :link: Links
 
