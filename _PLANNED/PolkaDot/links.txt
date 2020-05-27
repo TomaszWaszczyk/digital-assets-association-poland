@@ -22,6 +22,8 @@ Subkey: https://medium.com/@meleacrypto/subkey-create-keys-for-kusama-polkadot-s
 
 http://polkaproject.com/
 
+https://nomination.usetech.com
+
 ----------------
 
 https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
