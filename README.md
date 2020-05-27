@@ -20,7 +20,7 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 0.5. What does Web3 mean for Plasm Network? ;-)
 
-1. Are you going to have own DEX?
+1. Are you going to have own DEX? What about the liquidity provider?
 
 2. As an introduction, could you say about stack technology?
 
@@ -45,6 +45,10 @@ Why not just:
 9. There is any incentive for validator?
 
 10. You are deeply tech guys but for normal people in Japan, what is the awerness of comming token economy? Could you say a few cents on that?
+
+11. Shorty saying.. what milestones and the greatest issues you have while implementating?
+
+12. What have you learnt currently during building parachain? Any advices and/or lessons learned?
 
 ## :link: Links
 
