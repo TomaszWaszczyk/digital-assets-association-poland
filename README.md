@@ -50,6 +50,10 @@ Why not just:
 
 12. What have you learnt currently during building parachain? Any advices and/or lessons learned?
 
+13. What is the main advantage of Plasm over Polkadot - from developer point of view?
+
+14. Could you share some your OWN thought on 'scalling Ethereum'?
+
 ## :link: Links
 
 1. https://www.plasmnet.io/
