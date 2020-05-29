@@ -7,3 +7,5 @@ https://github.com/ecadlabs/proposal-vote
 Testnet: https://carthagenet.tezblock.io/ && https://cartgagenet.tzstats.com/
 
 https://github.com/stove-labs/tzip-12
+
+https://www.tezos.help/
