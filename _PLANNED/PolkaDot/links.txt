@@ -22,6 +22,8 @@ Subkey: https://medium.com/@meleacrypto/subkey-create-keys-for-kusama-polkadot-s
 
 http://polkaproject.com/
 
+https://nomination.usetech.com
+
 ----------------
 
 https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
@@ -64,4 +66,18 @@ Seminar 26-05-2020
 10. https://gitlab.com/totem-tech/totem-substrate/-/blob/master/node/runtime/src/boxkeys.rs
 
 11. YouTube: [TUTORIAL] Build a Bitcoin-like Blockchain with Substrate - Beginner Friendly (1 of 5)
+
+---
+
+https://github.com/w3f/General-Grants-Program/blob/master/grants/speculative/YieldScan.md
+
+https://github.com/MVPWorkshop/substrate-quadratic-democracy
+
+https://github.com/substrate-developer-hub/hacktoberfest/issues/22
+
+https://en.wikipedia.org/wiki/Quadratic_voting
+
+https://polkadot.network/build-polkadot-network-launch-bounty-challenges/
+
+https://ovm-compiler.netlify.app/
 

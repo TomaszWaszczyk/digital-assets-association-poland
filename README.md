@@ -20,7 +20,7 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 
 0.5. What does Web3 mean for Plasm Network? ;-)
 
-1. Are you going to have own DEX?
+1. Are you going to have own DEX? What about the liquidity provider?
 
 2. As an introduction, could you say about stack technology?
 
@@ -29,6 +29,30 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 4. What is Dusty network?
 
 5. Polkadot delivers security, pow, consensus and runtime upgrades, so why Plasm Network requires additional validators? Why is that?
+
+6. As added value of Plasm Network is "Dapps as a business", but what is the difference (taking into concideration the following quote):
+
+> “Polkadot allows every coder to also be a businessman. They just place an algorithmic service online and it's a self-sovereign, autonomous, economically strong business. The world, in some sense, belongs to coders.” –– @gavofyork
+
+Why not just:
+
+> Parachain as a business? - Tomek :D :rocket:
+
+7. There is any tocenomy connection between following tokens: DOT, PLM and maybe KSM?
+
+8. "Good actors are rewarded by this mechanism whilst bad actors will lose their stake in the network" - any example for being good and bad actor? As an engineer I am really curious what "bad actor" means :D ?
+
+9. There is any incentive for validator?
+
+10. You are deeply tech guys but for normal people in Japan, what is the awerness of comming token economy? Could you say a few cents on that?
+
+11. Shorty saying.. what milestones and the greatest issues you have while implementating?
+
+12. What have you learnt currently during building parachain? Any advices and/or lessons learned?
+
+13. What is the main advantage of Plasm over Polkadot - from developer point of view?
+
+14. Could you share some your OWN thought on 'scalling Ethereum'?
 
 ## :link: Links
 
@@ -43,6 +67,8 @@ Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Ad
 5. https://twitter.com/hoonsubin
 
 6. Mainnet launch: https://medium.com/stake-technologies/plasm-network-mainnet-launch-6c0372842625
+
+7. https://docs.plasmnet.io/PlasmNetwork/Lockdrop.html
 
 ---
 
