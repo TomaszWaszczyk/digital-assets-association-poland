@@ -1,3 +1,5 @@
+https://www.trustnodes.com/2020/06/04/powell-backs-ethereum-poa-blockchain-ameribor-for-libor-alternative
+
 # SBM vol. #19 - Plasm Network [Polkadot] - Hoon Kim
 
 <p align="center">
