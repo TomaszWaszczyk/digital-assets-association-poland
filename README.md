@@ -1,3 +1,16 @@
+Website: https://nethermind.io/
+Documentation: https://nethermind.readthedocs.io
+Gitter: https://gitter.im/nethermindeth/nethermind
+Discord: https://discord.gg/GXJFaYk
+Twitter: https://twitter.com/nethermindeth
+Releases: https://github.com/NethermindEth/nethermind/releases
+Docker: https://hub.docker.com/r/nethermind/nethermind
+Codecov.io https://codecov.io/gh/NethermindEth/nethermind
+Gitcoin: https://gitcoin.co/grants/142/nethermind
+Github: https://github.com/NethermindEth/nethermind/
+Github Actions: https://github.com/NethermindEth/nethermind/actions |
+
+
 https://www.trustnodes.com/2020/06/04/powell-backs-ethereum-poa-blockchain-ameribor-for-libor-alternative
 
 # SBM vol. #19 - Plasm Network [Polkadot] - Hoon Kim
