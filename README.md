@@ -1,17 +1,46 @@
+# SBM vol. #20 - Stateless Ethereum - Tomasz Kajetan Stańczak [Nethermind] 
+
+## :memo: Agenda
+
+Stateless Ethereum - handling the growing state of the Ethereum blockchain
+You will learn about inner workings of Ethereum Patricia Trie and Ethereum 2 Sparse Merkle Tree. You will analyze Merkle proofs and Ethereum block witnesses. You will hear about challenges of EVM bytecode merkleization and correct pricing of state touching EVM operations.
+
+## :rocket: Prelegent
+
+Tomasz Kajetan Stańczak - Founder of Nethermind, since 2017 has been working on Nethermind Ethereum and Ethereum 2 Client implementations. Nethermind is an Ethereum Foundation grantee and delivers blockchain software and infrastructure consulting.
+
+## :link: Links
+
 Website: https://nethermind.io/
+
 Documentation: https://nethermind.readthedocs.io
+
 Gitter: https://gitter.im/nethermindeth/nethermind
+
 Discord: https://discord.gg/GXJFaYk
+
 Twitter: https://twitter.com/nethermindeth
+
 Releases: https://github.com/NethermindEth/nethermind/releases
+
 Docker: https://hub.docker.com/r/nethermind/nethermind
+
 Codecov.io https://codecov.io/gh/NethermindEth/nethermind
+
 Gitcoin: https://gitcoin.co/grants/142/nethermind
+
 Github: https://github.com/NethermindEth/nethermind/
-Github Actions: https://github.com/NethermindEth/nethermind/actions |
 
+Github Actions: https://github.com/NethermindEth/nethermind/actions
 
-https://www.trustnodes.com/2020/06/04/powell-backs-ethereum-poa-blockchain-ameribor-for-libor-alternative
+## :question: Questions
+
+0. https://www.trustnodes.com/2020/06/04/powell-backs-ethereum-poa-blockchain-ameribor-for-libor-alternative
+
+---
+---
+---
+---
 
 # SBM vol. #19 - Plasm Network [Polkadot] - Hoon Kim
 
