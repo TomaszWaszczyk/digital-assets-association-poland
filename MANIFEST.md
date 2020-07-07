@@ -166,7 +166,8 @@ As development and investment continue within this rapidly growing space, it is 
 - Eric Hughes
 
 - Zooko Wilcox
-    
+
+- http://www.cypherspace.org/adam/
     
 # Books and articles
 
