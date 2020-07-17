@@ -74,7 +74,7 @@ The concept of a blind signature, outlined in his paper, can be illustrated by a
 At a similar time to the DigiCash concept being realised, leading Dutch supermarket Albert Heijn, pressured banking partners to come up with a way to allow shoppers to pay directly from their bank accounts in store, which acted as the foundation to the early point-of-sale systems; and consequently one of the earliest examples of electronic cash that we associate with present day digital currencies.
 
 In 1997 they launched the Cypherpunks Distributed Remailer (CDR), which was the first step towards a private communication system, in essence, it acted as an anonymous, decentralised email system. Shortly after this was the inception of b-money, whose creation is credited to an individual with the online moniker ‘Wei Dai’.
-
+* 1940s - https://en.wikipedia.org/wiki/Deplatforming
 * 1976 - Cipher Block Chaining (CBC) - https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#CBC
 * 1978, April - Ralph Merkle published the article ‘Secure Communications Over Insecure Channels’ in which he “provides a logically new kind of protection against the passive eavesdropper.”
 * 1981 November - „Hash chain”: L. Lamport, “Password Authentication with Insecure Communication”, Communications of
