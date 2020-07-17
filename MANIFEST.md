@@ -104,6 +104,7 @@ Prior to bitcoin, the most successful digital currency is arguably Hashcash. Thi
 With which nearly a decade of silence ensued, until 2008, when bitcoin emerged, becoming the world’s first decentralised digital currency.
 
 * 1998 — Digicash begins bankruptcy proceedings after being unable to grow its userbase and Wei Dai proposed B-money to allow for an "anonymous, distributed electronic cash system". Bruce Schneier and John Kelsey proposed a computationally cheap way to safeguard sensitive information and allow for computer forensics with secure audit logs by using hashing, authentication keys, and encryption keys (See: Schneier, B. & Kelsey, J. (1998): Secure Audit Logs to Support Computer Forensics).
+* 1993 - Eric Hughes - Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world. 
 * 2002 — Adam Black more formerly outlines the Hashcash concept in his paper ‘Hashcash — A Denial of Service Counter-Measure’
 
 Satoshi Nakamoto and the creation of Bitcoin
