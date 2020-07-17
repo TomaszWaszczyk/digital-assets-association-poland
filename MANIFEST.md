@@ -137,6 +137,7 @@ In the case of bitcoin, this metric can be measured in the growing number of use
 * 2014 - Gavin Wood coined the term “Web 3.0.”
 * 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
 * 2018 - Tezos was the first liquid PoS system to launch when it did so in June 2018. An earlier and smaller PoS implementation is used in Nxt (cryptocurrency and payment network launched in 2013). PoS solves the energy problem in PoW as "work" (i.e. use of energy through computational power) is not the proof requested.
+* 2018 - The Avalanche protocol is a robust consensus algorithm, with proofs of its Byzantine Fault Tolerant (BFT) properties. It has different properties than Proof of Work (PoW), which makes it suitable to be used as a complement to PoW. Using both algorithms where they are strongest would allow Bitcoin Cash to enjoy the benefits of both Avalanche and PoW.
 
 Building from Bitcoin
 
