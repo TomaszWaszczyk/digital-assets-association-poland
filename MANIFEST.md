@@ -138,6 +138,33 @@ In the case of bitcoin, this metric can be measured in the growing number of use
 * 2014 - Gavin Wood coined the term “Web 3.0.”
 * 2014 August 3 - Tezos:  A Self-Amending Crypto-LedgerPosition PaperL.M Goodman ("Tezos truly aims to be the last cryptocurrency")
 * 2015 - The Moral Character of Cryptographic Work - https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/blob/master/Inne/The%20Moral%20Character%20of%20Cryptographic%20Work.pdf
+
+“Laissez faire les propri´etaires.” — Pierre-Joseph Proudhon
+
+Laissez faire les propri translates to "Let the owners do it." I think hopefully most of us know the ideology behind Laissez Faire. What's interesting to me is that this quote is by Pierre-Joseph Proudhon, who is said to be the first anarchist.
+
+Proudhon was an anti-capitalist and a proclaimed socialist in his time. He believed the idea of property was theft. As quoted from wikipedia -> When he said "property is theft", he was referring to the landowner or capitalist who he believed "stole" the profits from laborers. For Proudhon, the capitalist's employee was "subordinated, exploited: his permanent condition is one of obedience".
+
+I can't seem to find the actual quote “Laissez faire les propri´etaires.” on the internet, let alone it being authored by Proudhon. Not to say it's inaccurate, but the quote seems contradicting to his ideologies.
+
+Ultimately his ideologies seem counterintuitive in comparison to Tezos's, although laissez faire seems to align. What are your thoughts behind this?
+
+---
+
+Proudhon also said "property is liberty." He's an interesting paradox of a guy. You can play it safe and just call him a very dialectical thinker. I've read some of his work (his back and forth with Bastiat is great just for the matchup alone) but have never come to some sort of fixed idea for him like I have for Stirner, Bakunin, Molinari, et al.
+
+---
+
+Proudhon significantly changed his views towards the end of his life and adopted much more proprietarian views. It's double fun to quote Proudhon then because they are good quotes and it peeves those who supports his earlier work.
+
+Another Proudhon quote is:
+
+    La taxe n'est pas répartie en raison de la force, de la taille, ni du talent : elle ne peut l'être davantage en raison de la propriété. Si donc l'État me prend plus, qu'il me rende plus, ou qu'il cesse de me parler d'égalité des droits ; car autrement la société n'est plus instituée pour défendre la propriété, mais pour en organiser la destruction. L'État, par l'impôt proportionnel, se fait chef de bande ; c'est lui qui donne l'exemple du pillage en coupes réglées ; c'est lui qu'il faut traîner sur le banc des cours d'assises, en tête de ces hideux brigands, de cette canaille exécrée qu'il fait assassiner par jalousie de métier.
+
+My rough translation:
+
+The tax burden isn't shared in proportion to strength, height, or talent: it cannot be in distributed in proportion to property either. If the State takes more, let it give me back more, or let it stop talking to me about "equal rights" ; for otherwise, society isn't formed to defend property but to organize its destructions. The State, through proportional taxation, becomes a gang leader. It sets and example by looting on a set schedule; it is the State that needs to be drawn on the accused bench, ahead of these hideous robbers, of the hated scum that it kills by professional jealousy.
+
 * 2017 - Richard Stallman - American Capitalism has turned into Plutocracy
 * 2018 - Tezos was the first liquid PoS system to launch when it did so in June 2018. An earlier and smaller PoS implementation is used in Nxt (cryptocurrency and payment network launched in 2013). PoS solves the energy problem in PoW as "work" (i.e. use of energy through computational power) is not the proof requested.
 * 2018 - The Avalanche protocol is a robust consensus algorithm, with proofs of its Byzantine Fault Tolerant (BFT) properties. It has different properties than Proof of Work (PoW), which makes it suitable to be used as a complement to PoW. Using both algorithms where they are strongest would allow Bitcoin Cash to enjoy the benefits of both Avalanche and PoW.
