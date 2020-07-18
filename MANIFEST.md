@@ -190,6 +190,10 @@ As development and investment continue within this rapidly growing space, it is 
 
 * https://en.wikipedia.org/wiki/Meritocracy
 
+# Privacy
+
+https://gist.github.com/TomaszWaszczyk/e2264b0207acedbadd168e34f865917b
+
 # LICENSE
 
 MIT License
