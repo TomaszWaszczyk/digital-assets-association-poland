@@ -1,5 +1,11 @@
 https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS - Substrate Seminar(!!!)
 
+https://github.com/substrate-developer-hub/substrate-node-template
+
+https://github.com/danforbes/substrate-devhub-utils
+
+https://airtable.com/shrAWdmVzOsxJdQlL
+
 https://www.shawntabrizi.com/substrate-collectables-workshop/#/ - outdated
 
 https://figment.network/resources/staking-ksm-how-to-claim-stake-your-kusama-tokens/
