@@ -133,9 +133,26 @@ In the case of bitcoin, this metric can be measured in the growing number of use
 > Given its anti-establishment roots, blockchain technology has been seized upon by other groups interested in circumventing government, law enforcement, or regulatory control, both on the radical right and left fringes, as well as among activists persecuted by their governments.
 
 * 3 January 2009 — The Bitcoin genesis block was mined — embedded in this block was the text ‘The Times 03/Jan/2009 Chancellor on brink of second bailout for banks’
+* January 12, 2009 - the “first transaction” was made when Satoshi sent bitcoins to Finney.
 * 22 May 2010 — Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John’s pizzas, one of the first documented transactions.
 * 2004 - “Linked Data is about using the Web to connect related data that wasn’t previously linked, or using the Web to lower the barriers to linking data currently linked using other methods. More specifically, Wikipedia defines Linked Data as “a term used to describe a recommended best practice for exposing, sharing, and connecting pieces of data, information, and knowledge on the Semantic Web using URIs and RDF.” Linked Data, a term coined by Sir Tim Berners-Lee, is a way of publishing data online so it can be easily interlinked and managed using semantic queries. This helps the exposure and interlinking of datasets so that data can be exchanged, reused and integrated.
+* November 10, 2010: bitcoin and Wikileaks
+When the United States blocked Wikileaks access to its funds, a bitcoin user suggested that Wikileaks use bitcoin. Other users joined the conversation, some recommending not doing so due to the negative attention that could be given to the cryptocurrency when relating it to the organization.
+
+Nakamoto responded negatively on December 5. “The project must grow gradually for the software to become strong to its measure.” Wikileaks would not start accepting Bitcoins until June 14, 2011.
+* December 12, 2010: Satoshi’s last post
+Nakamoto posted his latest post on the Bitcoin Forum. In a few months, he stopped contributing, and Andressen took the lead. Nakamoto’s identity remained a mystery.
+
+Bitcoin’s roller coaster and first hack: bitcoin equaled the dollar
+
+Little more to say than BOOM! At this moment, the attention of the media began to shoot up.
 * 2011 — Utilising Bitcoin’s open-source code, other cryptocurrencies began to emerge
+* June 13, 2011 – First attack
+A user denounced the first hack in the forum, a theft of 25,000 BTC. At the time of the robbery, the value was $ 500,000. The community was starting to take the security of their wallets more seriously.
+* September 27, 2012: Bitcoin Foundation
+The Bitcoin Foundation was created, becoming the semi-official home of the cryptocurrency.
+* November 18, 2013: Bitcoin reached the ears of the Senate
+The Senate Security and Government Affairs Committee held the first debate on Bitcoin. Two days later, the same thing happened in the Senate Banking Committee, and the regulators agreed to do nothing to prevent the development of the currency.
 * 2014 - Ethereum has a much faster block time, i.e. the time it takes to generate a new block, than Bitcoin (currently around 15s), made practical thanks to its implementation of the GHOST protocol (https://www.cs.huji.ac.il/%7Eyoni_sompo/pubs/15/inclusive_full.pdf). Ethereum implements a variation of Bitcoin's proof-of-work consensus algorithm called Ethash, which is intended to be ASIC-resistant and GPU friendly(https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale). Core developers of the Ethereum project are planning to switch to the proof-of-stake consensus algorithm in the future.
 * 2014 - Gavin Wood coined the term “Web 3.0.”
 * 2014 August 3 - Tezos:  A Self-Amending Crypto-LedgerPosition PaperL.M Goodman ("Tezos truly aims to be the last cryptocurrency")
@@ -168,6 +185,9 @@ My rough translation:
 The tax burden isn't shared in proportion to strength, height, or talent: it cannot be in distributed in proportion to property either. If the State takes more, let it give me back more, or let it stop talking to me about "equal rights" ; for otherwise, society isn't formed to defend property but to organize its destructions. The State, through proportional taxation, becomes a gang leader. It sets and example by looting on a set schedule; it is the State that needs to be drawn on the accused bench, ahead of these hideous robbers, of the hated scum that it kills by professional jealousy.
 
 * 2017 - Richard Stallman - American Capitalism has turned into Plutocracy
+* August 1, 2017: Bitcoin split
+After a sequence of historical uploads, some miners and startups decided to separate the original developers creating what was called the hard fork. Bitcoin became Bitcoin Cash and Bitcoin Core, Bitcoin Classic, and Bitcoin Unlimited were born.
+Throughout the year, bitcoin did not stop marking historic highs, exceeding $ 3,400 per coin on August 7 and a total value of 5 billion. This separation did not appear to have damaged confidence in the currency but rather to strengthen it.
 * 2018 - Tezos was the first liquid PoS system to launch when it did so in June 2018. An earlier and smaller PoS implementation is used in Nxt (cryptocurrency and payment network launched in 2013). PoS solves the energy problem in PoW as "work" (i.e. use of energy through computational power) is not the proof requested.
 * 2018 - The Avalanche protocol is a robust consensus algorithm, with proofs of its Byzantine Fault Tolerant (BFT) properties. It has different properties than Proof of Work (PoW), which makes it suitable to be used as a complement to PoW. Using both algorithms where they are strongest would allow Bitcoin Cash to enjoy the benefits of both Avalanche and PoW.
 * 24 May 2019 - PolkaDAO is live!
@@ -185,6 +205,8 @@ Ethereum was created in 2013 by Vitalik Buterin, whose goal was to avoid the iss
 Ether (ETH) acts as the digital currency on the Ethereum blockchain; this currency is used to pay for transactions, storing data or running calculations.
 
 As development and investment continue within this rapidly growing space, it is exciting to see what the future holds with bitcoin, Ethereum and other emerging platforms.
+
+/* https://incrediblethings.com/money/bitcoin-history-everything-you-need-to-know-about-the-currency-of-the-future/ */
 
 # Cypherpunks/cryptographers worth to mention
 
