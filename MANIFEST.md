@@ -118,7 +118,8 @@ Whilst bitcoin has a number of characteristics like traditional money (portabili
 In the case of bitcoin, this metric can be measured in the growing number of users, merchants and startups utilising bitcoin. As with all currency, bitcoin’s value derives from people’s willingness to accept them as payment.
 
 * 2004 - Hal Finney built upon the idea of Hashcash and created Reusable Proofs of Work. 
-* 2005 - Nick Szabo proposed Bit Gold. Where unforgettable proof of work chains would share properties of gold: scarce, valuable and trust minimised but with the benefit of being easily transactable. 
+* 2005 - Nick Szabo proposed Bit Gold. Where unforgettable proof of work chains would share properties of gold: scarce, valuable and trust minimised but with the benefit of being easily transactable.
+* 1 November 2008 - Message on email list. http://satoshinakamoto.me/2008/11/01/bitcoin-p2p-e-cash-paper/
 * 18 August 2008 — The Bitcoin domain was registered
 * 31 October 2008 — The ‘Bitcoin: A Peer-to-Peer Electronic Cash System’ paper was distributed to a cryptography mailing list by Satoshi Nakamoto
 
