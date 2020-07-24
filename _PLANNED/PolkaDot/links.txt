@@ -26,6 +26,8 @@ Subkey: https://medium.com/@meleacrypto/subkey-create-keys-for-kusama-polkadot-s
 
 https://substrate.dev/en/tutorials
 
+https://wiki.polkadot.network/docs/ru/community
+
 
 http://polkaproject.com/
 
