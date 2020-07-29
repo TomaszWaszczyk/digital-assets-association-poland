@@ -250,6 +250,8 @@ https://twitter.com/GrapheneOS
 
 https://privacyalternatives.com/
 
+https://hide.me/en/
+
 # LICENSE
 
 MIT License
