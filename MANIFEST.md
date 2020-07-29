@@ -246,6 +246,8 @@ As development and investment continue within this rapidly growing space, it is 
 
 https://gist.github.com/TomaszWaszczyk/e2264b0207acedbadd168e34f865917b
 
+https://twitter.com/GrapheneOS
+
 # LICENSE
 
 MIT License
