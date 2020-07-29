@@ -248,6 +248,8 @@ https://gist.github.com/TomaszWaszczyk/e2264b0207acedbadd168e34f865917b
 
 https://twitter.com/GrapheneOS
 
+https://privacyalternatives.com/
+
 # LICENSE
 
 MIT License
