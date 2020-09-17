@@ -11,6 +11,10 @@ https://github.com/paritytech/substrate/issues/6845
 8. Jak się ma relay chain Polkadot do relay chain Kusama? Czy to ten sam relay chain czy zupełnie różne?
 9. Czy w opłatach za używanie KSM/DOT nie musi być uwzględniona łączna opłata za korzystanie zarówno z sieci KSM/DOT jak również za transakcje w sieciach (blockchainach) w których będą realizowały się jakieś transakcje, np. BTC i ETH ?
 
+https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
+https://www.kilt.io/polimec/
+https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
+
 -->
 # SBM vol. #20 - Stateless Ethereum - Tomasz Kajetan Stańczak [Nethermind] 
 
