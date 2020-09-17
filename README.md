@@ -258,6 +258,8 @@ Creator of Ethereum Responsible Disclosure Messenger (https://securing.github.io
 
 ## :link: Linki
 
+https://swcregistry.io/
+
 https://securing.github.io/eth-rd-messenger/
 
 https://github.com/securing/SCSVS
