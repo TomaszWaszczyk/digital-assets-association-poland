@@ -15,6 +15,8 @@ https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosy
 https://www.kilt.io/polimec/
 https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
 
+https://invdos.net/
+
 -->
 # SBM vol. #20 - Stateless Ethereum - Tomasz Kajetan Stańczak [Nethermind] 
 
