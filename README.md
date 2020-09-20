@@ -17,6 +17,8 @@ https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deploym
 
 https://invdos.net/
 
+https://www.youtube.com/watch?v=TgT7laJhxSw
+
 -->
 # SBM vol. #20 - Stateless Ethereum - Tomasz Kajetan Stańczak [Nethermind] 
 
