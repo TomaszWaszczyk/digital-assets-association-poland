@@ -138,6 +138,10 @@ Why not just:
 
 7. https://docs.plasmnet.io/PlasmNetwork/Lockdrop.html
 
+https://docs.google.com/presentation/d/1fD-ecffsDIQHG5eYiOXJ8UXvigyajxDyvDAKMhO47s8/edit#slide=id.g8df8a10daa_0_61
+
+https://docs.plasmnet.io/ecosystem/polkadot
+
 ---
 
 https://research.web3.foundation/en/latest/polkadot/NPoS/
