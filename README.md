@@ -1,4 +1,6 @@
-# SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network - Tomasz Waszczyk
+# SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network, Sub0 - Tomasz Waszczyk
+
+:tv: :tv: :tv: :tv: Look at in the close time remote conference: https://sub0.parity.io/ :tv: :tv: :tv: :tv:
 
 <p align="center">
   <h2>Internet - The New Juridiction</h2>
@@ -17,11 +19,18 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 ## :link: Links
 
+https://www.crowdcast.io/e/substrate-seminar
+
 https://polkadot.network/
+
 https://kusama.network/
+
 https://www.substrate.io/
+
 https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
+
 https://www.kilt.io/polimec/
+
 https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
 
 ## Podcast RelayChain
