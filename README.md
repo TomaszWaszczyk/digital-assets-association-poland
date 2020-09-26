@@ -3,7 +3,7 @@
 :tv: :tv: :tv: :tv: Look at in the close time remote conference: https://sub0.parity.io/ :tv: :tv: :tv: :tv:
 
 <p align="center">
-  <h2>Internet - The New Juridiction</h2>
+  <h2>Internet - The New Jurisdiction</h2>
   <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/ecosystem.jpeg">
 </p>
 
