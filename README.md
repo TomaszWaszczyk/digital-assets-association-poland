@@ -126,7 +126,7 @@ https://proto.school/#/host
 # SBM vol. #19 - Plasm Network [Polkadot] - Hoon Kim
 
 <p align="center">
-  <img src="./_PREVIOUS_MEETUPS/PlasmNetwork/plasm-network.png">
+  <img src="./_PREVIOUS_MEETUPS/28-05-2020-PlasmNetwork/plasm-network.png">
 </p>
 
 ## :memo: Agenda
