@@ -1,9 +1,38 @@
-<!--
+# SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network - Tomasz Waszczyk
 
-Internet - New Juridiction
+<p align="center">
+  <h2>Internet - The New Juridiction</h2>
+  <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/ecosystem.jpeg">
+</p>
 
-https://github.com/paritytech/substrate/issues/6845
+## :memo: Agenda
+
+What is Polkadot ?
+
+Polkadot is a sharded, multichain network founded by Dr. Gavin Wood, the co-founder and former chief technology officer of Ethereum and creator of the Solidity programming language. After three years of design and implementation, Polkadot is currently in the middle of its mainnet launch process that began in May 2020. The Polkadot network is a metaprotocol that solves many challenges that have hindered the growth of legacy blockchains, including scalability, governance, security, and interoperability. Polkadot is a blockchain network fostered by the Web3 Foundation and built by industry-leading developers at Parity Technologies.
+
+## :rocket: Prelegent
+
+Tomasz Waszczyk - A couple of words about my professional life: I graduated from (but my brain was not broken..) Silesian University of Technology in Poland and Ludwig-Maximilians Universität München - Duales Studium Wirtschaftsmathematik in Germany. At universities I discovered how empowering it can be to build applications and thus built several smaller and bigger applications in different programming languages, domains and platforms from industrial solutions for Volkswagen A.G. to financial solutions for traders in hedge fund.
+
+## :link: Links
+
+https://polkadot.network/
+https://kusama.network/
+https://www.substrate.io/
+https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
+https://www.kilt.io/polimec/
+https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
+
+## Podcast RelayChain
+
 https://relaychain.fm/
+
+Relay Chain is a podcast covering blockchain development and building the decentralized web. We focus on the cutting edge of blockchain tech, including Substrate and Polkadot.
+
+Brought to you by Parity Technologies, a core blockchain infrastructure company. Parity is creating an open-source creative commons that will enable people to create better institutions through technology.
+
+## :question: Questions
 
 1. W CoinmarketCap widniej Total Suply 9 651 217 KSM. Circulating Supply 8 470 098 KSM a Reported Circulating Supply 8 597 990 KSM. Jak to w końcu jest z ilością coinów w obiegu?
 2. j/w - w takim razie skąd biorą się kolejne tokeny? Jest ich z góry ograniczona liczba czy nieograniczona?
@@ -14,6 +43,20 @@ https://relaychain.fm/
 7. Walidatorów może być ograniczona liczba, rozumiem że obecnie 600, domyślnie 1000? Natomiast Nominatorów może być dowolna ilość? Choćby tylu ilu posiadaczy KSM/DOT?
 8. Jak się ma relay chain Polkadot do relay chain Kusama? Czy to ten sam relay chain czy zupełnie różne?
 9. Czy w opłatach za używanie KSM/DOT nie musi być uwzględniona łączna opłata za korzystanie zarówno z sieci KSM/DOT jak również za transakcje w sieciach (blockchainach) w których będą realizowały się jakieś transakcje, np. BTC i ETH ?
+
+---
+---
+---
+---
+
+<!--
+
+
+
+https://github.com/paritytech/substrate/issues/6845
+https://relaychain.fm/
+
+
 
 https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
 https://www.kilt.io/polimec/

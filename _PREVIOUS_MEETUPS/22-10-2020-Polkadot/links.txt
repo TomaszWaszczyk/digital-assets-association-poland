@@ -1,0 +1,92 @@
+https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS - Substrate Seminar(!!!)
+
+https://github.com/substrate-developer-hub/substrate-node-template
+
+https://github.com/danforbes/substrate-devhub-utils
+
+https://airtable.com/shrAWdmVzOsxJdQlL
+
+https://www.shawntabrizi.com/substrate-collectables-workshop/#/ - outdated
+
+https://figment.network/resources/staking-ksm-how-to-claim-stake-your-kusama-tokens/
+
+https://wiki.polkadot.network/docs/en/learn-comparisons-cosmos
+
+https://github.com/substrate-developer-hub/substrate-front-end-template/
+
+https://substrate.dev/recipes/ + https://www.substrate.io/seminar/
+
+Tutorials: https://www.substrate.io/tutorials/ + https://substrate.dev/docs/en/
+
+https://mvpworkshop.co/blog/the-kusama-approach/
+
+Frontend - https://substrate.dev/docs/en/tutorials/build-a-dapp/front-end#submit-a-proof
+
+Subkey: https://medium.com/@meleacrypto/subkey-create-keys-for-kusama-polkadot-substrate-38e4b7a2e7f1
+
+https://substrate.dev/en/tutorials
+
+https://wiki.polkadot.network/docs/ru/community
+
+
+http://polkaproject.com/
+
+https://nomination.usetech.com
+
+----------------
+
+https://medium.com/@novysf/wireguard-server-client-with-roaming-ip-setup-498d708ebb7c
+
+----------------
+The best things which Substrate delivers:
+
+- security, pow, consensus
+
+- runtime upgrades
+
+---
+
+https://github.com/w3f/General-Grants-Program
+
+Let us know if you have any questions or want to chat: Twitter: @BillLaboon Telegram: @billlaboon Email: bill@web3.foundation
+
+
+
+Seminar 26-05-2020
+
+1. https://github.com/paritytech/substrate-subxt
+
+2. https://safecurves.cr.yp.to/index.html
+
+3. https://github.com/hammeWang/substrate-sm2
+
+4. https://crates.parity.io/sp_runtime/enum.MultiSignature.html
+
+5. https://stackoverflow.com/questions/454048/what-is-the-difference-between-encrypting-and-signing-in-asymmetric-encryption
+
+6. https://crypto.stackexchange.com/questions/9918/reasons-for-chinese-sm2-digital-signature-algorithm
+
+7. https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
+
+8. https://en.wikipedia.org/wiki/Edwards_curve
+
+9. https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
+
+10. https://gitlab.com/totem-tech/totem-substrate/-/blob/master/node/runtime/src/boxkeys.rs
+
+11. YouTube: [TUTORIAL] Build a Bitcoin-like Blockchain with Substrate - Beginner Friendly (1 of 5)
+
+---
+
+https://github.com/w3f/General-Grants-Program/blob/master/grants/speculative/YieldScan.md
+
+https://github.com/MVPWorkshop/substrate-quadratic-democracy
+
+https://github.com/substrate-developer-hub/hacktoberfest/issues/22
+
+https://en.wikipedia.org/wiki/Quadratic_voting
+
+https://polkadot.network/build-polkadot-network-launch-bounty-challenges/
+
+https://ovm-compiler.netlify.app/
+
