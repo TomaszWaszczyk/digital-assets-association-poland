@@ -3,7 +3,7 @@
 :tv: :tv: :tv: :tv: Look at in the close time remote conference: https://sub0.parity.io/ :tv: :tv: :tv: :tv:
 
 <p align="center">
-  <h2>Internet - The New Juridiction</h2>
+  <h2>Internet - The New Jurisdiction</h2>
   <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/ecosystem.jpeg">
 </p>
 
@@ -19,7 +19,7 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 ## :link: Links
 
-https://www.crowdcast.io/e/substrate-seminar
+:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: https://www.crowdcast.io/e/substrate-seminar :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
 
 https://polkadot.network/
 
@@ -32,6 +32,8 @@ https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosy
 https://www.kilt.io/polimec/
 
 https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
+
+Architecture: https://www.youtube.com/watch?v=xBfC6uTjvbM
 
 ## Podcast RelayChain
 
