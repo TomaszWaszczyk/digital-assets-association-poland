@@ -3,6 +3,7 @@
 Internet - New Juridiction
 
 https://github.com/paritytech/substrate/issues/6845
+https://relaychain.fm/
 
 1. W CoinmarketCap widniej Total Suply 9 651 217 KSM. Circulating Supply 8 470 098 KSM a Reported Circulating Supply 8 597 990 KSM. Jak to w końcu jest z ilością coinów w obiegu?
 2. j/w - w takim razie skąd biorą się kolejne tokeny? Jest ich z góry ograniczona liczba czy nieograniczona?
