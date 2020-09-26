@@ -699,6 +699,14 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 :six: KuryLN: https://pollofeed.com/
 
+https://rubin.io/
+
+https://medium.com/digitalassetresearch/a-look-at-innovation-in-bitcoins-technology-stack-7edf877eab14
+
+https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
+
+https://medium.com/blockchain-capital-blog/lightning-is-only-the-beginning-the-emerging-bitcoin-stack-fb6d4aefb664
+
 ## :tv: Nagrania Cezarego
 
 * https://www.youtube.com/watch?v=pEpzYMQFrT0
