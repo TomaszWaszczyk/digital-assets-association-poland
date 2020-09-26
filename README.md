@@ -1,4 +1,7 @@
 <!--
+
+Internet - New Juridiction
+
 https://github.com/paritytech/substrate/issues/6845
 
 1. W CoinmarketCap widniej Total Suply 9 651 217 KSM. Circulating Supply 8 470 098 KSM a Reported Circulating Supply 8 597 990 KSM. Jak to w końcu jest z ilością coinów w obiegu?
