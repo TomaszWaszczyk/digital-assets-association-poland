@@ -1,6 +1,6 @@
 # SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network, Sub0 - Tomasz Waszczyk
 
-Look at in the close time remote conference: https://sub0.parity.io/
+:tv: :tv: :tv: :tv: Look at in the close time remote conference: https://sub0.parity.io/ :tv: :tv: :tv: :tv:
 
 <p align="center">
   <h2>Internet - The New Juridiction</h2>
