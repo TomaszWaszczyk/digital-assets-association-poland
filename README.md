@@ -19,7 +19,7 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 ## :link: Links
 
-https://www.crowdcast.io/e/substrate-seminar
+:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: https://www.crowdcast.io/e/substrate-seminar :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
 
 https://polkadot.network/
 
