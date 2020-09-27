@@ -27,6 +27,8 @@ https://kusama.network/
 
 https://www.substrate.io/
 
+https://www.dapp.com/article/dapp-com-support-polkadot-and-kusama
+
 https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
 
 https://www.kilt.io/polimec/
