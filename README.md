@@ -1,3 +1,10 @@
+<!--
+Tezos
+https://github.com/madfish-solutions/thanos-wallet
+https://app.dexter.exchange/
+
+-->
+
 # SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network, Sub0 - Tomasz Waszczyk
 
 :tv: :tv: :tv: :tv: Look at in the close time remote conference: https://sub0.parity.io/ :tv: :tv: :tv: :tv:
