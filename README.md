@@ -44,6 +44,26 @@ https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deploym
 
 Architecture: https://www.youtube.com/watch?v=xBfC6uTjvbM
 
+https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE/edit
+
+https://medium.com/polkadot-network/kusama-polkadot-comparing-the-cousins-170e4fe6c280
+
+https://github.com/paritytech/substrate/issues/6845
+
+https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
+
+https://www.kilt.io/polimec/
+
+https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
+
+https://invdos.net/
+
+https://www.youtube.com/watch?v=TgT7laJhxSw
+
+https://expedition.dev/?rpcUrl=https://rpc.testnet.moonbeam.network
+
+https://oneclickdapp.com/
+
 ## Podcast RelayChain
 
 https://relaychain.fm/
@@ -69,25 +89,6 @@ Brought to you by Parity Technologies, a core blockchain infrastructure company.
 ---
 ---
 
-<!--
-
-
-
-https://github.com/paritytech/substrate/issues/6845
-https://relaychain.fm/
-
-
-
-https://medium.com/@KILT_Protocol/a-fundraising-mechanism-for-the-polkadot-ecosystem-62ec23483d57
-https://www.kilt.io/polimec/
-https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
-
-https://invdos.net/
-
-https://www.youtube.com/watch?v=TgT7laJhxSw
-https://expedition.dev/?rpcUrl=https://rpc.testnet.moonbeam.network
-https://oneclickdapp.com/
--->
 # SBM vol. #20 - Stateless Ethereum - Tomasz Kajetan Stańczak [Nethermind] 
 
 ## :memo: Agenda
