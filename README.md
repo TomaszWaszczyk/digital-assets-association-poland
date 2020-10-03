@@ -1,4 +1,8 @@
 <!--
+https://resources.curve.fi/
+
+
+
 Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
