@@ -64,6 +64,8 @@ https://expedition.dev/?rpcUrl=https://rpc.testnet.moonbeam.network
 
 https://oneclickdapp.com/
 
+https://scuttlebutt.nz/
+
 ## Podcast RelayChain
 
 https://relaychain.fm/
