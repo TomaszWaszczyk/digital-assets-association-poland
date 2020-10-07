@@ -1,7 +1,7 @@
 <!--
 https://resources.curve.fi/
 
-
+https://docs.chain.link/docs/running-a-chainlink-node
 
 Tezos
 https://github.com/madfish-solutions/thanos-wallet
