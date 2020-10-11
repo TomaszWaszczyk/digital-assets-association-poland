@@ -46,6 +46,8 @@ https://www.kilt.io/polimec/
 
 https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
 
+Contact and docs: https://wiki.polkadot.network/docs/en/community#riot-chats
+
 Architecture: https://www.youtube.com/watch?v=xBfC6uTjvbM
 
 https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE/edit
