@@ -80,6 +80,8 @@ Relay Chain is a podcast covering blockchain development and building the decent
 
 Brought to you by Parity Technologies, a core blockchain infrastructure company. Parity is creating an open-source creative commons that will enable people to create better institutions through technology.
 
+Really good podcast with best quality knowledge regarding Polkadot ecosystem.
+
 ## :question: Questions
 
 1. W CoinmarketCap widniej Total Suply 9 651 217 KSM. Circulating Supply 8 470 098 KSM a Reported Circulating Supply 8 597 990 KSM. Jak to w końcu jest z ilością coinów w obiegu?
