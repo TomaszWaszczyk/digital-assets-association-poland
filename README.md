@@ -52,6 +52,8 @@ Architecture: https://www.youtube.com/watch?v=xBfC6uTjvbM
 
 New account: https://wiki.polkadot.network/docs/en/learn-account-generation
 
+Consensus: https://wiki.polkadot.network/docs/en/learn-consensus
+
 https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE/edit
 
 https://medium.com/polkadot-network/kusama-polkadot-comparing-the-cousins-170e4fe6c280
