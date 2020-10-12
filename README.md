@@ -82,7 +82,7 @@ https://www.joystream.org/
 
 ## Podcast RelayChain
 
-https://relaychain.fm/
+https://relaychain.fm/ ==> https://www.iheart.com/podcast/269-relay-chain-48876090/
 
 Relay Chain is a podcast covering blockchain development and building the decentralized web. We focus on the cutting edge of blockchain tech, including Substrate and Polkadot.
 
