@@ -3,6 +3,8 @@ https://resources.curve.fi/
 
 https://docs.chain.link/docs/running-a-chainlink-node
 
+ChainLink: https://devpost.com/software/ki-dot-a-substrate-based-blockchain-to-help-micro-funding#updates https://docs.chain.link/docs/external-adapters
+
 Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
