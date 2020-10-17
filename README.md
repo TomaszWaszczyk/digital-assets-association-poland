@@ -92,6 +92,10 @@ Brought to you by Parity Technologies, a core blockchain infrastructure company.
 
 Really good podcast with best quality knowledge regarding Polkadot ecosystem.
 
+## :rocket: Validator and nomination :rocket:
+
+I am honest validator and want to be involved in building healthy network.
+
 ## Polkadot Decoded
 
 https://decoded.polkadot.network/
