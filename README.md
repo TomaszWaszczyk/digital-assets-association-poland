@@ -38,6 +38,8 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 https://polkadot.network/
 
+https://wiki.polkadot.network/docs/en/learn-governance
+
 https://decrypt.co/45168/tokenized-bitcoin-is-coming-to-polkadot-in-q1-2021
 
 https://kusama.network/
