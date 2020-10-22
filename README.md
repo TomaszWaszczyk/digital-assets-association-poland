@@ -111,6 +111,9 @@ https://decoded.polkadot.network/
 1. W CoinmarketCap widniej Total Suply 9 651 217 KSM. Circulating Supply 8 470 098 KSM a Reported Circulating Supply 8 597 990 KSM. Jak to w końcu jest z ilością coinów w obiegu?
 2. j/w - w takim razie skąd biorą się kolejne tokeny? Jest ich z góry ograniczona liczba czy nieograniczona?
 3. Slashes - wszędzie jest mowa o tym, że można część środków stracić jako Nominator. Jak wyliczać ryzyko utraty części środków? Czy jest to w ogóle możliwe aby oszacować możliwą stratę? Jeśli NIE to jak system wylicza tą stratę ile obciąć środków?
+
+Odpowiedź: https://w3f-research.readthedocs.io/en/latest/polkadot/slashing/amounts.html
+
 4. W Governance jest Democracy, Council, Tresury. Pare słów o możliwościach. Czy partycypacja w tych funkcjonalnościach może być obligatoryjna czy jest tylko opcjonalna?
 5. Dla developerów widzę już wiele funkcjonalności - na czym one polegają? czy to głównie łączenie różnych blockchainów przez relay chain?
 6. W opisie Polkadot widzę "Polkadot enables cross-blockchain transfers of any type of data or asset, not just tokens." Jeśli nie tylko tokeny to co jeszcze mozna transferować pomiędzy blockchainami? Jakieś przykłady?
