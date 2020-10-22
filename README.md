@@ -1,4 +1,12 @@
 <!--
+https://resources.curve.fi/
+
+https://docs.chain.link/docs/running-a-chainlink-node
+
+ChainLink: https://devpost.com/software/ki-dot-a-substrate-based-blockchain-to-help-micro-funding#updates https://docs.chain.link/docs/external-adapters
+https://www.smartcontractsummit.io/#videos
+
+
 Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
@@ -30,9 +38,15 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 https://polkadot.network/
 
+https://wiki.polkadot.network/docs/en/learn-governance
+
+https://decrypt.co/45168/tokenized-bitcoin-is-coming-to-polkadot-in-q1-2021
+
 https://kusama.network/
 
 https://www.substrate.io/
+
+https://substrate.dev/recipes/introduction.html
 
 https://www.dapp.com/article/dapp-com-support-polkadot-and-kusama
 
@@ -42,7 +56,13 @@ https://www.kilt.io/polimec/
 
 https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
 
+Contact and docs: https://wiki.polkadot.network/docs/en/community#riot-chats
+
 Architecture: https://www.youtube.com/watch?v=xBfC6uTjvbM
+
+New account: https://wiki.polkadot.network/docs/en/learn-account-generation
+
+Consensus: https://wiki.polkadot.network/docs/en/learn-consensus
 
 https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE/edit
 
@@ -64,13 +84,27 @@ https://expedition.dev/?rpcUrl=https://rpc.testnet.moonbeam.network
 
 https://oneclickdapp.com/
 
+https://scuttlebutt.nz/
+
+https://www.joystream.org/
+
 ## Podcast RelayChain
 
-https://relaychain.fm/
+https://relaychain.fm/ ==> https://www.iheart.com/podcast/269-relay-chain-48876090/
 
 Relay Chain is a podcast covering blockchain development and building the decentralized web. We focus on the cutting edge of blockchain tech, including Substrate and Polkadot.
 
 Brought to you by Parity Technologies, a core blockchain infrastructure company. Parity is creating an open-source creative commons that will enable people to create better institutions through technology.
+
+Really good podcast with best quality knowledge regarding Polkadot ecosystem.
+
+## :rocket: Validator and nomination :rocket:
+
+I am honest validator and want to be involved in building healthy network.
+
+## Polkadot Decoded
+
+https://decoded.polkadot.network/
 
 ## :question: Questions
 
