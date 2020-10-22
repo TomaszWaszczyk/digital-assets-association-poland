@@ -115,6 +115,9 @@ https://decoded.polkadot.network/
 Odpowiedź: https://w3f-research.readthedocs.io/en/latest/polkadot/slashing/amounts.html
 
 4. W Governance jest Democracy, Council, Tresury. Pare słów o możliwościach. Czy partycypacja w tych funkcjonalnościach może być obligatoryjna czy jest tylko opcjonalna?
+
+Odpowiedź: https://wiki.polkadot.network/docs/en/learn-governance
+
 5. Dla developerów widzę już wiele funkcjonalności - na czym one polegają? czy to głównie łączenie różnych blockchainów przez relay chain?
 6. W opisie Polkadot widzę "Polkadot enables cross-blockchain transfers of any type of data or asset, not just tokens." Jeśli nie tylko tokeny to co jeszcze mozna transferować pomiędzy blockchainami? Jakieś przykłady?
 7. Walidatorów może być ograniczona liczba, rozumiem że obecnie 600, domyślnie 1000? Natomiast Nominatorów może być dowolna ilość? Choćby tylu ilu posiadaczy KSM/DOT?
