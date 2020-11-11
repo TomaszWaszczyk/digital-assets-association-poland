@@ -40,6 +40,8 @@ https://polkadot.network/
 
 https://w3f-research.readthedocs.io
 
+https://arxiv.org/abs/2005.13456 - "Overview of Polkadot and its Design Considerations"
+
 https://wiki.polkadot.network/docs/en/learn-governance
 
 https://decrypt.co/45168/tokenized-bitcoin-is-coming-to-polkadot-in-q1-2021
