@@ -385,6 +385,8 @@ https://swcregistry.io/
 
 https://securing.github.io/eth-rd-messenger/
 
+https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec
+
 https://github.com/securing/SCSVS
     
 https://www.securing.biz/smart-contracts-security-checklist/index.html
