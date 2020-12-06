@@ -150,6 +150,8 @@ Tomasz Kajetan Stańczak - Founder of Nethermind, since 2017 has been working on
 
 Website: https://nethermind.io/
 
+https://github.com/NethermindEth/research/blob/main/legacyTransactions.ipynb
+
 Documentation: https://nethermind.readthedocs.io
 
 Gitter: https://gitter.im/nethermindeth/nethermind
