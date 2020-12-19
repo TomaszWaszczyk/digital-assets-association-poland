@@ -199,6 +199,10 @@ Hoon Kim, a software engineer at Stake Technologies and a core developer of the 
 Awarded Gold Prize at the 2014 South Korean National Olympiad in Informatics. Received the Outstanding Thesis award at Ritsumeikan Asia Pacific University for an undergraduate thesis regarding the applicability of a single purpose blockchain for stock exchanges and asset management (2020).
 Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Administration at the College of International Management (2020).
 
+## What is Plasm Network?
+
+Plasm Network is a part (in the near future parachain) of Polkadot ecosystem based on Substrate framework. Main chain (relay chain) in Polkadot due to performance optimizations has only basic features without possibility to execute smart contracts. Plasm Network delivers possibility to working with smart contracts in Polkadot. Using Plasm Network software engineer will be able to deploy DApps on Layer 2 and build own decentralized applications.
+
 ## :question: Questions
 
 0. First of all congrats for running mainnet! :rocket: :rocket: :rocket:
