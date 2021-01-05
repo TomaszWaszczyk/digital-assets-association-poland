@@ -106,6 +106,13 @@ Really good podcast with best quality knowledge regarding Polkadot ecosystem.
 
 ## :rocket: Validator and nomination :rocket:
 
+Kusama network launched in July 2019 as an early, unaudited version of Polkadot’s codebase. The network has increased its validators from 25 at launch to 700 validators, with a motion recently passed that will increase that further to 900. We’re on the way to achieving our original goal of decentralizing Kusama by scaling to one thousand validator nodes. To support Kusama’s validator growth, we launched the Thousand Validators Programme at the beginning of 2020. This programme was extended in December 2020 to allow participants to run multiple eligible nodes. 
+
+<p align="center">
+  <h2>Internet - The New Jurisdiction</h2>
+  <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/Kusama1000.png">
+</p>
+
 I am honest validator and want to be involved in building healthy network. The name of the validator is `thirdwave-network-validator`.
 
 ## Polkadot Decoded
