@@ -106,7 +106,7 @@ Really good podcast with best quality knowledge regarding Polkadot ecosystem.
 
 ## :rocket: Validator and nomination :rocket:
 
-I am honest validator and want to be involved in building healthy network.
+I am honest validator and want to be involved in building healthy network. The name of the validator is `thirdwave-network-validator`.
 
 ## Polkadot Decoded
 
