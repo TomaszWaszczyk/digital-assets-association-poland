@@ -38,6 +38,8 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 https://polkadot.network/
 
+https://github.com/SimplyVC/panic_polkadot
+
 https://w3f-research.readthedocs.io
 
 https://arxiv.org/abs/2005.13456 - "Overview of Polkadot and its Design Considerations"
