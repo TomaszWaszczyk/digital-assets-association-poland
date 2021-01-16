@@ -759,6 +759,8 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 ## :link: Linki
 
+https://github.com/bcongdon/awesome-lightning-network#web-interfaces
+
 1. https://www.veriphi.io/the-lightning-conference-2019
 
 2. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
