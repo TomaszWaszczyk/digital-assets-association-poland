@@ -158,6 +158,8 @@ Tomasz Kajetan Stańczak - Founder of Nethermind, since 2017 has been working on
 
 Website: https://nethermind.io/
 
+https://medium.com/nethermind-eth/using-nethermind-to-run-a-validator-in-eth2-5c227653e197
+
 https://github.com/NethermindEth/research/blob/main/legacyTransactions.ipynb
 
 Documentation: https://nethermind.readthedocs.io
