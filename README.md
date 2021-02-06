@@ -546,6 +546,18 @@ https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-e
 Satoshi: https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts;start=520
 
 https://bitcoinmagazine.com/articles/what-we-can-learn-about-lightning-from-lntrustchain2-part-2
+<!--
+Ustawiać jak najwięcej połączeń dla klientów
+SPV nie gra roli kiedy nie ma własnego noda
+CoinJoin
+BIP75
+Blockstream green
+Shlomi Zeltsinger
+UTXO jest trudniejszy do śledzenia niż model account jak w Ethereum
+https://bitcoinmagazine.com/articles/how-the-new-erlay-protocol-could-speed-up-the-bitcoin-network
+Cold Card wallet 
+Huobi..
+-->
 
 ---
 ---
