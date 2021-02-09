@@ -851,7 +851,18 @@ I will talk about why on-ramps matter, what are the trade-offs of different type
 
 1. What is the impact of 'comming' Ethereum 2.0 for Ramp? There is a need for any migration etc. ?
 
-2. 
+---
+
+Part 1
+https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e
+
+Part 2
+https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269
+
+Part 3
+https://hackernoon.com/ethereum-development-walkthrough-part-3-security-limitations-and-considerations-d482f05278b4
+
+---
 
 ## Prośba
 
