@@ -18,9 +18,15 @@ https://app.dexter.exchange/
 
 Using distributed ledger technology, satellite remote sensing, and Ecological State Protocols, Regen Network monitors on-the-ground conditions and generates trusted attestations about ecological state. Regen Network provides an open platform designed specifically to run diverse applications such as Regenerative Carbon Credits, Supply Chain Transparency, Reforestation Monitoring, and investment vehicles such as Ecological Bonds. There may be nothing of more critical importance than the regeneration of global ecosystems. Regen Network brings together the tools and communities needed to incentivize actions aligned with planetary health.
 
+## :rocket: Prelegent
+
+*Robert Zaremba* is a Solution Architect & blockchain expert. Being a CTO of startups and working for international companies, he builds products and teams, focuses on delivering and leads by example. Having a solid experience with many projects he is a genuine strategist, advisor and mentor. Today, Robert is actively growing and sharing his knowledge with the community and contributing to thriving projects.
+
 ## :link: Links about Regen Network
 
 https://www.regen.network/
+
+https://zaremba.ch/
 
 ---
 ---
