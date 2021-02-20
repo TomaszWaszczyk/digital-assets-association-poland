@@ -10,8 +10,22 @@ https://www.smartcontractsummit.io/#videos
 Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
-
 -->
+
+# SBM vol. #22 - DeFi in Environmental, Social, and Governance operations. Robert Zaremba, Solution Architect, R&D at Regen Network 
+
+## :memo: Agenda
+
+Using distributed ledger technology, satellite remote sensing, and Ecological State Protocols, Regen Network monitors on-the-ground conditions and generates trusted attestations about ecological state. Regen Network provides an open platform designed specifically to run diverse applications such as Regenerative Carbon Credits, Supply Chain Transparency, Reforestation Monitoring, and investment vehicles such as Ecological Bonds. There may be nothing of more critical importance than the regeneration of global ecosystems. Regen Network brings together the tools and communities needed to incentivize actions aligned with planetary health.
+
+## :link: Links about Regen Network
+
+https://www.regen.network/
+
+---
+---
+---
+---
 
 # SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network, Sub0 - Tomasz Waszczyk
 
