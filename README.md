@@ -56,6 +56,8 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: https://www.crowdcast.io/e/substrate-seminar :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
 
+https://www.paka.fund/
+
 https://polkadot.network/
 
 https://github.com/SimplyVC/panic_polkadot
