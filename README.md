@@ -28,6 +28,14 @@ https://www.regen.network/
 
 https://zaremba.ch/
 
+## :question: Questions
+
+1. Czemu Cosmos a nie Substrate?
+
+2. Są klienci? Jeśli nie to kiedy potencjalnie mogą być?
+
+3. Jakie są insentywy dla walidatorów?
+
 ---
 ---
 ---
