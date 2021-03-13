@@ -36,6 +36,8 @@ https://zaremba.ch/
 
 3. Jakie są insentywy dla walidatorów?
 
+4. Czym jest "carbon credit"?
+
 ---
 ---
 ---
