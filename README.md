@@ -10,6 +10,11 @@ https://www.smartcontractsummit.io/#videos
 Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
+
+Questions to Substrate dev:
+1. I begin to implement own solution a'la yours, any practical advice for begineer?
+2. 
+
 -->
 
 # SBM vol. #22 - DeFi in Environmental, Social, and Governance operations. Robert Zaremba, Solution Architect, R&D at Regen Network 
