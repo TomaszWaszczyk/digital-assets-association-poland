@@ -41,6 +41,8 @@ https://subsocial.network/
 
 2. How consensus in SubSocial is reached? Do you have collators?
 
+3. [curiosity] Have you ever consider to implement "social" pallet? Does it make sense? In the frontend space there are many component so why not here? Maybe, maybe not.
+
 ---
 ---
 ---
