@@ -17,6 +17,35 @@ Questions to Substrate dev:
 
 -->
 
+<p align="center">
+  <h2>SubSocial</h2>
+  <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/subsocial.png">
+</p>
+
+# SBM vol. #23 - SubSocial as an example of Web3, Alex Siman
+
+## :memo: Agenda
+
+Subsocial is a set of Substrate pallets with web UI that allows anyone to launch their own decentralized censorship-resistant social network aka community. You can think of it as a decentralized version of Reddit or Medium, where a set of subreddits or blogs on Medium run on their own chain.
+
+## :rocket: Prelegent
+
+*Alex Siman* founder of Subsocial and DappForce. We talked about the ideas behing the project, the concept of Subsocial and near future plans. 
+
+## :link: Links about Regen Network
+
+https://subsocial.network/
+
+## :question: Questions
+
+1. 
+
+
+---
+---
+---
+---
+
 # SBM vol. #22 - DeFi in Environmental, Social, and Governance operations. Robert Zaremba, Solution Architect, R&D at Regen Network 
 
 ## :memo: Agenda
