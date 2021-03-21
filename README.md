@@ -37,8 +37,9 @@ https://subsocial.network/
 
 ## :question: Questions
 
-1. 
+1. Deployment of frontend - does it matter where the frontend is deployed?
 
+2. How consensus in SubSocial is reached? Do you have collators?
 
 ---
 ---
