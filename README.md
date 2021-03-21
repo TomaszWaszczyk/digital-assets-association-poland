@@ -17,7 +17,7 @@ Questions to Substrate dev:
 
 -->
 
-# SBM vol. #23 - SubSocial as an example of Web3, Alex Siman
+# SBM vol. #23 - subsocial as an example of Web3, Alex Siman
 
 <p align="center">
   <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/subsocial.png">
