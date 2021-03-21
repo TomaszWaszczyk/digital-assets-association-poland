@@ -31,7 +31,7 @@ Subsocial is a set of Substrate pallets with web UI that allows anyone to launch
 
 *Alex Siman* founder of Subsocial and DappForce. We talked about the ideas behing the project, the concept of Subsocial and near future plans. 
 
-## :link: Links about Regen Network
+## :link: Links about subsocial.network
 
 https://subsocial.network/
 
