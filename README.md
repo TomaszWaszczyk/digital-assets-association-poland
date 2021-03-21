@@ -18,7 +18,6 @@ Questions to Substrate dev:
 -->
 
 <p align="center">
-  <h2>SubSocial</h2>
   <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/subsocial.png">
 </p>
 
