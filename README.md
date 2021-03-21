@@ -43,6 +43,8 @@ https://subsocial.network/
 
 3. [curiosity] Have you ever consider to implement "social" pallet? Does it make sense? In the frontend space there are many component so why not here? Maybe, maybe not.
 
+4. [Connections frozen] Some issue with connection to Substrate (remember and research)
+
 ---
 ---
 ---
