@@ -495,7 +495,7 @@ Synthetix Network - świat syntetycznych instrumentów finansowych na blockchain
 ## :rocket: Prelegent
 
 <p align="center">
-  <img src="./20-03-2020-Piotr-Misiurek/piotrek.png">
+  <img src="./_PREVIOUS_MEETUPS/20-03-2020-Piotr-Misiurek/piotrek.png">
 </p>
 
 
