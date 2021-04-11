@@ -11,7 +11,75 @@ Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
 
+Questions to Substrate dev:
+1. I begin to implement own solution a'la yours, any practical advice for begineer?
+2. 
+
 -->
+
+# SBM vol. #23 - subsocial as an example of Web3, Alex Siman
+
+<p align="center">
+  <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/subsocial.png">
+</p>
+
+## :memo: Agenda
+
+Subsocial is a set of Substrate pallets with web UI that allows anyone to launch their own decentralized censorship-resistant social network aka community. You can think of it as a decentralized version of Reddit or Medium, where a set of subreddits or blogs on Medium run on their own chain.
+
+## :rocket: Prelegent
+
+*Alex Siman* founder of Subsocial and DappForce. We talked about the ideas behing the project, the concept of Subsocial and near future plans. 
+
+## :link: Links about subsocial.network
+
+https://subsocial.network/
+
+## :question: Questions
+
+1. Deployment of frontend - does it matter where the frontend is deployed?
+
+2. How consensus in SubSocial is reached? Do you have collators?
+
+3. [curiosity] Have you ever consider to implement "social" pallet? Does it make sense? In the frontend space there are many component so why not here? Maybe, maybe not.
+
+4. [Connections frozen] Some issue with connection to Substrate (remember and research)
+
+---
+---
+---
+---
+
+# SBM vol. #22 - DeFi in Environmental, Social, and Governance operations. Robert Zaremba, Solution Architect, R&D at Regen Network 
+
+## :memo: Agenda
+
+Using distributed ledger technology, satellite remote sensing, and Ecological State Protocols, Regen Network monitors on-the-ground conditions and generates trusted attestations about ecological state. Regen Network provides an open platform designed specifically to run diverse applications such as Regenerative Carbon Credits, Supply Chain Transparency, Reforestation Monitoring, and investment vehicles such as Ecological Bonds. There may be nothing of more critical importance than the regeneration of global ecosystems. Regen Network brings together the tools and communities needed to incentivize actions aligned with planetary health.
+
+## :rocket: Prelegent
+
+*Robert Zaremba* is a Solution Architect & blockchain expert. Being a CTO of startups and working for international companies, he builds products and teams, focuses on delivering and leads by example. Having a solid experience with many projects he is a genuine strategist, advisor and mentor. Today, Robert is actively growing and sharing his knowledge with the community and contributing to thriving projects.
+
+## :link: Links about Regen Network
+
+https://www.regen.network/
+
+https://zaremba.ch/
+
+## :question: Questions
+
+1. Czemu Cosmos a nie Substrate?
+
+2. Są klienci? Jeśli nie to kiedy potencjalnie mogą być?
+
+3. Jakie są insentywy dla walidatorów?
+
+4. Czym jest "carbon credit"?
+
+---
+---
+---
+---
 
 # SBM vol. #21 - Polkadot ecosystem, Substrate, Kusama Network, Sub0 - Tomasz Waszczyk
 
@@ -36,7 +104,15 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: https://www.crowdcast.io/e/substrate-seminar :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
 
+https://www.paka.fund/
+
 https://polkadot.network/
+
+https://github.com/SimplyVC/panic_polkadot
+
+https://w3f-research.readthedocs.io
+
+https://arxiv.org/abs/2005.13456 - "Overview of Polkadot and its Design Considerations"
 
 https://wiki.polkadot.network/docs/en/learn-governance
 
@@ -102,7 +178,13 @@ Really good podcast with best quality knowledge regarding Polkadot ecosystem.
 
 ## :rocket: Validator and nomination :rocket:
 
-I am honest validator and want to be involved in building healthy network.
+Kusama network launched in July 2019 as an early, unaudited version of Polkadot’s codebase. The network has increased its validators from 25 at launch to 700 validators, with a motion recently passed that will increase that further to 900. We’re on the way to achieving our original goal of decentralizing Kusama by scaling to one thousand validator nodes. To support Kusama’s validator growth, we launched the Thousand Validators Programme at the beginning of 2020. This programme was extended in December 2020 to allow participants to run multiple eligible nodes. 
+
+<p align="center">
+  <img src="./_PREVIOUS_MEETUPS/22-10-2020-Polkadot/Kusama1000.png">
+</p>
+
+I am honest validator and want to be involved in building healthy network. The name of the validator is `thirdwave-network-validator`.
 
 ## Polkadot Decoded
 
@@ -145,6 +227,10 @@ Tomasz Kajetan Stańczak - Founder of Nethermind, since 2017 has been working on
 ## :link: Links
 
 Website: https://nethermind.io/
+
+https://medium.com/nethermind-eth/using-nethermind-to-run-a-validator-in-eth2-5c227653e197
+
+https://github.com/NethermindEth/research/blob/main/legacyTransactions.ipynb
 
 Documentation: https://nethermind.readthedocs.io
 
@@ -192,6 +278,10 @@ This presentation will act as an introductory point to Plasm Network and Layer 2
 Hoon Kim, a software engineer at Stake Technologies and a core developer of the Plasm Team.
 Awarded Gold Prize at the 2014 South Korean National Olympiad in Informatics. Received the Outstanding Thesis award at Ritsumeikan Asia Pacific University for an undergraduate thesis regarding the applicability of a single purpose blockchain for stock exchanges and asset management (2020).
 Graduated Ritsumeikan Asia Pacific University, degree of Bachelor of Business Administration at the College of International Management (2020).
+
+## What is Plasm Network?
+
+Plasm Network is a part (in the near future parachain) of Polkadot ecosystem based on Substrate framework. Main chain (relay chain) in Polkadot due to performance optimizations has only basic features without possibility to execute smart contracts. Plasm Network delivers possibility to working with smart contracts in Polkadot. Using Plasm Network software engineer will be able to deploy DApps on Layer 2 and build own decentralized applications.
 
 ## :question: Questions
 
@@ -381,6 +471,8 @@ https://swcregistry.io/
 
 https://securing.github.io/eth-rd-messenger/
 
+https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec
+
 https://github.com/securing/SCSVS
     
 https://www.securing.biz/smart-contracts-security-checklist/index.html
@@ -403,7 +495,7 @@ Synthetix Network - świat syntetycznych instrumentów finansowych na blockchain
 ## :rocket: Prelegent
 
 <p align="center">
-  <img src="./20-03-2020-Piotr-Misiurek/piotrek.png">
+  <img src="./_PREVIOUS_MEETUPS/20-03-2020-Piotr-Misiurek/piotrek.png">
 </p>
 
 
@@ -526,6 +618,18 @@ https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-e
 Satoshi: https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts;start=520
 
 https://bitcoinmagazine.com/articles/what-we-can-learn-about-lightning-from-lntrustchain2-part-2
+<!--
+Ustawiać jak najwięcej połączeń dla klientów
+SPV nie gra roli kiedy nie ma własnego noda
+CoinJoin
+BIP75
+Blockstream green
+Shlomi Zeltsinger
+UTXO jest trudniejszy do śledzenia niż model account jak w Ethereum
+https://bitcoinmagazine.com/articles/how-the-new-erlay-protocol-could-speed-up-the-bitcoin-network
+Cold Card wallet 
+Huobi..
+-->
 
 ---
 ---
@@ -741,6 +845,10 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 ## :link: Linki
 
+https://breez.technology
+
+https://github.com/bcongdon/awesome-lightning-network#web-interfaces
+
 1. https://www.veriphi.io/the-lightning-conference-2019
 
 2. Dla zainteresowanych historią: https://www.historia.waszczyk.com/
@@ -813,7 +921,18 @@ I will talk about why on-ramps matter, what are the trade-offs of different type
 
 1. What is the impact of 'comming' Ethereum 2.0 for Ramp? There is a need for any migration etc. ?
 
-2. 
+---
+
+Part 1
+https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e
+
+Part 2
+https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269
+
+Part 3
+https://hackernoon.com/ethereum-development-walkthrough-part-3-security-limitations-and-considerations-d482f05278b4
+
+---
 
 ## Prośba
 
