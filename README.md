@@ -186,6 +186,8 @@ Kusama network launched in July 2019 as an early, unaudited version of Polkadotâ
 
 I am honest validator and want to be involved in building healthy network. The name of the validator is `thirdwave-network-validator`.
 
+https://github.com/stakelink/substrate-payctl
+
 ## Polkadot Decoded
 
 https://decoded.polkadot.network/
