@@ -188,6 +188,10 @@ I am honest validator and want to be involved in building healthy network. The n
 
 https://github.com/stakelink/substrate-payctl
 
+## China
+
+https://bootcamp.web3.foundation/
+
 ## Polkadot Decoded
 
 https://decoded.polkadot.network/
