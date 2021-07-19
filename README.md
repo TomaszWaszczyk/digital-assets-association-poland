@@ -35,6 +35,8 @@ Subsocial is a set of Substrate pallets with web UI that allows anyone to launch
 
 https://subsocial.network/
 
+https://readymag.com/joaji/parachain/
+
 ## :question: Questions
 
 1. Deployment of frontend - does it matter where the frontend is deployed?
