@@ -16,6 +16,11 @@ Questions to Substrate dev:
 2. 
 
 -->
+<a href="JOB.md">
+  <p align="center">
+    <img src="./_Inne/job.jpeg">
+  </p>
+</a>
 
 # SBM vol. #23 - subsocial as an example of Web3, Alex Siman
 
