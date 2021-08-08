@@ -866,6 +866,10 @@ Parę osób pytało się mnie w jaki sposób może wesprzeć moją inicjatywę, 
 
 ## :link: Linki
 
+https://blog.lopp.net/lightning-network-liquidity-management-guide/
+
+https://docs.lightning.engineering/lightning-network-tools/loop/autoloop
+
 https://breez.technology
 
 https://github.com/bcongdon/awesome-lightning-network#web-interfaces
