@@ -344,6 +344,24 @@ Why not just:
 
 14. Could you share some your OWN thought on 'scalling Ethereum'?
 
+## !ink
+
+https://github.com/patractlabs/europa
+
+Here is a sandbox from patract
+
+https://github.com/w3f/PSPs/pull/22
+
+Standards are setting for tokens
+
+https://github.com/patractlabs/ask/blob/master/examples/erc20/index.ts
+
+Also ask is very interesting evolution coming, I’m sure Astar will plan to integrating it soon ^^
+
+https://polkadot.polkassembly.io/post/566
+
+The Métis library from patract is very interesting also
+
 ## :link: Links
 
 1. https://www.plasmnet.io/
