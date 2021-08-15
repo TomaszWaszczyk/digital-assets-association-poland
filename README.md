@@ -362,6 +362,8 @@ https://polkadot.polkassembly.io/post/566
 
 The Métis library from patract is very interesting also
 
+https://docs.patract.io/en/contracts/language
+
 ## :link: Links
 
 1. https://www.plasmnet.io/
