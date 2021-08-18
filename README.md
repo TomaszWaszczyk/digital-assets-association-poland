@@ -346,6 +346,8 @@ Why not just:
 
 ## !ink
 
+https://substrate.dev/substrate-contracts-workshop/#/0/setup
+
 https://github.com/patractlabs/europa
 
 Here is a sandbox from patract
