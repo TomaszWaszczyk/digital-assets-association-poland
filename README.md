@@ -15,6 +15,8 @@ Questions to Substrate dev:
 1. I begin to implement own solution a'la yours, any practical advice for begineer?
 2. 
 
+HACKATHON =====> https://www.encode.club/polkadot-club-hackathon <======= HACKATHON
+
 -->
 <a href="JOB.md">
   <p align="center">
