@@ -11,13 +11,10 @@ Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
 
-Questions to Substrate dev:
-1. I begin to implement own solution a'la yours, any practical advice for begineer?
-2. 
-
-HACKATHON =====> https://www.encode.club/polkadot-club-hackathon <======= HACKATHON
-
 -->
+
+
+
 <a href="JOB.md">
   <p align="center">
     <img src="./_Inne/job.jpeg">
