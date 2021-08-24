@@ -13,7 +13,7 @@ https://app.dexter.exchange/
 
 -->
 
-
+HACKATHON =====> https://www.encode.club/polkadot-club-hackathon <======= HACKATHON
 
 <a href="JOB.md">
   <p align="center">
