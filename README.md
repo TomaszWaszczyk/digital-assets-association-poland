@@ -15,6 +15,8 @@ https://app.dexter.exchange/
 
 HACKATHON =====> https://www.encode.club/polkadot-club-hackathon <======= HACKATHON
 
+https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3jZJwncOVbLw/viewform
+
 <a href="JOB.md">
   <p align="center">
     <img src="./_Inne/job.jpeg">
