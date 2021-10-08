@@ -31,11 +31,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
 
 Visor makes & distributes protocol revenue. We are introducing protocol revenue distribution to VISR stakers. It is very important to the future of Visor Finance that stakeholders are rewarded appropriately for their participation. Visor captures fees by taking 10% of the re-invested Uni v3 fees.
 
-Valerio Fichera
-
 ## :rocket: Prelegent
 
-*Alex Siman* founder of Subsocial and DappForce. We talked about the ideas behing the project, the concept of Subsocial and near future plans. 
+*Valerio Fichera*. 
 
 ## :link: Links about subsocial.network
 
