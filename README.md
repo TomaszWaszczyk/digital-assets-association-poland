@@ -23,6 +23,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
   </p>
 </a>
 
+
+
+# SBM vol. #24 - VisorFinance, Valerio Fichera
+
+## :memo: Agenda
+
+Visor makes & distributes protocol revenue. We are introducing protocol revenue distribution to VISR stakers. It is very important to the future of Visor Finance that stakeholders are rewarded appropriately for their participation. Visor captures fees by taking 10% of the re-invested Uni v3 fees.
+
+Valerio Fichera
+
+## :rocket: Prelegent
+
+*Alex Siman* founder of Subsocial and DappForce. We talked about the ideas behing the project, the concept of Subsocial and near future plans. 
+
+## :link: Links about subsocial.network
+
+- https://www.visor.finance/
+
+<!--
 # SBM vol. #23 - subsocial as an example of Web3, Alex Siman
 
 <p align="center">
@@ -52,7 +71,7 @@ https://readymag.com/joaji/parachain/
 3. [curiosity] Have you ever consider to implement "social" pallet? Does it make sense? In the frontend space there are many component so why not here? Maybe, maybe not.
 
 4. [Connections frozen] Some issue with connection to Substrate (remember and research)
-
+-->
 ---
 ---
 ---
