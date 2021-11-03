@@ -131,6 +131,8 @@ Tomasz Waszczyk - A couple of words about my professional life: I graduated from
 
 :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: https://www.crowdcast.io/e/substrate-seminar :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
 
+https://playground.substrate.dev/
+
 ink: https://github.com/Supercolony-net/openbrush-contracts
 
 ink: https://docs.openbrush.io/smart-contracts/overview
