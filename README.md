@@ -11,8 +11,6 @@ Tezos
 https://github.com/madfish-solutions/thanos-wallet
 https://app.dexter.exchange/
 
--->
-
 HACKATHON =====> https://www.encode.club/polkadot-club-hackathon <======= HACKATHON
 
 https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3jZJwncOVbLw/viewform
@@ -23,7 +21,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
   </p>
 </a>
 
+-->
 
+Do you think that proxy account in Polkadot is an idea for a company?
 
 # SBM vol. #24 - VisorFinance, Valerio Fichera
 
