@@ -23,11 +23,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
 
 -->
 
-# SBM vol. #25 - Q&A Bill Laboon, Tomasz Waszczyk [English]
+# SBM vol. #25 - Q&A with Bill Laboon, Tomasz Waszczyk [English]
 
 ## :memo: Agenda
 
-During 30 long session I will ask questions to Bill regarding Polkadot. Feel free to suggest question via https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new or just send me via social media.
+During 30 long session, I will ask questions to Bill regarding Polkadot. Feel free to suggest question via https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new or just send me via social media.
+
+Recording will be available on YouTube.
 
 ## :rocket: Prelegent
 
