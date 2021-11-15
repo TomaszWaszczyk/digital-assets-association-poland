@@ -37,7 +37,7 @@ Recording will be available on YouTube.
 
 ## :question: Questions to Bill
 
-1. Do you think that proxy account in Polkadot is an idea for a company?
+1. Do you think that a proxy account in Polkadot is an idea for a business?
 
 ## :link: Links
 
