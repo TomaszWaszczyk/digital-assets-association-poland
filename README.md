@@ -47,6 +47,11 @@ Recording will be available on YouTube.
 4. https://acala.network/acala/quests
 5. https://dotmarketcap.com/
 
+---
+---
+---
+---
+
 # SBM vol. #24 - VisorFinance, Valerio Fichera
 
 ## :memo: Agenda
