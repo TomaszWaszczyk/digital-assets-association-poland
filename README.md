@@ -23,7 +23,27 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
 
 -->
 
-Do you think that proxy account in Polkadot is an idea for a company?
+# SBM vol. #25 - Q&A Bill Laboon, Tomasz Waszczyk [English]
+
+## :memo: Agenda
+
+During 30 long session I will ask questions to Bill regarding Polkadot. Feel free to suggest question via https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new or just send me via social media.
+
+## :rocket: Prelegent
+
+*Bill Laboon* is a lecturer in the Computer Science department at the University of Pittsburgh, where focuses on teaching how to develop high-quality software in a real-world environment. He is a frequent speaker on topics such as ethics in software development, software quality assurance, and cryptocurrency.
+
+## :question: Questions to Bill
+
+1. Do you think that proxy account in Polkadot is an idea for a company?
+
+## :link: Links
+
+1. https://polkadot.network/
+2. https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new
+3. https://www.amazon.com/Strength-Numbers-Cryptocurrency-Bill-Laboon-ebook/dp/B07B75SL2C
+4. https://acala.network/acala/quests
+5. https://dotmarketcap.com/
 
 # SBM vol. #24 - VisorFinance, Valerio Fichera
 
