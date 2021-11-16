@@ -27,7 +27,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
 
 ## :memo: Agenda
 
-During 30 minutes long session, I will ask questions to Bill regarding Polkadot. Feel free to suggest question via https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new or just send me via social media.
+During 30 minutes long session, I will ask questions to Bill Laboon regarding Polkadot. Feel free to suggest question via https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new or just send me via social media.
 
 Recording will be available on YouTube.
 
