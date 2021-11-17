@@ -47,6 +47,7 @@ Recording will be available on YouTube.
 4. https://acala.network/acala/quests
 5. https://dotmarketcap.com/
 6. https://gleam.io/Eonir/polkadot-auctions-crowdloans-and-gifts-campaign
+7. https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J
 
 ---
 ---
