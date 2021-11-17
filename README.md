@@ -48,6 +48,7 @@ Recording will be available on YouTube.
 5. https://dotmarketcap.com/
 6. https://gleam.io/Eonir/polkadot-auctions-crowdloans-and-gifts-campaign
 7. https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J
+8. https://area51.stackexchange.com/proposals/126136/substrate
 
 ---
 ---
