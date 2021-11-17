@@ -46,6 +46,7 @@ Recording will be available on YouTube.
 3. https://www.amazon.com/Strength-Numbers-Cryptocurrency-Bill-Laboon-ebook/dp/B07B75SL2C
 4. https://acala.network/acala/quests
 5. https://dotmarketcap.com/
+6. https://gleam.io/Eonir/polkadot-auctions-crowdloans-and-gifts-campaign
 
 ---
 ---
