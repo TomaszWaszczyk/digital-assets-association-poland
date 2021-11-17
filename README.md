@@ -33,7 +33,7 @@ Recording will be available on YouTube.
 
 ## :rocket: Prelegent
 
-*Bill Laboon* is the Direction of Education and Community at Web3 Foundation. Before this, he was a lecturer in the Computer Science Department of the University of Pittsburgh, teaching courses in software quality assurance, software engineering, and blockchain technology. He is a frequent speaker at conferences on a variety of topics, including cryptocurrency, software quality, and the ethics of software development. He is the author of two books: A Friendly Introduction to Software Testing, an undergraduate textbook; and Strength in Numbers, a near-future novel set in a world in which cryptocurrency has eliminated traditional money.  Bill has a BS in Computer Science and Political Science from the University of Pittsburgh, as well as an MS in Software Design & Management from Carnegie Mellon University.
+*Bill Laboon* is the Director of Education and Community at Web3 Foundation. Before this, he was a lecturer in the Computer Science Department of the University of Pittsburgh, teaching courses in software quality assurance, software engineering, and blockchain technology. He is a frequent speaker at conferences on a variety of topics, including cryptocurrency, software quality, and the ethics of software development. He is the author of two books: A Friendly Introduction to Software Testing, an undergraduate textbook; and Strength in Numbers, a near-future novel set in a world in which cryptocurrency has eliminated traditional money.  Bill has a BS in Computer Science and Political Science from the University of Pittsburgh, as well as an MS in Software Design & Management from Carnegie Mellon University.
 
 ## :question: Questions to Bill
 
