@@ -42,10 +42,10 @@ Recording will be available on YouTube.
 3. What are current mailstones and goals?
 4. DOTs/KSMs collected in crowdloan can be staked by projects?
 5. There is a plan for more than two relay chains?
-6. [Figment](https://www.notion.so/Polkadot-902169706b8a449cbd6d0b8c9a69249f) - there is any special rules to run WND validator?
+6. [Figment](https://www.notion.so/Polkadot-902169706b8a449cbd6d0b8c9a69249f) - there are any special rules to run WND validator?
 7. Onboarding wallet app - do you have some well implemented onboarded app that - I guess that one of the most important thing is to deliver easy way to onboard app.
 8. Systems like Polkadot are a new form of (digital) countries - any comment?
-9. Does token economy is able to take over the power over individual person?
+9. Does token economy is able to take over the power over individual person? What impact on society has token economy?
 10. From your point of view - what is the status of ethics in software engineering today?
 
 ## :link: Links
