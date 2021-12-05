@@ -78,6 +78,7 @@ Visor makes & distributes protocol revenue. We are introducing protocol revenue 
 ## :link: Links about subsocial.network
 
 - https://www.visor.finance/
+- OHM: https://docs.google.com/spreadsheets/u/1/d/15jY82ji22pL5qfDdbh5A6NRy-sbuq2sGwa5DhevWWVY/htmlview
 
 <!--
 # SBM vol. #23 - subsocial as an example of Web3, Alex Siman
