@@ -21,6 +21,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
   </p>
 </a>
 
+
+https://bitcoin.sipa.be/miniscript/
+https://miniscript.fun
+
 -->
 
 # SBM vol. #25 - Q&A with Bill Laboon, Tomasz Waszczyk [English]
