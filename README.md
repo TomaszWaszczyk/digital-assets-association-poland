@@ -27,6 +27,9 @@ https://miniscript.fun
 
 -->
 
+https://github.com/diadata-org/diadata
+
+
 # SBM vol. #25 - Q&A with Bill Laboon, Tomasz Waszczyk [English]
 
 ## :memo: Agenda
