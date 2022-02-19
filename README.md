@@ -29,6 +29,23 @@ https://miniscript.fun
 
 https://github.com/diadata-org/diadata
 
+# DAA vol. #26 - Astar Network (ex Plasm Network), Tomasz Waszczyk
+
+<a href="https://astar.network/">
+  <p align="center">
+    <img src="./_PREVIOUS_MEETUPS/24-02-2022-Astar/astar.jpeg">
+  </p>
+</a>
+
+## :memo: Agenda
+
+* dApp staking
+* roadmap
+
+## :link: Links
+
+1. https://astarhub.io/
+2. https://astar.network/
 
 # SBM vol. #25 - Q&A with Bill Laboon, Tomasz Waszczyk [English]
 
