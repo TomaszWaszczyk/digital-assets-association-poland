@@ -39,8 +39,11 @@ https://github.com/diadata-org/diadata
 
 ## :memo: Agenda
 
-* dApp staking
-* roadmap
+* Czym jest Astar?
+* Czym jest dApp staking?
+* Ekonomia tokenu
+* Kamienie milowe
+* Co może zrobić programista dla Astar?
 
 ## :link: Links
 
