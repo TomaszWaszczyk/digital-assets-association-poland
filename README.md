@@ -46,6 +46,7 @@ https://github.com/diadata-org/diadata
 
 1. https://astarhub.io/
 2. https://astar.network/
+3. https://www.sii.org.pl/14967/edukacja/kurs-kryptowaluty.html
 
 ---
 ---
