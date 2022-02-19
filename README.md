@@ -47,6 +47,11 @@ https://github.com/diadata-org/diadata
 1. https://astarhub.io/
 2. https://astar.network/
 
+---
+---
+---
+---
+
 # SBM vol. #25 - Q&A with Bill Laboon, Tomasz Waszczyk [English]
 
 ## :memo: Agenda
