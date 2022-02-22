@@ -49,6 +49,7 @@ https://miniscript.fun
 2. https://astar.network/
 3. https://github.com/diadata-org/diadata
 4. https://www.sii.org.pl/14967/edukacja/kurs-kryptowaluty.html
+5. https://medium.com/astar-network/astar-launches-the-incubation-program-backed-by-alameda-research-fenbushi-dfg-and-etc-3208349f4cb8
 
 ---
 ---
