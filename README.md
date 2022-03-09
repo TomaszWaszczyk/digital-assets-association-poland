@@ -51,6 +51,8 @@ https://miniscript.fun
 4. https://www.sii.org.pl/14967/edukacja/kurs-kryptowaluty.html
 5. https://medium.com/astar-network/astar-launches-the-incubation-program-backed-by-alameda-research-fenbushi-dfg-and-etc-3208349f4cb8
 6. Astar Builders: https://share.hsforms.com/1UFPFJXq6S1SN-j1lyMrNIgc2ryh
+7. https://tofunft.com/nft/astar/0x1b57C69838cDbC59c8236DDa73287a4780B4831F/5809
+8. http://astarbots.com/
 
 ---
 ---
