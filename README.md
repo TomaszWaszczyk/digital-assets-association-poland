@@ -25,6 +25,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
 https://bitcoin.sipa.be/miniscript/
 https://miniscript.fun
 
+
+
+Matic: https://www.youtube.com/watch?v=GWUwFDFOipo
+https://www.youtube.com/watch?v=pc1yLO56pbg
 -->
 
 # DAA vol. #26 - Astar Network (ex Plasm Network), Tomasz Waszczyk
