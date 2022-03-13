@@ -57,6 +57,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 6. Astar Builders: https://share.hsforms.com/1UFPFJXq6S1SN-j1lyMrNIgc2ryh
 7. https://tofunft.com/nft/astar/0x1b57C69838cDbC59c8236DDa73287a4780B4831F/5809
 8. http://astarbots.com/
+9. https://astardomains.network/
 
 ---
 ---
