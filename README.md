@@ -61,6 +61,12 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 10. https://starlay.finance/app
 11. https://app.arthswap.org/#/swap
 
+<a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
+  <p align="center">
+    <img src="./_PREVIOUS_MEETUPS/24-02-2022-Astar/astar-flow.jpeg">
+  </p>
+</a>
+
 ---
 ---
 ---
