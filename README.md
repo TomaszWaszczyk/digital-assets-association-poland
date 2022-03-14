@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 7. https://tofunft.com/nft/astar/0x1b57C69838cDbC59c8236DDa73287a4780B4831F/5809
 8. http://astarbots.com/
 9. https://astardomains.network/
+10. https://starlay.finance/app
+11. https://app.arthswap.org/#/swap
 
 ---
 ---
