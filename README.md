@@ -57,9 +57,10 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 6. Astar Builders: https://share.hsforms.com/1UFPFJXq6S1SN-j1lyMrNIgc2ryh
 7. https://tofunft.com/nft/astar/0x1b57C69838cDbC59c8236DDa73287a4780B4831F/5809
 8. http://astarbots.com/
-9. https://astardomains.network/
-10. https://starlay.finance/app
-11. https://app.arthswap.org/#/swap
+9. https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js
+10. https://astardomains.network/
+11. https://starlay.finance/app
+12. https://app.arthswap.org/#/swap
 
 <a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
   <p align="center">
