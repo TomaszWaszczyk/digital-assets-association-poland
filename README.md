@@ -64,6 +64,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 13. https://asteroid.ac
 14. Bridge to Astar: https://cbridge.celer.network/#/transfer
 15. https://medium.com/arthswap/announcing-arthswap-ido-launchpad-pre-release-campaign-244fa21674a7
+16. https://talisman.xyz/
 
 
 <a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
