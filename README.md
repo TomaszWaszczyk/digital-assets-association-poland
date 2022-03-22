@@ -309,6 +309,8 @@ https://www.chevdor.com/post/2020/01/17/registrar1/
 
 https://github.com/substrate-developer-hub/hackathon-knowledge-map
 
+https://github.com/turboflakes/postmortems
+
 ## Podcast RelayChain
 
 https://relaychain.fm/ ==> https://www.iheart.com/podcast/269-relay-chain-48876090/
