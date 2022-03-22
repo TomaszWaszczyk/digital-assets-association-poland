@@ -65,6 +65,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 14. Bridge to Astar: https://cbridge.celer.network/#/transfer
 15. https://medium.com/arthswap/announcing-arthswap-ido-launchpad-pre-release-campaign-244fa21674a7
 16. https://talisman.xyz/
+17. https://forum.astar.network/t/individual-claim-on-shiden/2914?u=moonme
 
 
 <a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
