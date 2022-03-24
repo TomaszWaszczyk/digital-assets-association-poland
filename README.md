@@ -312,6 +312,8 @@ https://github.com/substrate-developer-hub/hackathon-knowledge-map
 
 https://github.com/turboflakes/postmortems
 
+https://www.crowdcast.io/e/polkadot-block-production
+
 ## Podcast RelayChain
 
 https://relaychain.fm/ ==> https://www.iheart.com/podcast/269-relay-chain-48876090/
