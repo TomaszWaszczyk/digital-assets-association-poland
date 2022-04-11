@@ -67,6 +67,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 16. https://talisman.xyz/
 17. https://forum.astar.network/t/individual-claim-on-shiden/2914?u=moonme
 18. https://docs.starlay.finance/marketing/ido
+19. https://novawallet.io/
 
 
 <a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
