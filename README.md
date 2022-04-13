@@ -76,7 +76,11 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
     <img src="./_PREVIOUS_MEETUPS/24-02-2022-Astar/astar-flow.jpg">
   </p>
 </a>
-
+<!--
+LP on dex; arthswap, polkaex
+Collateral on Starlay lending
+Buy NFTs on Tofunft
+-->
 ---
 ---
 ---
