@@ -124,6 +124,7 @@ Recording will be available on YouTube.
 9. https://app.subsocial.network/5545/bill-laboon-22986
 10. https://github.com/paritytech/substrate-connect
 11. https://github.com/w3f/1k-validators-be/pull/1719/files
+12. https://www.brightid.org/
 
 ---
 ---
