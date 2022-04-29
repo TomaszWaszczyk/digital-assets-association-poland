@@ -70,6 +70,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 19. https://novawallet.io/
 20. https://medium.com/astar-network/build2earn-top-astar-projects-for-staking-on-astar-3e6083776fb
 21. https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-plus-extension/
+22. https://substrate.io/ecosystem/square-one/
 
 
 <a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
