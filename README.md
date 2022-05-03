@@ -73,6 +73,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 22. https://substrate.io/ecosystem/square-one/
 23. https://certificate.quantstamp.com/full/arth-swap
 
+<!-- https://www.evixar.com/ -->
 
 <a href="https://docs.astar.network/tutorial/how-to-send-astr-sdn-from-metamask-to-polkadot.js">
   <p align="center">
