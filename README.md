@@ -72,6 +72,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 21. https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-plus-extension/
 22. https://substrate.io/ecosystem/square-one/
 23. https://certificate.quantstamp.com/full/arth-swap
+24. https://openbrush.io/
 
 <!-- https://www.evixar.com/ -->
 
