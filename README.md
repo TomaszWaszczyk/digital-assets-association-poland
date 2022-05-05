@@ -74,6 +74,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 23. https://certificate.quantstamp.com/full/arth-swap
 24. https://openbrush.io/
 25. https://app.subsocial.network/@yoseppy/what-is-astar-who-is-behind-it-and-why-astr-part-2-31327
+26. https://drive.google.com/drive/folders/1wdlVeZp6aS3ZqekP0nSwT99WoaWV7KX8
 
 <!-- https://www.evixar.com/ -->
 
