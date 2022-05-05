@@ -73,6 +73,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 22. https://substrate.io/ecosystem/square-one/
 23. https://certificate.quantstamp.com/full/arth-swap
 24. https://openbrush.io/
+25. https://app.subsocial.network/@yoseppy/what-is-astar-who-is-behind-it-and-why-astr-part-2-31327
 
 <!-- https://www.evixar.com/ -->
 
