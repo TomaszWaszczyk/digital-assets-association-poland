@@ -133,6 +133,7 @@ Recording will be available on YouTube.
 11. https://github.com/w3f/1k-validators-be/pull/1719/files
 12. https://www.brightid.org/
 13. https://github.com/kabocha-network/relay-chain/tree/v0.9.16-n1
+14. https://github.com/paritytech/substrate/pull/11324
 
 ---
 ---
