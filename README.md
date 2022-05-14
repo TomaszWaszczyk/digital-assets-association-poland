@@ -75,6 +75,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 24. https://openbrush.io/
 25. https://app.subsocial.network/@yoseppy/what-is-astar-who-is-behind-it-and-why-astr-part-2-31327
 26. https://drive.google.com/drive/folders/1wdlVeZp6aS3ZqekP0nSwT99WoaWV7KX8
+27. https://docs.chain.link/docs/hackathon-resources/
 
 <!-- https://www.evixar.com/ -->
 
