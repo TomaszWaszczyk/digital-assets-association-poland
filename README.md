@@ -136,6 +136,8 @@ Recording will be available on YouTube.
 12. https://www.brightid.org/
 13. https://github.com/kabocha-network/relay-chain/tree/v0.9.16-n1
 14. https://github.com/paritytech/substrate/pull/11324
+15. https://docs.rmrk.app/concepts/
+16. https://github.com/paritytech/substrate/issues/11405
 
 ---
 ---
