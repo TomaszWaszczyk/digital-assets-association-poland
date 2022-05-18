@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 26. https://drive.google.com/drive/folders/1wdlVeZp6aS3ZqekP0nSwT99WoaWV7KX8
 27. https://docs.chain.link/docs/hackathon-resources/
 28. https://v2-docs.zksync.io/dev/
+29. https://github.com/eth-brownie/brownie
 
 <!-- https://www.evixar.com/ -->
 
