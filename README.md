@@ -79,6 +79,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 28. https://v2-docs.zksync.io/dev/
 29. https://github.com/eth-brownie/brownie
 30. https://medium.com/astar-network/using-astar-network-account-between-substrate-and-evm-656643df22a0
+31. https://github.com/AstarNetwork/brand-assets
 
 <!-- https://www.evixar.com/ -->
 
