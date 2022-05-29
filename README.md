@@ -25,6 +25,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
 https://bitcoin.sipa.be/miniscript/
 https://miniscript.fun
 https://dci.mit.edu/smart-contracts 
+https://redstone.finance/
+
 
 
 Matic: https://www.youtube.com/watch?v=GWUwFDFOipo
