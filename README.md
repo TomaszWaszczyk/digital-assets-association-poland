@@ -82,6 +82,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 29. https://github.com/eth-brownie/brownie
 30. https://medium.com/astar-network/using-astar-network-account-between-substrate-and-evm-656643df22a0
 31. https://github.com/AstarNetwork/brand-assets
+32. https://subwallet.app/
 
 <!-- https://www.evixar.com/ -->
 
