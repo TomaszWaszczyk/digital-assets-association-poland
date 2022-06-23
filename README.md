@@ -145,6 +145,7 @@ Recording will be available on YouTube.
 15. https://docs.rmrk.app/concepts/
 16. https://github.com/paritytech/substrate/issues/11405
 17. https://www.popex.net/
+18. https://polkawatch.app/
 
 ---
 ---
