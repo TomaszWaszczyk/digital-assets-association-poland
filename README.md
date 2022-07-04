@@ -83,6 +83,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 30. https://medium.com/astar-network/using-astar-network-account-between-substrate-and-evm-656643df22a0
 31. https://github.com/AstarNetwork/brand-assets
 32. https://subwallet.app/
+33. https://juicebox.money
 
 <!-- https://www.evixar.com/ -->
 
