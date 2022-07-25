@@ -147,6 +147,7 @@ Recording will be available on YouTube.
 16. https://github.com/paritytech/substrate/issues/11405
 17. https://www.popex.net/
 18. https://polkawatch.app/
+19. https://polkaproject.com
 
 ---
 ---
