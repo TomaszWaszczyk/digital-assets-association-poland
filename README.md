@@ -148,6 +148,7 @@ Recording will be available on YouTube.
 17. https://www.popex.net/
 18. https://polkawatch.app/
 19. https://polkaproject.com
+20. https://paritytech.github.io/polkadot/book/index.html
 
 ---
 ---
