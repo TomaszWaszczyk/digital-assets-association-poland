@@ -85,6 +85,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 31. https://github.com/AstarNetwork/brand-assets
 32. https://subwallet.app/
 33. https://juicebox.money
+34. https://docs.substrate.io/tutorials/work-with-pallets/use-macros-in-a-custom-pallet/
 
 <!-- https://www.evixar.com/ -->
 
