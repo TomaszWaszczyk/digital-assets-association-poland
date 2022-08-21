@@ -86,6 +86,8 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 32. https://subwallet.app/
 33. https://juicebox.money
 34. https://docs.substrate.io/tutorials/work-with-pallets/use-macros-in-a-custom-pallet/
+35. https://42.fr/en/the-program/innovative-learning/
+
 
 <!-- https://www.evixar.com/ -->
 
