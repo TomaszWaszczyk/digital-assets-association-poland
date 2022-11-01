@@ -88,6 +88,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 34. https://docs.substrate.io/tutorials/work-with-pallets/use-macros-in-a-custom-pallet/
 35. https://42.fr/en/the-program/innovative-learning/
 36. https://docs.astar.network/docs/wasm/sc-dev/swanky/
+37. https://use.ink/why-webassembly-for-smart-contracts/
 
 
 <!-- https://www.evixar.com/ -->
