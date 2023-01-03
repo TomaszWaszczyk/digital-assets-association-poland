@@ -161,6 +161,8 @@ Recording will be available on YouTube.
 20. https://paritytech.github.io/polkadot/book/index.html
 21. https://kusama.subscan.io/xcm_dashboard
 22. https://www.notion.so/Community-Events-Bounty-3dc41e32c4f64dc5bee5ad60c3a22432
+23. https://pep.wtf/posts/parachains-consensus/
+
 
 ---
 ---
