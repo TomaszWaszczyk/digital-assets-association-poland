@@ -138,6 +138,7 @@ Recording will be available on YouTube.
 
 ## :link: Links
 
+0. https://paritytech.github.io/polkadot/book/
 1. https://polkadot.network/
 2. https://github.com/TomaszWaszczyk/silesia-blockchain-meetup/issues/new
 3. https://www.amazon.com/Strength-Numbers-Cryptocurrency-Bill-Laboon-ebook/dp/B07B75SL2C
