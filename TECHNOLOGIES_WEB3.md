@@ -2,7 +2,7 @@
 
 - Solidity
 - ink!
-- Foundry
+- Foundry https://book.getfoundry.sh/
 - Arweave
 - Budlr
 - Alchemy SDK
