@@ -1,17 +1,17 @@
 # Manifest
 
 Everybody „investing“ into digital assets should read: 
-1) brave new world 
+1) brave new world
 
-2) 1984 
+2) 1984
 
-3) a cypherpunk manifesto 
+3) a cypherpunk manifesto
 
-4) open source everything manifesto 
+4) open source everything manifesto
 
-5) no place to hide and watch the documentaries 
+5) no place to hide and watch the documentaries
 
-6) the internets own boy 
+6) the internets own boy
 
 7) deep web to get at least a tiny little clue of what this is all about.
 
