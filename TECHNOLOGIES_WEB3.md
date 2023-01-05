@@ -1,6 +1,7 @@
 ## Web3 technologies you should learn
 
 - Solidity
+- ink!
 - Foundry
 - Arweave
 - Budlr
