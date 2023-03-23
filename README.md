@@ -21,17 +21,22 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRk1upWUE3JLQX2UbDj0gXFa_rLcvQhUxPXv3j
   </p>
 </a>
 
-
 https://bitcoin.sipa.be/miniscript/
 https://miniscript.fun
 https://dci.mit.edu/smart-contracts 
 https://redstone.finance/
 
-
-
 Matic: https://www.youtube.com/watch?v=GWUwFDFOipo
 https://www.youtube.com/watch?v=pc1yLO56pbg
 -->
+
+💡 I DO recommend! 💡
+
+<a href="https://polkadot.network/development/academy/">
+  <p align="center">
+    <img src="./resources/../_Inne/resources/pba.jpeg">
+  </p>
+</a>
 
 # DAA vol. #26 - Astar Network (ex Plasm Network), Tomasz Waszczyk
 
