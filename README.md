@@ -30,7 +30,7 @@ Matic: https://www.youtube.com/watch?v=GWUwFDFOipo
 https://www.youtube.com/watch?v=pc1yLO56pbg
 -->
 
-💡 I DO recommend! 💡
+💡 [I DO recommend!](https://w3f.github.io/w3f-education/docs/introrust) 💡
 
 <a href="https://polkadot.network/development/academy/">
   <p align="center">
