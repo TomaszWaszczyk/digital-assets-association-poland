@@ -97,6 +97,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 38. https://solarflare.io/exchange/pool
 39. https://docs.openbrush.io/
 40. https://global.transak.com/
+41. http://www.distributedsystemscourse.com
 
 
 - https://github.com/paritytech/substrate/issues?q=is%3Aopen+is%3Aissue+label%3AZ1-mentor
