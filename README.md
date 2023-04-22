@@ -103,7 +103,6 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 - https://github.com/paritytech/substrate/issues?q=is%3Aopen+is%3Aissue+label%3AZ1-mentor
 - https://github.com/paritytech/polkadot/blob/88d66ac669c5f9c5d82651ff70fda9691f4e0ece/runtime/parachains/src/reward_points.rs#L63
 - https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22When+Thou+Have+Spare+Hour%22
-- https://github.com/paritytech/parity-bridges-common/issues/333
 
 
 <!-- https://www.evixar.com/ -->
