@@ -56,6 +56,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 
 ## :link: Links
 
+-1. https://spec.polkadot.network
 0. https://ncase.me/trust/ - the evolution of trust
 1. https://astarhub.io/
 2. https://astar.network/
