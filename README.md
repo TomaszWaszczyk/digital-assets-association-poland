@@ -56,7 +56,6 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 
 ## :link: Links
 
--1. https://spec.polkadot.network
 0. https://ncase.me/trust/ - the evolution of trust
 1. https://astarhub.io/
 2. https://astar.network/
@@ -99,7 +98,7 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 39. https://docs.openbrush.io/
 40. https://global.transak.com/
 41. http://www.distributedsystemscourse.com
-
+42. https://spec.polkadot.network
 
 - https://github.com/paritytech/substrate/issues?q=is%3Aopen+is%3Aissue+label%3AZ1-mentor
 - https://github.com/paritytech/polkadot/blob/88d66ac669c5f9c5d82651ff70fda9691f4e0ece/runtime/parachains/src/reward_points.rs#L63
