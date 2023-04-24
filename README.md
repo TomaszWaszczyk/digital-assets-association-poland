@@ -98,7 +98,9 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 39. https://docs.openbrush.io/
 40. https://global.transak.com/
 41. http://www.distributedsystemscourse.com
-42. https://spec.polkadot.network
+42. 📝 https://spec.polkadot.network
+43. https://substrate-developer-hub.github.io/newsletter/
+44. https://polkaverse.com/10647
 
 - https://github.com/paritytech/substrate/issues?q=is%3Aopen+is%3Aissue+label%3AZ1-mentor
 - https://github.com/paritytech/polkadot/blob/88d66ac669c5f9c5d82651ff70fda9691f4e0ece/runtime/parachains/src/reward_points.rs#L63
