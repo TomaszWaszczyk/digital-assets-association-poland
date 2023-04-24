@@ -30,9 +30,7 @@ Matic: https://www.youtube.com/watch?v=GWUwFDFOipo
 https://www.youtube.com/watch?v=pc1yLO56pbg
 -->
 
-💡 [I DO recommend!](https://w3f.github.io/w3f-education/docs/introrust) 💡
-
-🧑‍💻 [Rust entry exam](https://github.com/Polkadot-Blockchain-Academy/pba-qualifier-exam) 🧑‍💻
+| 💡 [I DO recommend!](https://w3f.github.io/w3f-education/docs/introrust) 💡 | 🧑‍💻 [Rust entry exam](https://github.com/Polkadot-Blockchain-Academy/pba-qualifier-exam) 🧑‍💻 |
 
 <a href="https://polkadot.network/development/academy/">
   <p align="center">
