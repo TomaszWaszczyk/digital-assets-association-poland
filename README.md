@@ -114,6 +114,15 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
     <img src="./_PREVIOUS_MEETUPS/24-02-2022-Astar/astar-flow.jpg">
   </p>
 </a>
+
+---
+https://eth-converter.com/
+
+https://emn178.github.io/online-tools/keccak_256.html
+
+https://www.epochconverter.com/
+---
+
 <!--
 LP on dex; arthswap, polkaex
 Collateral on Starlay lending
