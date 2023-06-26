@@ -1,3 +1,7 @@
+## Notes
+
+"Packed values reduce contract's size but may increase gas costs." => https://youtu.be/rm3M7VxuzbY?t=1369
+
 ## Web3 technologies you should learn
 
 - Solidity
