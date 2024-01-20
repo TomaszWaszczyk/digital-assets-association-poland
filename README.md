@@ -103,6 +103,7 @@ https://www.polkadotglobalseries.com/incubator/
 42. 📝 https://spec.polkadot.network
 43. https://substrate-developer-hub.github.io/newsletter/
 44. https://polkaverse.com/10647
+45. https://coinfabrik.github.io/scout/docs/intro
 
 - https://github.com/paritytech/substrate/issues?q=is%3Aopen+is%3Aissue+label%3AZ1-mentor
 - https://github.com/paritytech/polkadot/blob/88d66ac669c5f9c5d82651ff70fda9691f4e0ece/runtime/parachains/src/reward_points.rs#L63
