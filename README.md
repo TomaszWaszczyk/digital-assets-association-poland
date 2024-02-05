@@ -1,3 +1,4 @@
+ ⚡️ daap@getalby.com
 <!--
 https://resources.curve.fi/
 
