@@ -33,13 +33,40 @@ https://www.youtube.com/watch?v=pc1yLO56pbg
 
 💡 [I DO recommend!](https://w3f.github.io/w3f-education/docs/introrust) 💡  🧑‍💻 [Rust entry exam](https://github.com/Polkadot-Blockchain-Academy/pba-qualifier-exam) 🧑‍💻 [Tech Stack](https://wiki.polkadot.network/docs/build-open-source)
 
-https://www.polkadotglobalseries.com/incubator/
+# SBM vol. #35 - [KRAKÓW] Vexl in Poland
 
-<a href="https://polkadot.network/development/academy/">
+<a href="https://vexl.it/">
   <p align="center">
-    <img src="./resources/../_Inne/resources/pba.jpeg">
+    <img src="./resources/../_Inne/resources/vexl.png">
   </p>
 </a>
+
+## Agenda
+
+```
+0. Do I correctly understand that the whole application is open source. The whole source code is fully reproducible? I mean, can I run my own instance of Vexl in production mode?
+1. There is any web application of Vexl?
+2. What about law? I mean, are you going to store data about users?
+3. I want (generally speaking) build similar application, there is any lesson learn that you have learnt (but now it is too late) to improve like maybe some better library, framework etc. Etc
+4. Are you going to store data about XPubs?
+5. Could you describe in three bits how do you test the application? Do you use any automated tests?
+6. Are you going to be profitable as a company? I mean, what if the money from investors will be eaten?
+7. I think you need more social features, my humble suggestion is that you have potential to be many levels more useful than "Tinder"
+8. Maybe you was considering Rust on backend?
+9. What was the biggest technical challange that you have solved and what features are you going to implement? Do you have any issues with audit on App Store?
+10. Do you have any definition of success of Vexl? What is the end game of the vision of Vexl?
+11. How can I support and help Vexl? Are you going to be on Bitcoin FIlmfest? ;-)
+
+1. How costly is maintenance of the app now? How can we know it will persist into the future
+2. I understand that you use different databases for storing different data type. Can you explain how you split data, how you combine it and what are potential risks?
+3. Any roadmap for other features or do you consider app a complete as is - it serves it purpouse and with growing adoption there will be enough offers which the app is all about.
+4. Is it just a hobby project at Trezor/Satoshi Labs or do you plan to integrate it with your hardware wallet?
+```
+
+---
+---
+---
+---
 
 # DAA vol. #26 - Astar Network (ex Plasm Network), Tomasz Waszczyk
 
